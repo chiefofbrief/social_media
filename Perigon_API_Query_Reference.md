@@ -551,8 +551,8 @@ story = {
 ```
 
 **What to extract:**
-- **Magnitude**: uniqueCount (>50 = viral, >100 = massive)
-- **Emotion**: sentiment scores (negative >0.5 = high-arousal)
-- **Angles**: keyPoints for contrarian narratives, specific impacts, insider dissent
-- **Reactions**: Look for protests, pushback, meme-worthy quotes
-- **Connections**: topics that link to other trending issues
+- **uniqueCount**: Number of articles covering this story
+- **sentiment**: Scores for positive, negative, neutral (sum = 1.0)
+- **keyPoints**: Specific claims, quotes, and facts from coverage
+- **topPeople/topCompanies**: Key entities mentioned across articles
+- **topics**: Subject areas tagged across the story
