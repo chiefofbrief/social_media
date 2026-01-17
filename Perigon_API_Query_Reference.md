@@ -489,3 +489,70 @@ response = requests.post(
 - When exact keywords might miss relevant content
 - Good for thematic exploration
 - "Find articles about X without saying Y"
+
+---
+
+## Viral Content Workflow Integration
+
+### Default Approach: Stories Endpoint
+
+**Why Stories wins for viral content:**
+1. **Story magnitude** (`uniqueCount`) = instant virality indicator (191 articles = massive)
+2. **keyPoints** = gold mine of contrarian angles, debunking opportunities, insider dissent
+3. **Multi-thread narratives** - reveals protests, geopolitical tensions, specific impacts
+4. **Emotional hooks** - captures human reactions, protest signs, meme-worthy quotes
+5. **Cross-topic virality** - shows connections to other trending topics
+
+**When to use Vector instead:**
+- Thematic/conceptual seeds with no clear entities ("AI workplace anxiety")
+- Fuzzy topics where keywords might vary significantly
+- Exploratory research on abstract concepts
+
+### Filtering Strategy: Less is More
+
+**DO use:**
+- Date range (7-30 days depending on topic freshness)
+- `category` if obvious (e.g., Tech, Politics)
+- `minUniqueSources=2` for Stories (filters out single-source stories)
+- `showReprints=False` (avoid duplicates)
+
+**DON'T filter out:**
+- Opinion pieces (hot takes = viral gold)
+- Paid News (sometimes reveals industry narratives)
+- Specific sources (want diverse perspectives for unexpected angles)
+
+**Why minimal filtering:**
+- The "wrong" category might have the best viral angle
+- Over-filtering = missed contrarian narratives
+- We're context gathering, not precision targeting
+
+### Key Response Fields for Viral Analysis
+
+**From Stories response:**
+```python
+story = {
+    'uniqueCount': 191,          # Magnitude indicator
+    'sentiment': {
+        'negative': 0.606,        # High-arousal emotion
+        'positive': 0.092
+    },
+    'keyPoints': [                # Contrarian angles, specific hooks
+        {'point': 'State Dept official calls it "self-evidently bullshit"'},
+        {'point': 'Historical claim is FALSE'},
+        {'point': 'Pharmaceuticals most affected'}
+    ],
+    'topPeople': ['Donald Trump'],
+    'topics': [                   # Cross-category potential
+        {'name': 'US Politics'},
+        {'name': 'Markets'},
+        {'name': 'Protests'}
+    ]
+}
+```
+
+**What to extract:**
+- **Magnitude**: uniqueCount (>50 = viral, >100 = massive)
+- **Emotion**: sentiment scores (negative >0.5 = high-arousal)
+- **Angles**: keyPoints for contrarian narratives, specific impacts, insider dissent
+- **Reactions**: Look for protests, pushback, meme-worthy quotes
+- **Connections**: topics that link to other trending issues
