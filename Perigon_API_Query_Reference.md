@@ -285,10 +285,19 @@ payload = {
 response = requests.post(
     'https://api.goperigon.com/v1/vector/news/all',
     json=payload,
-    params={'apiKey': PERIGON_KEY},
-    headers={'Content-Type': 'application/json'},
+    headers={
+        'x-api-key': PERIGON_KEY,  # Note: header auth, not query param
+        'Content-Type': 'application/json'
+    },
     timeout=15
 )
+data = response.json()
+
+# Vector response structure: results contain score + data objects
+for result in data.get('results', []):
+    article = result['data']
+    score = result['score']  # Semantic relevance score (0-1)
+    title = article.get('title')
 ```
 
 ### Retry Logic Pattern
@@ -391,6 +400,74 @@ response = requests.get('https://api.goperigon.com/v1/stories/all',
 - **Negative sentiment (0.606)** - high-arousal emotion confirmed
 - **Topics**: US Politics, Markets, Congress - cross-category viral potential
 - **Multiple follow-on stories** - protests, EU response, Congressional pushback
+
+---
+
+### Vector Search Comparison (Same Seed)
+
+**Semantic Prompt:**
+```
+prompt: "Trump threatens tariffs on European countries to pressure Denmark into selling Greenland"
+```
+
+**Why Vector:**
+- Natural language query instead of Boolean operators
+- Semantic matching finds conceptually related articles
+- Good for exploratory research when exact keywords might vary
+
+**Full Request:**
+```python
+payload = {
+    'prompt': 'Trump threatens tariffs on European countries to pressure Denmark into selling Greenland',
+    'size': 10,
+    'pubDateFrom': '2026-01-10',
+    'pubDateTo': '2026-01-18',
+    'showReprints': False
+}
+
+response = requests.post(
+    'https://api.goperigon.com/v1/vector/news/all',
+    json=payload,
+    headers={
+        'x-api-key': PERIGON_KEY,
+        'Content-Type': 'application/json'
+    },
+    timeout=15
+)
+```
+
+**Sample Response:**
+```json
+{
+  "numResults": 10,
+  "articles": [
+    {
+      "title": "Trump threatens 10% tariffs on eight European nations over Greenland purchase demand",
+      "source": "telegraphindia.com",
+      "score": 0.842,
+      "pubDate": "2026-01-17T22:40:51+05:30",
+      "people": ["Chris Coons", "Donald Trump"]
+    },
+    {
+      "title": "Trump says Europe will face tariffs until Denmark gives up Greenland",
+      "source": "thecentersquare.com",
+      "score": 0.839,
+      "pubDate": "2026-01-17T11:11:00-06:00",
+      "people": ["Donald Trump"]
+    }
+  ]
+}
+```
+
+**Key Differences:**
+- **10 individual articles** vs 8 story clusters
+- **Relevance scores** (0.84-0.85) show semantic similarity
+- **Different sources** than Stories (more diverse, international coverage)
+- **No clustering** - each article stands alone
+
+**Boolean (Stories) vs Vector:**
+- **Use Boolean** when you have specific entities/keywords and want aggregated context
+- **Use Vector** when exploring themes, catching paraphrases, or when keywords might vary
 
 ### When to Use Stories vs Articles vs Vector
 
