@@ -237,3 +237,178 @@ city=Austin&positiveSentimentFrom=0.6&category=Tech
 ```
 q=crypto*&excludeSource=buzzfeed.com
 ```
+
+---
+
+## Implementation Guide
+
+### Authentication
+API key is stored in environment variable: `PERIGON_API_KEY`
+
+### Making Requests
+
+**Stories Endpoint (Recommended for context gathering):**
+```python
+import os
+import requests
+
+PERIGON_KEY = os.environ.get('PERIGON_API_KEY')
+
+params = {
+    'apiKey': PERIGON_KEY,
+    'q': '(Trump AND Greenland AND tariff*)',
+    'from': '2026-01-10',
+    'to': '2026-01-18',
+    'sortBy': 'relevance',
+    'category': 'Politics,Business,World',
+    'size': 10,
+    'minUniqueSources': 2,
+    'showReprints': False
+}
+
+response = requests.get('https://api.goperigon.com/v1/stories/all',
+                       params=params,
+                       timeout=15)
+data = response.json()
+```
+
+**Vector Search Endpoint (Semantic queries):**
+```python
+payload = {
+    'prompt': 'Trump threatens tariffs on European countries to pressure Denmark',
+    'size': 10,
+    'pubDateFrom': '2026-01-10',
+    'pubDateTo': '2026-01-18',
+    'showReprints': False
+}
+
+response = requests.post(
+    'https://api.goperigon.com/v1/vector/news/all',
+    json=payload,
+    params={'apiKey': PERIGON_KEY},
+    headers={'Content-Type': 'application/json'},
+    timeout=15
+)
+```
+
+### Retry Logic Pattern
+
+```python
+import time
+
+MAX_RETRIES = 3
+RETRY_STATUS_CODES = [429, 403, 500, 502, 503]
+RETRY_BASE_WAIT = 5
+
+def make_request_with_retry(request_func):
+    for attempt in range(MAX_RETRIES):
+        try:
+            response = request_func()
+            response.raise_for_status()
+            return response.json()
+        except requests.exceptions.HTTPError as e:
+            if e.response.status_code in RETRY_STATUS_CODES:
+                wait_time = (2 ** attempt) * RETRY_BASE_WAIT
+                print(f"Retrying in {wait_time}s...")
+                time.sleep(wait_time)
+                if attempt == MAX_RETRIES - 1:
+                    return {'error': str(e), 'results': []}
+            else:
+                return {'error': str(e), 'results': []}
+    return {'results': []}
+```
+
+---
+
+## Working Example: Trump Greenland Tariffs
+
+### Seed Excerpt
+"Trump to Hit European Nations with 10% Tariffs in Bid for Greenland Deal. President says the levies will go into effect Feb. 1 to pressure the countries into approving the acquisition."
+
+### Seed Analysis
+- **Entities**: Trump, Denmark, Greenland, EU countries
+- **Topic**: Tariffs, geopolitical leverage, territorial acquisition
+- **Categories**: Politics, Business, World
+- **Emotion**: High-arousal (anger, surprise, controversy)
+- **Timing**: Breaking news (Jan 17, 2026)
+
+### Boolean Query Construction
+```
+q=(Trump AND Greenland AND tariff*)
+```
+
+**Why this query:**
+- `Trump` + `Greenland` - Core entities
+- `tariff*` - Wildcard catches tariff, tariffs, tariffing
+- Parentheses group the AND logic
+- No exclusions needed (story is specific enough)
+
+### Full Request
+```python
+params = {
+    'apiKey': PERIGON_KEY,
+    'q': '(Trump AND Greenland AND tariff*)',
+    'from': '2026-01-10',      # 7 days back for breaking news
+    'to': '2026-01-18',
+    'sortBy': 'relevance',
+    'category': 'Politics,Business,World',
+    'size': 10,
+    'minUniqueSources': 2,
+    'showReprints': False
+}
+
+response = requests.get('https://api.goperigon.com/v1/stories/all',
+                       params=params, timeout=15)
+```
+
+### Sample Response
+```json
+{
+  "numResults": 8,
+  "stories": [
+    {
+      "name": "Trump Imposes Tariffs, Presses to Buy Greenland",
+      "summary": "On Jan. 17, President Donald Trump announced that the United States will impose a 10% tariff on goods from Denmark, Norway, Sweden, France, Germany, the United Kingdom, the Netherlands and Finland...",
+      "sentiment": {
+        "positive": 0.092,
+        "negative": 0.606,
+        "neutral": 0.303
+      },
+      "uniqueCount": 185,
+      "topPeople": ["Donald Trump"],
+      "topics": [
+        {"name": "US Politics", "count": 5},
+        {"name": "Markets", "count": 15},
+        {"name": "Congress", "count": 3}
+      ]
+    }
+  ]
+}
+```
+
+### Key Insights from Response
+- **185 unique articles** clustered into this story - major coverage
+- **Negative sentiment (0.606)** - high-arousal emotion confirmed
+- **Topics**: US Politics, Markets, Congress - cross-category viral potential
+- **Multiple follow-on stories** - protests, EU response, Congressional pushback
+
+### When to Use Stories vs Articles vs Vector
+
+**Stories** (Recommended for viral content workflow):
+- Aggregates coverage across multiple sources
+- AI-generated summaries provide quick context
+- `uniqueCount` shows story magnitude
+- `topPeople`/`topCompanies`/`topTopics` identify key players
+- Best for understanding "what's the big story here?"
+
+**Articles**:
+- Individual pieces for granular analysis
+- Full content access when needed
+- More results but potentially redundant
+- Better for specific sourcing needs
+
+**Vector Search**:
+- Semantic/conceptual queries
+- When exact keywords might miss relevant content
+- Good for thematic exploration
+- "Find articles about X without saying Y"
