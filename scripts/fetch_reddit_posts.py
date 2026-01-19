@@ -2,9 +2,8 @@
 """
 Fetch top Reddit posts from a subreddit using SociaVault API.
 
-This script fetches top posts from a specified subreddit and saves:
-1. Raw JSON response to data/reddit/ directory
-2. Lightweight summary with key metrics (minimal context tokens)
+This script fetches top posts from a specified subreddit and saves
+the raw JSON response to data/reddit/ directory for later analysis.
 
 Usage:
     python fetch_reddit_posts.py --subreddit ValueInvesting --timeframe month
@@ -92,60 +91,6 @@ def save_raw_data(data: Dict[str, Any], subreddit: str, timeframe: str, sort: st
     return filename
 
 
-def generate_summary(data: Dict[str, Any], subreddit: str) -> str:
-    """Generate lightweight summary of posts (token-efficient)."""
-    # API returns posts as nested object: data.posts.{0, 1, 2, ...}
-    posts_dict = data.get('data', {}).get('posts', {})
-    posts = list(posts_dict.values()) if isinstance(posts_dict, dict) else []
-
-    summary_lines = [
-        f"# Reddit Posts Summary: r/{subreddit}",
-        f"Fetched: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
-        f"Total Posts: {len(posts)}",
-        "",
-        "## Key Metrics Overview",
-        ""
-    ]
-
-    if posts:
-        scores = [p.get('score', 0) for p in posts]
-        comments = [p.get('num_comments', 0) for p in posts]
-
-        summary_lines.extend([
-            f"- Average Score: {sum(scores) / len(scores):.1f}",
-            f"- Average Comments: {sum(comments) / len(comments):.1f}",
-            f"- Highest Score: {max(scores)}",
-            f"- Most Comments: {max(comments)}",
-            "",
-            "## Top Posts",
-            ""
-        ])
-
-        # List top posts with key metrics only
-        for i, post in enumerate(posts[:30], 1):
-            title = post.get('title', 'N/A')[:80]  # Truncate long titles
-            score = post.get('score', 0)
-            comments_count = post.get('num_comments', 0)
-            upvote_ratio = post.get('upvote_ratio', 0)
-
-            # Determine post type based on API fields
-            if post.get('is_video', False):
-                post_type = "Video"
-            elif post.get('is_self', False):
-                post_type = "Text"
-            else:
-                post_type = "Link"
-
-            url = post.get('url', '')
-
-            summary_lines.append(
-                f"{i}. **{title}**\n"
-                f"   - Score: {score} | Comments: {comments_count} | "
-                f"Upvote Ratio: {upvote_ratio:.2f} | Type: {post_type}\n"
-                f"   - URL: {url}\n"
-            )
-
-    return "\n".join(summary_lines)
 
 
 def main():
@@ -208,23 +153,13 @@ def main():
         json_file = save_raw_data(data, args.subreddit, args.timeframe, args.sort)
         print(f"\n✓ Raw data saved to: {json_file}")
 
-        # Generate and save summary
-        summary = generate_summary(data, args.subreddit)
-        summary_file = f"data/reddit/{args.subreddit}_summary.md"
-        with open(summary_file, 'w', encoding='utf-8') as f:
-            f.write(summary)
-        print(f"✓ Summary saved to: {summary_file}")
-
-        # Print summary to console
-        print("\n" + "="*80)
-        print(summary)
-        print("="*80)
-
         # Get actual post count from nested structure
         posts_dict = data.get('data', {}).get('posts', {})
         post_count = len(posts_dict) if isinstance(posts_dict, dict) else 0
-        print(f"\n✓ Successfully fetched {post_count} posts")
+
+        print(f"✓ Successfully fetched {post_count} posts")
         print(f"✓ Cost: 1 API credit")
+        print(f"\nRaw JSON contains full post data including titles and body text.")
 
     except requests.exceptions.HTTPError as e:
         print(f"HTTP Error: {e}", file=sys.stderr)

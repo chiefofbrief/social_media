@@ -42,17 +42,13 @@ python scripts/fetch_reddit_posts.py \
 
 ### Output
 
-The script generates two files in `data/reddit/`:
+The script saves one file in `data/reddit/`:
 
-1. **Raw JSON**: `{subreddit}_{sort}_{timeframe}_{timestamp}.json`
-   - Complete API response with all post data
-   - Preserved for detailed analysis
-   - Not loaded into Claude context
-
-2. **Summary**: `{subreddit}_summary.md`
-   - Lightweight markdown with key metrics
-   - Token-efficient for Claude analysis
-   - Lists titles, scores, comments, upvote ratios
+**Raw JSON**: `{subreddit}_{sort}_{timeframe}_{timestamp}.json`
+- Complete API response with all post data
+- Includes full titles and body text (`selftext` field)
+- Ready for analysis with custom scripts or Claude
+- Key fields: `title`, `selftext`, `score`, `num_comments`, `upvote_ratio`, `is_self`, `is_video`, `author`, `created_utc`
 
 ### Cost
 
