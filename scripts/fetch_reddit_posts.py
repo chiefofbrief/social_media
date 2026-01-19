@@ -7,7 +7,7 @@ This script fetches top posts from a specified subreddit and saves:
 2. Lightweight summary with key metrics (minimal context tokens)
 
 Usage:
-    python fetch_reddit_posts.py --subreddit ValueInvesting --limit 30 --timeframe month
+    python fetch_reddit_posts.py --subreddit ValueInvesting --timeframe month
 
 Environment Variables:
     SOCIAVAULT_API_KEY: Your SociaVault API key
@@ -49,7 +49,6 @@ class SociaVaultClient:
         subreddit: str,
         timeframe: str = "month",
         sort: str = "top",
-        limit: int = 30,
         trim: bool = False
     ) -> Dict[str, Any]:
         """
@@ -59,17 +58,15 @@ class SociaVaultClient:
             subreddit: Subreddit name (without r/ prefix)
             timeframe: Time period (hour, day, week, month, year, all)
             sort: Sort method (top, new, hot, rising, controversial)
-            limit: Number of posts to fetch (max typically 100)
             trim: If True, returns trimmed response (faster, less data)
 
         Returns:
-            API response as dictionary
+            API response as dictionary (typically ~25 posts per page)
         """
         params = {
             "subreddit": subreddit,
             "timeframe": timeframe,
             "sort": sort,
-            "limit": limit,
             "trim": trim
         }
 
@@ -130,7 +127,15 @@ def generate_summary(data: Dict[str, Any], subreddit: str) -> str:
             score = post.get('score', 0)
             comments_count = post.get('num_comments', 0)
             upvote_ratio = post.get('upvote_ratio', 0)
-            post_type = "Text" if post.get('selftext') else "Link"
+
+            # Determine post type based on API fields
+            if post.get('is_video', False):
+                post_type = "Video"
+            elif post.get('is_self', False):
+                post_type = "Text"
+            else:
+                post_type = "Link"
+
             url = post.get('url', '')
 
             summary_lines.append(
@@ -166,12 +171,6 @@ def main():
         help="Sort method (default: top)"
     )
     parser.add_argument(
-        "--limit",
-        type=int,
-        default=30,
-        help="Number of posts to fetch (default: 30)"
-    )
-    parser.add_argument(
         "--trim",
         action="store_true",
         help="Use trimmed response (faster, less data)"
@@ -195,14 +194,13 @@ def main():
         print(f"Available credits: {credits_info.get('credits', 'unknown')}")
 
         # Fetch posts
-        print(f"\nFetching {args.limit} posts from r/{args.subreddit}...")
+        print(f"\nFetching posts from r/{args.subreddit}...")
         print(f"Parameters: timeframe={args.timeframe}, sort={args.sort}, trim={args.trim}")
 
         data = client.fetch_subreddit_posts(
             subreddit=args.subreddit,
             timeframe=args.timeframe,
             sort=args.sort,
-            limit=args.limit,
             trim=args.trim
         )
 

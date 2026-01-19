@@ -18,7 +18,7 @@ Fetches top posts from any subreddit using the SociaVault API.
 
 ### Usage
 
-Basic usage (fetches top 30 posts from past month):
+Basic usage (fetches ~25 top posts from past month):
 ```bash
 python scripts/fetch_reddit_posts.py --subreddit ValueInvesting
 ```
@@ -28,8 +28,7 @@ Custom parameters:
 python scripts/fetch_reddit_posts.py \
   --subreddit ValueInvesting \
   --timeframe week \
-  --sort top \
-  --limit 50
+  --sort hot
 ```
 
 ### Parameters
@@ -37,8 +36,9 @@ python scripts/fetch_reddit_posts.py \
 - `--subreddit`: Subreddit name (required, without r/ prefix)
 - `--timeframe`: Time period (hour, day, week, month, year, all) - default: month
 - `--sort`: Sort method (top, new, hot, rising, controversial) - default: top
-- `--limit`: Number of posts to fetch - default: 30
 - `--trim`: Use trimmed response for faster/lighter data (optional flag)
+
+**Note:** The API returns ~25 posts per page. To fetch more posts, use pagination with the `after` parameter (not yet implemented).
 
 ### Output
 
@@ -73,5 +73,5 @@ python scripts/fetch_reddit_posts.py --subreddit stocks --timeframe week --sort 
 
 Fetch controversial posts:
 ```bash
-python scripts/fetch_reddit_posts.py --subreddit wallstreetbets --sort controversial --limit 20
+python scripts/fetch_reddit_posts.py --subreddit wallstreetbets --sort controversial
 ```
