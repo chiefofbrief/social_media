@@ -97,7 +97,9 @@ def save_raw_data(data: Dict[str, Any], subreddit: str, timeframe: str, sort: st
 
 def generate_summary(data: Dict[str, Any], subreddit: str) -> str:
     """Generate lightweight summary of posts (token-efficient)."""
-    posts = data.get('data', [])
+    # API returns posts as nested object: data.posts.{0, 1, 2, ...}
+    posts_dict = data.get('data', {}).get('posts', {})
+    posts = list(posts_dict.values()) if isinstance(posts_dict, dict) else []
 
     summary_lines = [
         f"# Reddit Posts Summary: r/{subreddit}",
@@ -220,7 +222,10 @@ def main():
         print(summary)
         print("="*80)
 
-        print(f"\n✓ Successfully fetched {len(data.get('data', []))} posts")
+        # Get actual post count from nested structure
+        posts_dict = data.get('data', {}).get('posts', {})
+        post_count = len(posts_dict) if isinstance(posts_dict, dict) else 0
+        print(f"\n✓ Successfully fetched {post_count} posts")
         print(f"✓ Cost: 1 API credit")
 
     except requests.exceptions.HTTPError as e:
