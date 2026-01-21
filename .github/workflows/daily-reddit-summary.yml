@@ -1,0 +1,48 @@
+name: Daily Reddit Top Posts
+
+on:
+  schedule:
+    # Run daily at 9 AM UTC (adjust as needed)
+    - cron: '0 9 * * *'
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  fetch-top-posts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Fetch top posts from past day
+        env:
+          SOCIAVAULT_API_KEY: ${{ secrets.SOCIAVAULT_API_KEY }}
+        run: |
+          python scripts/fetch_reddit_posts.py --subreddit ValueInvesting --timeframe day --output-dir /tmp/reddit_data
+          python scripts/fetch_reddit_posts.py --subreddit stocks --timeframe day --output-dir /tmp/reddit_data
+          python scripts/fetch_reddit_posts.py --subreddit options --timeframe day --output-dir /tmp/reddit_data
+
+      - name: Generate daily summary
+        run: |
+          python scripts/generate_daily_summary.py /tmp/reddit_data
+
+      - name: Upload summary as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: daily-reddit-summary-${{ github.run_number }}
+          path: /tmp/reddit_data/daily_summary.md
+          retention-days: 30
+
+      - name: Display summary in logs
+        run: |
+          echo "===== DAILY REDDIT TOP POSTS SUMMARY ====="
+          cat /tmp/reddit_data/daily_summary.md
