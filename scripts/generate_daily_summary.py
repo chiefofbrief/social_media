@@ -27,46 +27,71 @@ def load_posts_from_directory(data_dir):
 
     return all_posts
 
-def generate_summary(posts, output_file, max_posts=20):
-    """Generate markdown summary of top posts."""
-    # Sort by score (upvotes)
-    posts.sort(key=lambda p: p.get('score', 0), reverse=True)
+def generate_summary(posts, output_file, posts_per_subreddit=10):
+    """Generate markdown summary with separate sections per subreddit."""
+    from collections import defaultdict
 
-    # Take top N
-    top_posts = posts[:max_posts]
+    # Group posts by subreddit
+    posts_by_subreddit = defaultdict(list)
+    for post in posts:
+        subreddit = post.get('subreddit', 'Unknown')
+        posts_by_subreddit[subreddit].append(post)
+
+    # Sort posts within each subreddit by score
+    for subreddit in posts_by_subreddit:
+        posts_by_subreddit[subreddit].sort(key=lambda p: p.get('score', 0), reverse=True)
 
     # Generate markdown
+    total_posts_shown = 0
+
     with open(output_file, 'w') as f:
         f.write(f"# Daily Reddit Top Posts\n\n")
         f.write(f"**Generated:** {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}\n\n")
         f.write(f"**Total posts analyzed:** {len(posts)}\n")
-        f.write(f"**Top posts shown:** {len(top_posts)}\n\n")
+        f.write(f"**Subreddits:** {', '.join(sorted(posts_by_subreddit.keys()))}\n\n")
         f.write("---\n\n")
 
-        for i, post in enumerate(top_posts, 1):
-            subreddit = post.get('subreddit', 'Unknown')
-            title = post.get('title', 'No title')
-            score = post.get('score', 0)
-            num_comments = post.get('num_comments', 0)
-            url = post.get('url', '')
-            selftext = post.get('selftext', '')
+        # Write each subreddit section
+        for subreddit in sorted(posts_by_subreddit.keys()):
+            subreddit_posts = posts_by_subreddit[subreddit]
 
-            f.write(f"## {i}. r/{subreddit} - {title}\n\n")
-            f.write(f"**Upvotes:** {score:,} | **Comments:** {num_comments:,}\n\n")
+            # Take top N posts (or all if fewer than N)
+            top_posts = subreddit_posts[:posts_per_subreddit]
+            total_posts_shown += len(top_posts)
 
-            if selftext:
-                # Truncate long posts
-                if len(selftext) > 500:
-                    selftext = selftext[:500] + "..."
-                f.write(f"**Body:**\n```\n{selftext}\n```\n\n")
-            else:
-                f.write("*Link post (no body text)*\n\n")
-
-            f.write(f"**URL:** {url}\n\n")
+            f.write(f"# r/{subreddit}\n\n")
+            f.write(f"**Showing top {len(top_posts)} of {len(subreddit_posts)} posts**\n\n")
             f.write("---\n\n")
 
+            for i, post in enumerate(top_posts, 1):
+                title = post.get('title', 'No title')
+                score = post.get('score', 0)
+                num_comments = post.get('num_comments', 0)
+                url = post.get('url', '')
+                selftext = post.get('selftext', '')
+
+                f.write(f"## {i}. {title}\n\n")
+                f.write(f"**Upvotes:** {score:,} | **Comments:** {num_comments:,}\n\n")
+
+                if selftext:
+                    # Truncate long posts
+                    if len(selftext) > 500:
+                        selftext = selftext[:500] + "..."
+                    f.write(f"**Body:**\n```\n{selftext}\n```\n\n")
+                else:
+                    f.write("*Link post (no body text)*\n\n")
+
+                f.write(f"**URL:** {url}\n\n")
+                f.write("---\n\n")
+
+            f.write("\n")  # Extra space between subreddit sections
+
     print(f"✓ Summary generated: {output_file}")
-    print(f"  Top posts: {len(top_posts)}")
+    print(f"  Subreddits: {len(posts_by_subreddit)}")
+    print(f"  Total posts shown: {total_posts_shown}")
+    for subreddit in sorted(posts_by_subreddit.keys()):
+        count = min(len(posts_by_subreddit[subreddit]), posts_per_subreddit)
+        print(f"    r/{subreddit}: {count} posts")
 
 def main():
     if len(sys.argv) < 2:

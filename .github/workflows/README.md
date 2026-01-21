@@ -30,10 +30,11 @@ This workflow automatically fetches top Reddit posts from r/ValueInvesting, r/st
 
 ## Output
 
-The workflow generates a markdown summary with:
-- Top 20 posts (by upvotes) from the past day across all 3 subreddits
-- Title, upvotes, comments, and body text for each post
-- URL to original post
+The workflow generates a markdown summary organized by subreddit:
+- **Top 10 posts per subreddit** (or fewer if less than 10 available)
+- **Separate sections** for r/ValueInvesting, r/stocks, and r/options
+- For each post: Title, upvotes, comments, body text (first 500 chars), and URL
+- **Total: Up to 30 posts** (10 per subreddit)
 
 ### Viewing Results
 
@@ -85,13 +86,16 @@ Edit the "Fetch top posts" step:
     python scripts/fetch_reddit_posts.py --subreddit investing --timeframe day --output-dir /tmp/reddit_data  # ADD THIS
 ```
 
-### Change Number of Posts
+### Change Number of Posts Per Subreddit
 
-Edit `scripts/generate_daily_summary.py` line 43:
+Edit `scripts/generate_daily_summary.py` line 30:
 
 ```python
-def generate_summary(posts, output_file, max_posts=20):  # Change 20 to your desired number
+def generate_summary(posts, output_file, posts_per_subreddit=10):  # Change 10
 ```
+
+This controls how many posts are shown for EACH subreddit (not total).
+For example, `posts_per_subreddit=5` would show 5 posts from each subreddit (15 total).
 
 ## Troubleshooting
 
