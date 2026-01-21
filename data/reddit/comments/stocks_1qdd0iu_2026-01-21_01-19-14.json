@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "metadata": {
+    "post_url": "https://www.reddit.com/r/stocks/comments/1qdd0iu/if_america_invades_greenland_the_stock_market/",
+    "post_id": "1qdd0iu",
+    "subreddit": "stocks",
+    "fetched_at": "2026-01-21_01-19-14",
+    "comment_count": 3
+  },
+  "comments": {
+    "success": true,
+    "data": {
+      "0": {
+        "id": "nzouwgo",
+        "author": "AutoModerator",
+        "author_fullname": "t2_6l4z3",
+        "body": "Hi, you're on r/Stocks, please make sure your post is related to stocks or the stockmarket or it will most likely get removed as being off-topic/political; feel free to edit it now and be more specific.\n\n**To everyone commenting:**  Please focus on how this affects the stock market or specific stocks or it will be removed as being off-topic/political.\n\nIf you're interested in just politics, see our wiki on [\"relevant subreddits\"](https://www.reddit.com/r/stocks/wiki/index/#wiki_relevant_subreddits) and post to those Reddit communities instead without linking back here, thanks!\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/stocks) if you have any questions or concerns.*",
+        "name": "t1_nzouwgo",
+        "created_utc": 1768461504,
+        "created_at_iso": "2026-01-15T07:18:24.000Z",
+        "parent_id": "t3_1qdd0iu",
+        "url": "https://www.reddit.com/r/stocks/comments/1qdd0iu/if_america_invades_greenland_the_stock_market/nzouwgo/",
+        "ups": 1,
+        "downs": 0,
+        "score": 1
+      },
+      "1": {
+        "id": "nzowc9y",
+        "author": "MacarioTala",
+        "author_fullname": "t2_bjtsi",
+        "body": "If the US actually invaded Greenland, so many things would've gone wrong that the stock market vaporizing would just be a downpayment.",
+        "name": "t1_nzowc9y",
+        "created_utc": 1768462287,
+        "created_at_iso": "2026-01-15T07:31:27.000Z",
+        "parent_id": "t3_1qdd0iu",
+        "url": "https://www.reddit.com/r/stocks/comments/1qdd0iu/if_america_invades_greenland_the_stock_market/nzowc9y/",
+        "ups": 1737,
+        "downs": 0,
+        "score": 1737
+      },
+      "2": {
+        "id": "nzp3pvi",
+        "author": "Callmewhatever4286",
+        "author_fullname": "t2_1946rqik2z",
+        "body": "We'll get 1929-style crash when that happen  \nLike 2 digit freefall in one day",
+        "name": "t1_nzp3pvi",
+        "created_utc": 1768466438,
+        "created_at_iso": "2026-01-15T08:40:38.000Z",
+        "parent_id": "t1_nzowc9y",
+        "url": "https://www.reddit.com/r/stocks/comments/1qdd0iu/if_america_invades_greenland_the_stock_market/nzp3pvi/",
+        "ups": 370,
+        "downs": 0,
+        "score": 370
+      },
+      "3": {
+        "id": "nzq61mh",
+        "author": "Excellent_Jeweler_43",
+        "author_fullname": "t2_b9u52i8p",
+        "body": "It will be the US dollar that will absolutely shit the bed. The EU and the ECB hold ginormous amounts of US bonds, if they just dump them on the open market it is actually very possible the US goes into hyperinflation overnight as other countries will also start dumping US dollars and without millitary bases in Europe the US loses direct access to the Middle East and by that extent control over the petrodollar. \n\nTLDR: Attacking Greenland might be the dumbest thing in US history by a long shot, hopefully there is atleast someone with common sense there to see where this will all lead",
+        "name": "t1_nzq61mh",
+        "created_utc": 1768484686,
+        "created_at_iso": "2026-01-15T13:44:46.000Z",
+        "parent_id": "t1_nzp3pvi",
+        "url": "https://www.reddit.com/r/stocks/comments/1qdd0iu/if_america_invades_greenland_the_stock_market/nzq61mh/",
+        "ups": 345,
+        "downs": 0,
+        "score": 345
+      },
+      "4": {
+        "id": "nzqjh8z",
+        "author": "Lisan_Al-NaCL",
+        "author_fullname": "t2_1eteq9dhfc",
+        "body": "&gt; hopefully there is atleast someone with common sense there to see where this will all lead\n\nbwahahahahahaha",
+        "name": "t1_nzqjh8z",
+        "created_utc": 1768488875,
+        "created_at_iso": "2026-01-15T14:54:35.000Z",
+        "parent_id": "t1_nzq61mh",
+        "url": "https://www.reddit.com/r/stocks/comments/1qdd0iu/if_america_invades_greenland_the_stock_market/nzqjh8z/",
+        "ups": 171,
+        "downs": 0,
+        "score": 171
+      }
+    },
+    "creditsUsed": 1
+  }
+}

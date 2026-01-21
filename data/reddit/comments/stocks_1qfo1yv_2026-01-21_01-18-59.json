@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "metadata": {
+    "post_url": "https://www.reddit.com/r/stocks/comments/1qfo1yv/trump_announces_he_will_sue_jpmorgan_over_the/",
+    "post_id": "1qfo1yv",
+    "subreddit": "stocks",
+    "fetched_at": "2026-01-21_01-18-59",
+    "comment_count": 3
+  },
+  "comments": {
+    "success": true,
+    "data": {
+      "0": {
+        "id": "o062ip1",
+        "author": "AutoModerator",
+        "author_fullname": "t2_6l4z3",
+        "body": "Hi, you're on r/Stocks, please make sure your post is related to stocks or the stockmarket or it will most likely get removed as being off-topic/political; feel free to edit it now and be more specific.\n\n**To everyone commenting:**  Please focus on how this affects the stock market or specific stocks or it will be removed as being off-topic/political.\n\nIf you're interested in just politics, see our wiki on [\"relevant subreddits\"](https://www.reddit.com/r/stocks/wiki/index/#wiki_relevant_subreddits) and post to those Reddit communities instead without linking back here, thanks!\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/stocks) if you have any questions or concerns.*",
+        "name": "t1_o062ip1",
+        "created_utc": 1768682056,
+        "created_at_iso": "2026-01-17T20:34:16.000Z",
+        "parent_id": "t3_1qfo1yv",
+        "url": "https://www.reddit.com/r/stocks/comments/1qfo1yv/trump_announces_he_will_sue_jpmorgan_over_the/o062ip1/",
+        "ups": 1,
+        "downs": 0,
+        "score": 1
+      },
+      "1": {
+        "id": "o062t2a",
+        "author": "bananashakewithice",
+        "author_fullname": "t2_4zsiazis",
+        "body": "Bro is going after banks. It’s over for him 😭😭",
+        "name": "t1_o062t2a",
+        "created_utc": 1768682145,
+        "created_at_iso": "2026-01-17T20:35:45.000Z",
+        "parent_id": "t3_1qfo1yv",
+        "url": "https://www.reddit.com/r/stocks/comments/1qfo1yv/trump_announces_he_will_sue_jpmorgan_over_the/o062t2a/",
+        "ups": 4099,
+        "downs": 0,
+        "score": 4099
+      },
+      "2": {
+        "id": "o0646uh",
+        "author": "Just_Candle_315",
+        "author_fullname": "t2_yapkc5mbv",
+        "body": "I think that's the game now, let go of the straps and let him run wild until he does something the GOP will finally get on board with impeachment, then they can have their boy Jelly Donut Vance for the last 3 years.",
+        "name": "t1_o0646uh",
+        "created_utc": 1768682572,
+        "created_at_iso": "2026-01-17T20:42:52.000Z",
+        "parent_id": "t1_o062t2a",
+        "url": "https://www.reddit.com/r/stocks/comments/1qfo1yv/trump_announces_he_will_sue_jpmorgan_over_the/o0646uh/",
+        "ups": 977,
+        "downs": 0,
+        "score": 977
+      },
+      "3": {
+        "id": "o065f1f",
+        "author": "suitupyo",
+        "author_fullname": "t2_6hsp2",
+        "body": "Bro, he’s not getting impeached. People need to let this go. The Senate  map is nearly impossible for Democrats to retake the senate in 2028.  \n\nTrump will serve his term, and then the Democrats will have a chance at taking the executive if they manage to not completely bungle the election like they are so used to doing.",
+        "name": "t1_o065f1f",
+        "created_utc": 1768682947,
+        "created_at_iso": "2026-01-17T20:49:07.000Z",
+        "parent_id": "t1_o0646uh",
+        "url": "https://www.reddit.com/r/stocks/comments/1qfo1yv/trump_announces_he_will_sue_jpmorgan_over_the/o065f1f/",
+        "ups": 788,
+        "downs": 0,
+        "score": 788
+      },
+      "4": {
+        "id": "o06c843",
+        "author": "Extension-Pick8310",
+        "author_fullname": "t2_1dgp36ilaq",
+        "body": "We're incredible at snatching defeat from the jaws of victory. Just you wait- we'll nominate Kamala again.",
+        "name": "t1_o06c843",
+        "created_utc": 1768685059,
+        "created_at_iso": "2026-01-17T21:24:19.000Z",
+        "parent_id": "t1_o065f1f",
+        "url": "https://www.reddit.com/r/stocks/comments/1qfo1yv/trump_announces_he_will_sue_jpmorgan_over_the/o06c843/",
+        "ups": 359,
+        "downs": 0,
+        "score": 359
+      }
+    },
+    "creditsUsed": 1
+  }
+}

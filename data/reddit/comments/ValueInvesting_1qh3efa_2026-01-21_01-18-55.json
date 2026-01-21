@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "metadata": {
+    "post_url": "https://www.reddit.com/r/ValueInvesting/comments/1qh3efa/the_only_statistical_study_on_multibaggers_find/",
+    "post_id": "1qh3efa",
+    "subreddit": "ValueInvesting",
+    "fetched_at": "2026-01-21_01-18-55",
+    "comment_count": 3
+  },
+  "comments": {
+    "success": true,
+    "data": {
+      "0": {
+        "id": "o0hk3yq",
+        "author": "AxelFooley",
+        "author_fullname": "t2_eb5yh",
+        "body": "Given the blatant AI copy and paste, I asked AI to check if the paper is scientifically accurate and peer reviewed, so I’m doing the exact copy and paste:\n\n\n\nBased on my analysis, here's the critical assessment of this paper's scientific validity:\n\n## **Peer Review Status: NOT Peer Reviewed**\n\nThis is a **working paper** from Birmingham City University's Centre for Accountancy Finance and Economics (CAFE), explicitly labeled as \"research in progress\" designed to \"elicit comments and further debate.\" [1] The repository clearly states it was \"Submitted\" but not accepted or peer-reviewed.\n\n## **Scientific Accuracy Assessment**\n\n### **Methodological Strengths:**\n- **Rigorous econometric approach**: Uses sophisticated dynamic panel data models with 11,600 company-year observations\n- **Comprehensive testing**: Examined 150+ variables using multiple estimation techniques (GLS, fixed effects, GMM)\n- **Out-of-sample validation**: Reserved 2023-24 data for predictive testing\n- **Proper diagnostic testing**: Controlled for heteroscedasticity and autocorrelation\n\n### **Major Red Flags:**\n\n**1. Sample Selection Bias**\nThe study defines multibaggers **ex post** - stocks that already achieved 10x+ returns. This is circular reasoning that tells us what successful stocks looked like, not what predicts future success. [1]\n\n**2. Survivorship Bias**\nOnly includes stocks that maintained 10x+ returns through 2024, excluding those that temporarily achieved this but failed. This dramatically overstates the \"multibagger\" characteristics.\n\n**3. Data Mining Risk**\nTesting 150+ variables on a limited dataset (464 stocks) increases false discovery probability. The \"general-to-specific\" modeling approach can overfit to historical patterns.\n\n**4. Contradicts Established Literature**\nThe finding that earnings growth is irrelevant contradicts decades of asset pricing research, including Fama-French models the paper claims to build upon.\n\n## **Key Issues with Conclusions**\n\nThe paper's most sensational finding - that earnings growth doesn't matter - likely reflects:\n- **Selection bias**: Only looking at stocks that already succeeded\n- **Timing issues**: Growth may matter more at different stages\n- **Measurement problems**: Using simple growth rates vs. growth quality\n\n## **Bottom Line**\n\nWhile the paper uses sophisticated statistical techniques, its **fundamental research design is flawed** by looking backward at already-successful stocks rather than forward at predictive factors. The methodology would never pass rigorous peer review at top finance journals.\n\n**The findings are interesting descriptive statistics about past multibaggers, but provide no reliable guidance for identifying future ones.** This is a classic case of confusing correlation with causation in financial data.\n\nCitations:\n[1] https://www.open-access.bcu.ac.uk/16180/1/The%20Alchemy%20of%20Multibagger%20Stocks%20-%20Anna%20Yartseva%20-%20CAFE%20Working%20Paper%2033%20%282025%29.pdf",
+        "name": "t1_o0hk3yq",
+        "created_utc": 1768835589,
+        "created_at_iso": "2026-01-19T15:13:09.000Z",
+        "parent_id": "t3_1qh3efa",
+        "url": "https://www.reddit.com/r/ValueInvesting/comments/1qh3efa/the_only_statistical_study_on_multibaggers_find/o0hk3yq/",
+        "ups": 91,
+        "downs": 0,
+        "score": 91
+      },
+      "1": {
+        "id": "o0ki01w",
+        "author": "SunlitShadows466",
+        "author_fullname": "t2_1kfnilld3h",
+        "body": "Most of this makes sense, but I don't undestand this:\n\n\"its fundamental research design is flawed by looking backward at already-successful stocks rather than forward at predictive factors. \"\n\nHow can a methodoloy predict future winners? We don't know if it works until we looks backwards at it. The idea of anything like this has to look at the past, and assume it applies going forward (which may be a bad assumption).",
+        "name": "t1_o0ki01w",
+        "created_utc": 1768865287,
+        "created_at_iso": "2026-01-19T23:28:07.000Z",
+        "parent_id": "t1_o0hk3yq",
+        "url": "https://www.reddit.com/r/ValueInvesting/comments/1qh3efa/the_only_statistical_study_on_multibaggers_find/o0ki01w/",
+        "ups": 22,
+        "downs": 0,
+        "score": 22
+      },
+      "2": {
+        "id": "o0kzkl9",
+        "author": "Famous-Attention-197",
+        "author_fullname": "t2_235rma516a",
+        "body": "So from my read on this the issue is that they selected the winners. Instead of running models on all kinds of companies and then seeing which variables had stronger predictive value for the multibaggers, they filtered for multibaggers directly. So maybe these variables look highly predictive, but what if many losers also had these variables as highly predictive. \n\nTherefore, you can't really use this in a predictive capacity across all companies cause it was only run on the multibaggers from the start. \n\nI'd also be curious about what metrics they used on their test set and how well it did. ",
+        "name": "t1_o0kzkl9",
+        "created_utc": 1768870957,
+        "created_at_iso": "2026-01-20T01:02:37.000Z",
+        "parent_id": "t1_o0ki01w",
+        "url": "https://www.reddit.com/r/ValueInvesting/comments/1qh3efa/the_only_statistical_study_on_multibaggers_find/o0kzkl9/",
+        "ups": 18,
+        "downs": 0,
+        "score": 18
+      },
+      "3": {
+        "id": "o0l3vx1",
+        "author": "Nice-Light-7782",
+        "author_fullname": "t2_s74podva",
+        "body": "One solution to the flaw pointed out is to split the stocks in 2 sets: training and validation. Have the same ratio of baggers to nonbaggers in both. The training set should contain stocks from an interval that happened before the validation set interval, e.g. stock data from 2005-2015 vs stock data from 2015-2025. Look for predictive factors in the training set. Once you've found them, see if they work on the validation set. But don't discard factors that don't work on the validation set, that's cheating.",
+        "name": "t1_o0l3vx1",
+        "created_utc": 1768872387,
+        "created_at_iso": "2026-01-20T01:26:27.000Z",
+        "parent_id": "t1_o0ki01w",
+        "url": "https://www.reddit.com/r/ValueInvesting/comments/1qh3efa/the_only_statistical_study_on_multibaggers_find/o0l3vx1/",
+        "ups": 6,
+        "downs": 0,
+        "score": 6
+      },
+      "4": {
+        "id": "o0ksa7g",
+        "author": "Manablitzer",
+        "author_fullname": "t2_fixun",
+        "body": "It's a separate ai post to roughly counter the op AI post, but it's STILL AI which means it's liable to be inaccurate in places.  BUT, if it happened to read any of the contextual info correctly, then the mere fact that it would be an unsubmitted, unreviewed paper means that it probably shouldn't be relied on for any kind of application.  At least not until there's better proof and it can stand up to harder criticism.",
+        "name": "t1_o0ksa7g",
+        "created_utc": 1768868608,
+        "created_at_iso": "2026-01-20T00:23:28.000Z",
+        "parent_id": "t1_o0ki01w",
+        "url": "https://www.reddit.com/r/ValueInvesting/comments/1qh3efa/the_only_statistical_study_on_multibaggers_find/o0ksa7g/",
+        "ups": 2,
+        "downs": 0,
+        "score": 2
+      }
+    },
+    "creditsUsed": 1
+  }
+}

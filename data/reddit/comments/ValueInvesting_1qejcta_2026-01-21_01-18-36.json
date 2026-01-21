@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "metadata": {
+    "post_url": "https://www.reddit.com/r/ValueInvesting/comments/1qejcta/berkshire_is_legitimately_one_of_the_cheapest/",
+    "post_id": "1qejcta",
+    "subreddit": "ValueInvesting",
+    "fetched_at": "2026-01-21_01-18-36",
+    "comment_count": 3
+  },
+  "comments": {
+    "success": true,
+    "data": {
+      "0": {
+        "id": "nzxyyg6",
+        "author": "Longjumping-Fact-582",
+        "author_fullname": "t2_1eukpmfzs3",
+        "body": "If you value the cash at face value which I think is reasonable in this scenario, keep in mind you must also deduct the interest income earned from the cash as part of operating earnings of the insurance business, otherwise you are essentially “double counting” the cash. \n\nYou also don’t address how to treat their marketable security portfolio, you could either use “look-through” earnings or because they are mark-market you could treat them at book value, however because of current market valuations this may give you a valuation somewhat above “intrinsic value” so it could be worth marking them down to say 75-80% of book value for a margin of safety. \n\nThis leaves a picture of Berkshire that is maybe fairly to slightly overvalued. I would certainly consider Berkshire a wonderful business, I would also consider that is not currently a bargain. \n\nSome may argue a higher multiple for operating companies but I think it’s fair to be quite conservative for 2 reasons, 1 insurance is one of the primary operating earnings segments and it deserves a lower multiple due to the somewhat volatile nature of insurance (some years will be wildly profitable while some years catastrophe losses will pressure earnings), the 2nd is a large portion of their wholly owned businesses are tied up in Berkshire Hathaway energy and the BNSF railroad. These businesses have a lower ratio of owners earnings compared to reported operating earnings due to the amount of capital that must be reinvested to “stay in the same place” (maintaining rail lines and powerlines) while many of their other wholly owned businesses are more capital efficient the scale of bnsf and BHE is such that a multiple closer to 12X is probably close to fair IMO",
+        "name": "t1_nzxyyg6",
+        "created_utc": 1768580177,
+        "created_at_iso": "2026-01-16T16:16:17.000Z",
+        "parent_id": "t3_1qejcta",
+        "url": "https://www.reddit.com/r/ValueInvesting/comments/1qejcta/berkshire_is_legitimately_one_of_the_cheapest/nzxyyg6/",
+        "ups": 150,
+        "downs": 0,
+        "score": 150
+      },
+      "1": {
+        "id": "nzy0a0i",
+        "author": "TraditionalMango58",
+        "author_fullname": "t2_1u0qiw0pga",
+        "body": "Agree it's not super cheap by historical standards of BRK, but compared to the rest of the market, they are cheap relatively imo.",
+        "name": "t1_nzy0a0i",
+        "created_utc": 1768580531,
+        "created_at_iso": "2026-01-16T16:22:11.000Z",
+        "parent_id": "t1_nzxyyg6",
+        "url": "https://www.reddit.com/r/ValueInvesting/comments/1qejcta/berkshire_is_legitimately_one_of_the_cheapest/nzy0a0i/",
+        "ups": 38,
+        "downs": 0,
+        "score": 38
+      },
+      "2": {
+        "id": "nzy2j92",
+        "author": "Longjumping-Fact-582",
+        "author_fullname": "t2_1eukpmfzs3",
+        "body": "Here’s another way to think about it, compare BRK earnings yield to the 10 year treasury using “look-through” earnings, which is to estimate the earnings attributable to Berkshires share of marketable securities, and use operating income. This gives you a model in which instead of treating these assets such as cash and marketable securities at book value we are estimating the “earnings power” while this isn’t a perfect estimate it should give us an idea of their earnings power now compared to the risk free rate (10 year treasury) \n\nBy my estimate the earnings yield on Berkshire is about 5.1% compared to about 4.1% for the 10 year treasury, which only gives us about a 1% premium today, this of course means Berkshire is generating a premium over the risk free rate however this is a quite narrow margin for taking on equity risk, and any assessment about Berkshires future earnings growth has to be somewhat conservative considering their massive scale. \n\nAgain Berkshire could certainly be a reasonable investment at today’s price is likely to give you long-term returns above that which you would get from a 10-year treasury and is far from “speculative” however I see no evidence of it being undervalued today",
+        "name": "t1_nzy2j92",
+        "created_utc": 1768581126,
+        "created_at_iso": "2026-01-16T16:32:06.000Z",
+        "parent_id": "t1_nzy0a0i",
+        "url": "https://www.reddit.com/r/ValueInvesting/comments/1qejcta/berkshire_is_legitimately_one_of_the_cheapest/nzy2j92/",
+        "ups": 53,
+        "downs": 0,
+        "score": 53
+      },
+      "3": {
+        "id": "nzy3yu6",
+        "author": "TraditionalMango58",
+        "author_fullname": "t2_1u0qiw0pga",
+        "body": "Good points. You are right about double accounting of interest income from the cash position. Calculating it again, I think it's about 16x instead of 12x for the operating PE.\n\nMy main point was more relative. If your look-through earnings yield is about 5% and the 10-year is low 4s, yeah that is not a huge spread, but I am comparing it to other mega caps that are still priced like nothing can go wrong. BRK at least is not priced for perfection, and you get the balance sheet and capital allocation option if things get messy.",
+        "name": "t1_nzy3yu6",
+        "created_utc": 1768581506,
+        "created_at_iso": "2026-01-16T16:38:26.000Z",
+        "parent_id": "t1_nzy2j92",
+        "url": "https://www.reddit.com/r/ValueInvesting/comments/1qejcta/berkshire_is_legitimately_one_of_the_cheapest/nzy3yu6/",
+        "ups": 15,
+        "downs": 0,
+        "score": 15
+      },
+      "4": {
+        "id": "nzybh0d",
+        "author": "Longjumping-Fact-582",
+        "author_fullname": "t2_1eukpmfzs3",
+        "body": "Its valuation certainly seems attractive relative to mega-cap tech, though I don’t think that’s the right comparison to make here.\n\nRemember interest rates are to the financial world what gravity is to the physical world, as such it is the most useful universal tool to which any financial instrument can be weighed.",
+        "name": "t1_nzybh0d",
+        "created_utc": 1768583494,
+        "created_at_iso": "2026-01-16T17:11:34.000Z",
+        "parent_id": "t1_nzy3yu6",
+        "url": "https://www.reddit.com/r/ValueInvesting/comments/1qejcta/berkshire_is_legitimately_one_of_the_cheapest/nzybh0d/",
+        "ups": 25,
+        "downs": 0,
+        "score": 25
+      }
+    },
+    "creditsUsed": 1
+  }
+}

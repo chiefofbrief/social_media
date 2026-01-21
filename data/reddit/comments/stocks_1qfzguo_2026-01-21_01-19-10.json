@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "metadata": {
+    "post_url": "https://www.reddit.com/r/stocks/comments/1qfzguo/the_us_safety_premium_is_dying_you_are_paying_for/",
+    "post_id": "1qfzguo",
+    "subreddit": "stocks",
+    "fetched_at": "2026-01-21_01-19-10",
+    "comment_count": 3
+  },
+  "comments": {
+    "success": true,
+    "data": {
+      "0": {
+        "id": "o08p543",
+        "author": "SubjectBubbly9072",
+        "author_fullname": "t2_fivgvaue",
+        "body": "Yeah I always wondered how alibaba was trading at a wonderful valuation until the ceo disappeared and the money off their balance sheet started disappearing",
+        "name": "t1_o08p543",
+        "created_utc": 1768712798,
+        "created_at_iso": "2026-01-18T05:06:38.000Z",
+        "parent_id": "t3_1qfzguo",
+        "url": "https://www.reddit.com/r/stocks/comments/1qfzguo/the_us_safety_premium_is_dying_you_are_paying_for/o08p543/",
+        "ups": 1939,
+        "downs": 0,
+        "score": 1939
+      },
+      "1": {
+        "id": "o08q7hp",
+        "author": "ASKMEIFIMAN",
+        "author_fullname": "t2_r6u7s",
+        "body": "Now that is stability!",
+        "name": "t1_o08q7hp",
+        "created_utc": 1768713255,
+        "created_at_iso": "2026-01-18T05:14:15.000Z",
+        "parent_id": "t1_o08p543",
+        "url": "https://www.reddit.com/r/stocks/comments/1qfzguo/the_us_safety_premium_is_dying_you_are_paying_for/o08q7hp/",
+        "ups": 595,
+        "downs": 0,
+        "score": 595
+      },
+      "2": {
+        "id": "o08z6h2",
+        "author": "ButtStuffingt0n",
+        "author_fullname": "t2_j26amkrwt",
+        "body": "For the greater good!",
+        "name": "t1_o08z6h2",
+        "created_utc": 1768717425,
+        "created_at_iso": "2026-01-18T06:23:45.000Z",
+        "parent_id": "t1_o08q7hp",
+        "url": "https://www.reddit.com/r/stocks/comments/1qfzguo/the_us_safety_premium_is_dying_you_are_paying_for/o08z6h2/",
+        "ups": 94,
+        "downs": 0,
+        "score": 94
+      },
+      "3": {
+        "id": "o08qsnp",
+        "author": "GobbIaOnDaRewf",
+        "author_fullname": "t2_1iusvpwurw",
+        "body": "He was learing!",
+        "name": "t1_o08qsnp",
+        "created_utc": 1768713509,
+        "created_at_iso": "2026-01-18T05:18:29.000Z",
+        "parent_id": "t1_o08p543",
+        "url": "https://www.reddit.com/r/stocks/comments/1qfzguo/the_us_safety_premium_is_dying_you_are_paying_for/o08qsnp/",
+        "ups": 170,
+        "downs": 0,
+        "score": 170
+      },
+      "4": {
+        "id": "o08tnfx",
+        "author": "AntiBoATX",
+        "author_fullname": "t2_9w3gxwtw",
+        "body": "Wonder what the CCCP policy is on learing centers",
+        "name": "t1_o08tnfx",
+        "created_utc": 1768714778,
+        "created_at_iso": "2026-01-18T05:39:38.000Z",
+        "parent_id": "t1_o08qsnp",
+        "url": "https://www.reddit.com/r/stocks/comments/1qfzguo/the_us_safety_premium_is_dying_you_are_paying_for/o08tnfx/",
+        "ups": 82,
+        "downs": 0,
+        "score": 82
+      }
+    },
+    "creditsUsed": 1
+  }
+}
