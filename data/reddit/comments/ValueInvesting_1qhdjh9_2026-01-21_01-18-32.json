@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "metadata": {
+    "post_url": "https://www.reddit.com/r/ValueInvesting/comments/1qhdjh9/my_2026_picks_stocks_that_i_feel_are_undervalued/",
+    "post_id": "1qhdjh9",
+    "subreddit": "ValueInvesting",
+    "fetched_at": "2026-01-21_01-18-32",
+    "comment_count": 3
+  },
+  "comments": {
+    "success": true,
+    "data": {
+      "0": {
+        "id": "o0j3gjz",
+        "author": "Beginning-Novel-4213",
+        "author_fullname": "t2_1xh8hzo16v",
+        "body": "Thanks for sharing! I appreciate seeing some new stocks in the sub!",
+        "name": "t1_o0j3gjz",
+        "created_utc": 1768850526,
+        "created_at_iso": "2026-01-19T19:22:06.000Z",
+        "parent_id": "t3_1qhdjh9",
+        "url": "https://www.reddit.com/r/ValueInvesting/comments/1qhdjh9/my_2026_picks_stocks_that_i_feel_are_undervalued/o0j3gjz/",
+        "ups": 195,
+        "downs": 0,
+        "score": 195
+      },
+      "1": {
+        "id": "o0jazia",
+        "author": "Inside_Tour_1408",
+        "author_fullname": "t2_j1mdvn7ep",
+        "body": "Totally agree so sick of seeing AMZN, NVO or META every other post\n\nI've got RMV.L, RYCEY and TAYD as my under the radar picks",
+        "name": "t1_o0jazia",
+        "created_utc": 1768852607,
+        "created_at_iso": "2026-01-19T19:56:47.000Z",
+        "parent_id": "t1_o0j3gjz",
+        "url": "https://www.reddit.com/r/ValueInvesting/comments/1qhdjh9/my_2026_picks_stocks_that_i_feel_are_undervalued/o0jazia/",
+        "ups": 62,
+        "downs": 0,
+        "score": 62
+      },
+      "2": {
+        "id": "o0n2bvs",
+        "author": "ImaginaryFall3485",
+        "author_fullname": "t2_25jcmthjqd",
+        "body": "rolls royce is overvalued",
+        "name": "t1_o0n2bvs",
+        "created_utc": 1768902102,
+        "created_at_iso": "2026-01-20T09:41:42.000Z",
+        "parent_id": "t1_o0jazia",
+        "url": "https://www.reddit.com/r/ValueInvesting/comments/1qhdjh9/my_2026_picks_stocks_that_i_feel_are_undervalued/o0n2bvs/",
+        "ups": 6,
+        "downs": 0,
+        "score": 6
+      },
+      "3": {
+        "id": "o0pkatu",
+        "author": "Inside_Tour_1408",
+        "author_fullname": "t2_j1mdvn7ep",
+        "body": "By what metric?",
+        "name": "t1_o0pkatu",
+        "created_utc": 1768933359,
+        "created_at_iso": "2026-01-20T18:22:39.000Z",
+        "parent_id": "t1_o0n2bvs",
+        "url": "https://www.reddit.com/r/ValueInvesting/comments/1qhdjh9/my_2026_picks_stocks_that_i_feel_are_undervalued/o0pkatu/",
+        "ups": 1,
+        "downs": 0,
+        "score": 1
+      },
+      "4": {
+        "id": "o0po4n8",
+        "author": "boogs120",
+        "author_fullname": "t2_agih06vh",
+        "body": "I just realized my financial analyst sold 200 of my RYCEY at $5.38…MFer messed with my penny stocks",
+        "name": "t1_o0po4n8",
+        "created_utc": 1768934388,
+        "created_at_iso": "2026-01-20T18:39:48.000Z",
+        "parent_id": "t1_o0n2bvs",
+        "url": "https://www.reddit.com/r/ValueInvesting/comments/1qhdjh9/my_2026_picks_stocks_that_i_feel_are_undervalued/o0po4n8/",
+        "ups": 1,
+        "downs": 0,
+        "score": 1
+      }
+    },
+    "creditsUsed": 1
+  }
+}

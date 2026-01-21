@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "metadata": {
+    "post_url": "https://www.reddit.com/r/ValueInvesting/comments/1qglkoj/this_sub_is_losing_the_plot/",
+    "post_id": "1qglkoj",
+    "subreddit": "ValueInvesting",
+    "fetched_at": "2026-01-21_01-18-47",
+    "comment_count": 3
+  },
+  "comments": {
+    "success": true,
+    "data": {
+      "0": {
+        "id": "o0d9xhg",
+        "author": "Generation_3and4",
+        "author_fullname": "t2_tisknoune",
+        "body": "Indications of a top: when r/valueinvesting becomes more speculative momentum posts than any true value plays",
+        "name": "t1_o0d9xhg",
+        "created_utc": 1768774538,
+        "created_at_iso": "2026-01-18T22:15:38.000Z",
+        "parent_id": "t3_1qglkoj",
+        "url": "https://www.reddit.com/r/ValueInvesting/comments/1qglkoj/this_sub_is_losing_the_plot/o0d9xhg/",
+        "ups": 200,
+        "downs": 0,
+        "score": 200
+      },
+      "1": {
+        "id": "o0dscgv",
+        "author": "Signal-Lie-6785",
+        "author_fullname": "t2_pkmtdxog",
+        "body": "I monitor the investing subs just to gauge exuberance.",
+        "name": "t1_o0dscgv",
+        "created_utc": 1768779982,
+        "created_at_iso": "2026-01-18T23:46:22.000Z",
+        "parent_id": "t1_o0d9xhg",
+        "url": "https://www.reddit.com/r/ValueInvesting/comments/1qglkoj/this_sub_is_losing_the_plot/o0dscgv/",
+        "ups": 46,
+        "downs": 0,
+        "score": 46
+      },
+      "2": {
+        "id": "o0ktuqc",
+        "author": "The-Jolly-Joker",
+        "author_fullname": "t2_18lk408ffu",
+        "body": "Ya, we were really off when loading up on GOOG at $170.",
+        "name": "t1_o0ktuqc",
+        "created_utc": 1768869112,
+        "created_at_iso": "2026-01-20T00:31:52.000Z",
+        "parent_id": "t1_o0dscgv",
+        "url": "https://www.reddit.com/r/ValueInvesting/comments/1qglkoj/this_sub_is_losing_the_plot/o0ktuqc/",
+        "ups": 2,
+        "downs": 0,
+        "score": 2
+      },
+      "3": {
+        "id": "o0e5s16",
+        "author": "stonescape",
+        "author_fullname": "t2_gphe6cnk",
+        "body": "Was just about to post the same. Time to diversify",
+        "name": "t1_o0e5s16",
+        "created_utc": 1768784256,
+        "created_at_iso": "2026-01-19T00:57:36.000Z",
+        "parent_id": "t1_o0d9xhg",
+        "url": "https://www.reddit.com/r/ValueInvesting/comments/1qglkoj/this_sub_is_losing_the_plot/o0e5s16/",
+        "ups": 7,
+        "downs": 0,
+        "score": 7
+      },
+      "4": {
+        "id": "o0d8sos",
+        "author": "MattieuOdd",
+        "author_fullname": "t2_wlam8yg",
+        "body": "We NVO bagholders are finally shut as we are going to the moon. Told ya.",
+        "name": "t1_o0d8sos",
+        "created_utc": 1768774224,
+        "created_at_iso": "2026-01-18T22:10:24.000Z",
+        "parent_id": "t3_1qglkoj",
+        "url": "https://www.reddit.com/r/ValueInvesting/comments/1qglkoj/this_sub_is_losing_the_plot/o0d8sos/",
+        "ups": 99,
+        "downs": 0,
+        "score": 99
+      }
+    },
+    "creditsUsed": 1
+  }
+}

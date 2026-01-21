@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "metadata": {
+    "post_url": "https://www.reddit.com/r/options/comments/1qdi8wn/spx_addicted/",
+    "post_id": "1qdi8wn",
+    "subreddit": "options",
+    "fetched_at": "2026-01-21_01-19-21",
+    "comment_count": 3
+  },
+  "comments": {
+    "success": true,
+    "data": {
+      "0": {
+        "id": "nzpufyj",
+        "author": "neo2551",
+        "author_fullname": "t2_10vwvk",
+        "body": "How much is your time worth? (Family friends)?\n\nThen you will know the cost of your addiction.\n\nYou won’t take your money in your grave though.\n\n(From another SPX addict)",
+        "name": "t1_nzpufyj",
+        "created_utc": 1768480463,
+        "created_at_iso": "2026-01-15T12:34:23.000Z",
+        "parent_id": "t3_1qdi8wn",
+        "url": "https://www.reddit.com/r/options/comments/1qdi8wn/spx_addicted/nzpufyj/",
+        "ups": 65,
+        "downs": 0,
+        "score": 65
+      },
+      "1": {
+        "id": "nzq0ps9",
+        "author": "PotadoLoveGun",
+        "author_fullname": "t2_13h9ka",
+        "body": "Its like Crack, I trade ndx because cracks not enough for me",
+        "name": "t1_nzq0ps9",
+        "created_utc": 1768482885,
+        "created_at_iso": "2026-01-15T13:14:45.000Z",
+        "parent_id": "t3_1qdi8wn",
+        "url": "https://www.reddit.com/r/options/comments/1qdi8wn/spx_addicted/nzq0ps9/",
+        "ups": 40,
+        "downs": 0,
+        "score": 40
+      },
+      "2": {
+        "id": "nzq3c4q",
+        "author": "SpiceDog220",
+        "author_fullname": "t2_syz85y25",
+        "body": "Hahahaha",
+        "name": "t1_nzq3c4q",
+        "created_utc": 1768483793,
+        "created_at_iso": "2026-01-15T13:29:53.000Z",
+        "parent_id": "t1_nzq0ps9",
+        "url": "https://www.reddit.com/r/options/comments/1qdi8wn/spx_addicted/nzq3c4q/",
+        "ups": 9,
+        "downs": 0,
+        "score": 9
+      },
+      "3": {
+        "id": "nzr7uyt",
+        "author": "Strange_Bowler_6629",
+        "author_fullname": "t2_1zu27uk9hg",
+        "body": "Why not qqq? Isn’t that the same thing?",
+        "name": "t1_nzr7uyt",
+        "created_utc": 1768495587,
+        "created_at_iso": "2026-01-15T16:46:27.000Z",
+        "parent_id": "t1_nzq0ps9",
+        "url": "https://www.reddit.com/r/options/comments/1qdi8wn/spx_addicted/nzr7uyt/",
+        "ups": 4,
+        "downs": 0,
+        "score": 4
+      },
+      "4": {
+        "id": "nzraacb",
+        "author": "PotadoLoveGun",
+        "author_fullname": "t2_13h9ka",
+        "body": "Its very similar but taxable account it has better tax treatment than qqq",
+        "name": "t1_nzraacb",
+        "created_utc": 1768496234,
+        "created_at_iso": "2026-01-15T16:57:14.000Z",
+        "parent_id": "t1_nzr7uyt",
+        "url": "https://www.reddit.com/r/options/comments/1qdi8wn/spx_addicted/nzraacb/",
+        "ups": 6,
+        "downs": 0,
+        "score": 6
+      }
+    },
+    "creditsUsed": 1
+  }
+}

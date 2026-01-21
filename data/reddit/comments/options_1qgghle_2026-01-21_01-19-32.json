@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "metadata": {
+    "post_url": "https://www.reddit.com/r/options/comments/1qgghle/supreme_court_tariff_tuesday_strike_down/",
+    "post_id": "1qgghle",
+    "subreddit": "options",
+    "fetched_at": "2026-01-21_01-19-32",
+    "comment_count": 3
+  },
+  "comments": {
+    "success": true,
+    "data": {
+      "0": {
+        "id": "o0djcjc",
+        "author": "Yul_B_Alwright",
+        "author_fullname": "t2_2ha0sopy",
+        "body": "They'll kick the can more",
+        "name": "t1_o0djcjc",
+        "created_utc": 1768777211,
+        "created_at_iso": "2026-01-18T23:00:11.000Z",
+        "parent_id": "t3_1qgghle",
+        "url": "https://www.reddit.com/r/options/comments/1qgghle/supreme_court_tariff_tuesday_strike_down/o0djcjc/",
+        "ups": 29,
+        "downs": 0,
+        "score": 29
+      },
+      "1": {
+        "id": "o0d3ndd",
+        "author": "zachspornaccount",
+        "author_fullname": "t2_a1hl7",
+        "body": "Based on how everyone thinks this will go, my guess is the tariffs are upheld and for some reason SPY rips",
+        "name": "t1_o0d3ndd",
+        "created_utc": 1768772756,
+        "created_at_iso": "2026-01-18T21:45:56.000Z",
+        "parent_id": "t3_1qgghle",
+        "url": "https://www.reddit.com/r/options/comments/1qgghle/supreme_court_tariff_tuesday_strike_down/o0d3ndd/",
+        "ups": 56,
+        "downs": 0,
+        "score": 56
+      },
+      "2": {
+        "id": "o0ezu5j",
+        "author": "Jeffde",
+        "author_fullname": "t2_908km",
+        "body": "Please daddy, I need Meta and REGN to moon. I’ll never do it again, I promise.",
+        "name": "t1_o0ezu5j",
+        "created_utc": 1768794226,
+        "created_at_iso": "2026-01-19T03:43:46.000Z",
+        "parent_id": "t1_o0d3ndd",
+        "url": "https://www.reddit.com/r/options/comments/1qgghle/supreme_court_tariff_tuesday_strike_down/o0ezu5j/",
+        "ups": 17,
+        "downs": 0,
+        "score": 17
+      },
+      "3": {
+        "id": "o0f0ors",
+        "author": "zachspornaccount",
+        "author_fullname": "t2_a1hl7",
+        "body": "1 month idk, 6 months we're going up on a rope",
+        "name": "t1_o0f0ors",
+        "created_utc": 1768794543,
+        "created_at_iso": "2026-01-19T03:49:03.000Z",
+        "parent_id": "t1_o0ezu5j",
+        "url": "https://www.reddit.com/r/options/comments/1qgghle/supreme_court_tariff_tuesday_strike_down/o0f0ors/",
+        "ups": 5,
+        "downs": 0,
+        "score": 5
+      },
+      "4": {
+        "id": "o0eg9vb",
+        "author": "Samjabr",
+        "author_fullname": "t2_ttbhv",
+        "body": "I’m on the same page.",
+        "name": "t1_o0eg9vb",
+        "created_utc": 1768787789,
+        "created_at_iso": "2026-01-19T01:56:29.000Z",
+        "parent_id": "t1_o0d3ndd",
+        "url": "https://www.reddit.com/r/options/comments/1qgghle/supreme_court_tariff_tuesday_strike_down/o0eg9vb/",
+        "ups": 12,
+        "downs": 0,
+        "score": 12
+      }
+    },
+    "creditsUsed": 1
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "metadata": {
+    "post_url": "https://www.reddit.com/r/options/comments/1qctm9i/i_built_a_scanner_specifically_for_the_wheel/",
+    "post_id": "1qctm9i",
+    "subreddit": "options",
+    "fetched_at": "2026-01-21_01-19-25",
+    "comment_count": 3
+  },
+  "comments": {
+    "success": true,
+    "data": {
+      "0": {
+        "id": "nzmd9lj",
+        "author": "tirofijo8",
+        "author_fullname": "t2_5ycex18m",
+        "body": "I think this is a great tool, especially for the price. Ive personally contacted the developer and made suggestions for improvements, many of which have been implemented. Keep up the good work",
+        "name": "t1_nzmd9lj",
+        "created_utc": 1768428373,
+        "created_at_iso": "2026-01-14T22:06:13.000Z",
+        "parent_id": "t3_1qctm9i",
+        "url": "https://www.reddit.com/r/options/comments/1qctm9i/i_built_a_scanner_specifically_for_the_wheel/nzmd9lj/",
+        "ups": 19,
+        "downs": 0,
+        "score": 19
+      },
+      "1": {
+        "id": "nzmirh5",
+        "author": "thetascanner",
+        "author_fullname": "t2_21yz96qjwo",
+        "body": "Thank you, appreciate your support.",
+        "name": "t1_nzmirh5",
+        "created_utc": 1768429948,
+        "created_at_iso": "2026-01-14T22:32:28.000Z",
+        "parent_id": "t1_nzmd9lj",
+        "url": "https://www.reddit.com/r/options/comments/1qctm9i/i_built_a_scanner_specifically_for_the_wheel/nzmirh5/",
+        "ups": 5,
+        "downs": 0,
+        "score": 5
+      },
+      "2": {
+        "id": "nznq7ee",
+        "author": "Mental-At-ThirtyFive",
+        "author_fullname": "t2_1agldc0abx",
+        "body": "signed up a free plan and will take a deeper look over the weekend \n\nSuggest that you might offer full service free for x?-weeks when people sign up so they can see what they will be  paying for.\n\nAlso, user name will be nice to have instead/in addition to email",
+        "name": "t1_nznq7ee",
+        "created_utc": 1768444232,
+        "created_at_iso": "2026-01-15T02:30:32.000Z",
+        "parent_id": "t1_nzmirh5",
+        "url": "https://www.reddit.com/r/options/comments/1qctm9i/i_built_a_scanner_specifically_for_the_wheel/nznq7ee/",
+        "ups": 3,
+        "downs": 0,
+        "score": 3
+      },
+      "3": {
+        "id": "nznqzsj",
+        "author": "Mental-At-ThirtyFive",
+        "author_fullname": "t2_1agldc0abx",
+        "body": "Also, please add\n- filters to the column, in addition to sort",
+        "name": "t1_nznqzsj",
+        "created_utc": 1768444510,
+        "created_at_iso": "2026-01-15T02:35:10.000Z",
+        "parent_id": "t1_nznq7ee",
+        "url": "https://www.reddit.com/r/options/comments/1qctm9i/i_built_a_scanner_specifically_for_the_wheel/nznqzsj/",
+        "ups": 2,
+        "downs": 0,
+        "score": 2
+      },
+      "4": {
+        "id": "nzqgket",
+        "author": "thetascanner",
+        "author_fullname": "t2_21yz96qjwo",
+        "body": "Hello, there is a trial so you can try it for a week for free. Regarding your request \"filters to the column, in addition to sort\", can you explain me exactly what you mean?",
+        "name": "t1_nzqgket",
+        "created_utc": 1768488007,
+        "created_at_iso": "2026-01-15T14:40:07.000Z",
+        "parent_id": "t1_nznqzsj",
+        "url": "https://www.reddit.com/r/options/comments/1qctm9i/i_built_a_scanner_specifically_for_the_wheel/nzqgket/",
+        "ups": 2,
+        "downs": 0,
+        "score": 2
+      }
+    },
+    "creditsUsed": 1
+  }
+}

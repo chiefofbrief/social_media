@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "metadata": {
+    "post_url": "https://www.reddit.com/r/ValueInvesting/comments/1qcsp32/adobe_paypal_and_meta_are_not_buys_and_im_tired/",
+    "post_id": "1qcsp32",
+    "subreddit": "ValueInvesting",
+    "fetched_at": "2026-01-21_01-18-51",
+    "comment_count": 3
+  },
+  "comments": {
+    "success": true,
+    "data": {
+      "0": {
+        "id": "nzkiq5p",
+        "author": "_quantitative",
+        "author_fullname": "t2_1zuz9h5jx2",
+        "body": "What are you holding? Curious because i’ve somewhat similar take on these companies",
+        "name": "t1_nzkiq5p",
+        "created_utc": 1768410402,
+        "created_at_iso": "2026-01-14T17:06:42.000Z",
+        "parent_id": "t3_1qcsp32",
+        "url": "https://www.reddit.com/r/ValueInvesting/comments/1qcsp32/adobe_paypal_and_meta_are_not_buys_and_im_tired/nzkiq5p/",
+        "ups": 42,
+        "downs": 0,
+        "score": 42
+      },
+      "1": {
+        "id": "nzkjsb5",
+        "author": "PurpleFanto",
+        "author_fullname": "t2_a66g9",
+        "body": "I'm holding Google, and have been for the past 9 months.",
+        "name": "t1_nzkjsb5",
+        "created_utc": 1768410693,
+        "created_at_iso": "2026-01-14T17:11:33.000Z",
+        "parent_id": "t1_nzkiq5p",
+        "url": "https://www.reddit.com/r/ValueInvesting/comments/1qcsp32/adobe_paypal_and_meta_are_not_buys_and_im_tired/nzkjsb5/",
+        "ups": -46,
+        "downs": 0,
+        "score": -46
+      },
+      "2": {
+        "id": "nzn6dw3",
+        "author": "Existing_Emphasis_33",
+        "author_fullname": "t2_1gf5qjd02m",
+        "body": "That’s all? What else ‘cus the way you spoke about those 3 other companies gives the impression you’re holding a list of amazing opportunities.",
+        "name": "t1_nzn6dw3",
+        "created_utc": 1768437433,
+        "created_at_iso": "2026-01-15T00:37:13.000Z",
+        "parent_id": "t1_nzkjsb5",
+        "url": "https://www.reddit.com/r/ValueInvesting/comments/1qcsp32/adobe_paypal_and_meta_are_not_buys_and_im_tired/nzn6dw3/",
+        "ups": 27,
+        "downs": 0,
+        "score": 27
+      },
+      "3": {
+        "id": "nznn60q",
+        "author": "negativefeedbackloop",
+        "author_fullname": "t2_nfmhe",
+        "body": "Translation: it’s the only one worth mentioning in their portfolio.",
+        "name": "t1_nznn60q",
+        "created_utc": 1768443166,
+        "created_at_iso": "2026-01-15T02:12:46.000Z",
+        "parent_id": "t1_nzn6dw3",
+        "url": "https://www.reddit.com/r/ValueInvesting/comments/1qcsp32/adobe_paypal_and_meta_are_not_buys_and_im_tired/nznn60q/",
+        "ups": 37,
+        "downs": 0,
+        "score": 37
+      },
+      "4": {
+        "id": "nzra8b7",
+        "author": "Different-Monk5916",
+        "author_fullname": "t2_fvfloahpo",
+        "body": "100% concentration, yolo.\n\nTo give OP the benefit of doubt, I wouldn't either give out the names, which I will double down on in a crash. OP might hold quality stocks and feels that they are still around fair value.",
+        "name": "t1_nzra8b7",
+        "created_utc": 1768496219,
+        "created_at_iso": "2026-01-15T16:56:59.000Z",
+        "parent_id": "t1_nznn60q",
+        "url": "https://www.reddit.com/r/ValueInvesting/comments/1qcsp32/adobe_paypal_and_meta_are_not_buys_and_im_tired/nzra8b7/",
+        "ups": 3,
+        "downs": 0,
+        "score": 3
+      }
+    },
+    "creditsUsed": 1
+  }
+}

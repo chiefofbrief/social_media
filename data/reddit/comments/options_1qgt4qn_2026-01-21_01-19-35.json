@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "metadata": {
+    "post_url": "https://www.reddit.com/r/options/comments/1qgt4qn/if_you_could_only_wheel_one_ticker/",
+    "post_id": "1qgt4qn",
+    "subreddit": "options",
+    "fetched_at": "2026-01-21_01-19-35",
+    "comment_count": 3
+  },
+  "comments": {
+    "success": true,
+    "data": {
+      "0": {
+        "id": "o0f1u95",
+        "author": "JacobSteed",
+        "author_fullname": "t2_1494a7",
+        "body": "Spy or qqq probably",
+        "name": "t1_o0f1u95",
+        "created_utc": 1768794974,
+        "created_at_iso": "2026-01-19T03:56:14.000Z",
+        "parent_id": "t3_1qgt4qn",
+        "url": "https://www.reddit.com/r/options/comments/1qgt4qn/if_you_could_only_wheel_one_ticker/o0f1u95/",
+        "ups": 37,
+        "downs": 0,
+        "score": 37
+      },
+      "1": {
+        "id": "o0f7eop",
+        "author": "hsfinance",
+        "author_fullname": "t2_24nviwkr",
+        "body": "Qqq for me. Sure it can fall bad but the premiums are also juicier",
+        "name": "t1_o0f7eop",
+        "created_utc": 1768797166,
+        "created_at_iso": "2026-01-19T04:32:46.000Z",
+        "parent_id": "t1_o0f1u95",
+        "url": "https://www.reddit.com/r/options/comments/1qgt4qn/if_you_could_only_wheel_one_ticker/o0f7eop/",
+        "ups": 14,
+        "downs": 0,
+        "score": 14
+      },
+      "2": {
+        "id": "o0hjctf",
+        "author": "uragnorson",
+        "author_fullname": "t2_3kpxl4d0",
+        "body": "qqq is so expensive. I wish there was a similar alternate.",
+        "name": "t1_o0hjctf",
+        "created_utc": 1768835368,
+        "created_at_iso": "2026-01-19T15:09:28.000Z",
+        "parent_id": "t1_o0f7eop",
+        "url": "https://www.reddit.com/r/options/comments/1qgt4qn/if_you_could_only_wheel_one_ticker/o0hjctf/",
+        "ups": 6,
+        "downs": 0,
+        "score": 6
+      },
+      "3": {
+        "id": "o0ic037",
+        "author": "hsfinance",
+        "author_fullname": "t2_24nviwkr",
+        "body": "qQQM but option chain is very limited. If that is expensive maybe try IBIT - it is bitcoin not stock but at least it is pure play bitcoin not MSTR which is good but exotic. Option chain is good and I have been trading it for a few months.",
+        "name": "t1_o0ic037",
+        "created_utc": 1768843190,
+        "created_at_iso": "2026-01-19T17:19:50.000Z",
+        "parent_id": "t1_o0hjctf",
+        "url": "https://www.reddit.com/r/options/comments/1qgt4qn/if_you_could_only_wheel_one_ticker/o0ic037/",
+        "ups": 3,
+        "downs": 0,
+        "score": 3
+      },
+      "4": {
+        "id": "o0jrwvq",
+        "author": "BlueSkysnBlueChips32",
+        "author_fullname": "t2_9zsybv2q",
+        "body": "Could also do Micro shares of QQQ",
+        "name": "t1_o0jrwvq",
+        "created_utc": 1768857375,
+        "created_at_iso": "2026-01-19T21:16:15.000Z",
+        "parent_id": "t1_o0hjctf",
+        "url": "https://www.reddit.com/r/options/comments/1qgt4qn/if_you_could_only_wheel_one_ticker/o0jrwvq/",
+        "ups": 3,
+        "downs": 0,
+        "score": 3
+      }
+    },
+    "creditsUsed": 1
+  }
+}

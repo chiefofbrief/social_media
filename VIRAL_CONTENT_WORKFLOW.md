@@ -11,8 +11,9 @@
 2. `Perigon_API_Query_Reference.md` - API integration guide
 
 **Load during drafting:**
-3. `Characteristics_of_Viral_Content_Reddit` - When drafting Reddit posts
-4. `Characteristics_of_Viral_Content_X_and_Threads` - When drafting X/Threads posts
+3. `Characteristics_of_Viral_Content_Reddit_Posts` - When drafting Reddit posts
+4. `Characteristics_of_Viral_Content_Reddit_Comments` - When crafting Reddit comments (optional)
+5. `Characteristics_of_Viral_Content_X_and_Threads` - When drafting X/Threads posts
 
 ---
 

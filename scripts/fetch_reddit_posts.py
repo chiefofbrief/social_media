@@ -78,12 +78,12 @@ class SociaVaultClient:
         return response.json()
 
 
-def save_raw_data(data: Dict[str, Any], subreddit: str, timeframe: str, sort: str) -> str:
+def save_raw_data(data: Dict[str, Any], subreddit: str, timeframe: str, sort: str, output_dir: str = "data/reddit") -> str:
     """Save raw API response to JSON file."""
     timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-    filename = f"data/reddit/{subreddit}_{sort}_{timeframe}_{timestamp}.json"
+    filename = f"{output_dir}/{subreddit}_{sort}_{timeframe}_{timestamp}.json"
 
-    os.makedirs("data/reddit", exist_ok=True)
+    os.makedirs(output_dir, exist_ok=True)
 
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
@@ -120,6 +120,11 @@ def main():
         action="store_true",
         help="Use trimmed response (faster, less data)"
     )
+    parser.add_argument(
+        "--output-dir",
+        default="data/reddit",
+        help="Output directory for JSON files (default: data/reddit)"
+    )
 
     args = parser.parse_args()
 
@@ -150,7 +155,7 @@ def main():
         )
 
         # Save raw data
-        json_file = save_raw_data(data, args.subreddit, args.timeframe, args.sort)
+        json_file = save_raw_data(data, args.subreddit, args.timeframe, args.sort, args.output_dir)
         print(f"\n✓ Raw data saved to: {json_file}")
 
         # Get actual post count from nested structure

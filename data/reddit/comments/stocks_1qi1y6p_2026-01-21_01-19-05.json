@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "metadata": {
+    "post_url": "https://www.reddit.com/r/stocks/comments/1qi1y6p/danish_pension_fund_akademikerpension_to_exit_us/",
+    "post_id": "1qi1y6p",
+    "subreddit": "stocks",
+    "fetched_at": "2026-01-21_01-19-05",
+    "comment_count": 3
+  },
+  "comments": {
+    "success": true,
+    "data": {
+      "0": {
+        "id": "o0omdib",
+        "author": "trendingtattler",
+        "author_fullname": "t2_muor2ebl9",
+        "body": "Hi, you're on r/Stocks, please make sure your post is related to stocks or the stockmarket or it will most likely get removed as being off-topic; feel free to edit it now.\n\nTo everyone commenting: Please focus on how this affects the stock market or specific stocks or it will be removed as being off-topic.\n\nIf you're interested in just politics or memes, see our wiki on [\"relevant subreddits\"](https://www.reddit.com/r/stocks/wiki/index/#wiki_relevant_subreddits) and post to those Reddit communities instead without linking back here, thanks!\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/stocks) if you have any questions or concerns.*",
+        "name": "t1_o0omdib",
+        "created_utc": 1768923983,
+        "created_at_iso": "2026-01-20T15:46:23.000Z",
+        "parent_id": "t3_1qi1y6p",
+        "url": "https://www.reddit.com/r/stocks/comments/1qi1y6p/danish_pension_fund_akademikerpension_to_exit_us/o0omdib/",
+        "ups": 1,
+        "downs": 0,
+        "score": 1
+      },
+      "1": {
+        "id": "o0o4pif",
+        "author": "wormtheology",
+        "author_fullname": "t2_2kdq1tns",
+        "body": "This is the only way the US learns to be completely honest. 100m is a perfect start. The ECB and Pension Funds have about 3 trillion in US Treasuries the last time I checked. Might be the first Eurozoners with a pair of balls.",
+        "name": "t1_o0o4pif",
+        "created_utc": 1768918689,
+        "created_at_iso": "2026-01-20T14:18:09.000Z",
+        "parent_id": "t3_1qi1y6p",
+        "url": "https://www.reddit.com/r/stocks/comments/1qi1y6p/danish_pension_fund_akademikerpension_to_exit_us/o0o4pif/",
+        "ups": 1586,
+        "downs": 0,
+        "score": 1586
+      },
+      "2": {
+        "id": "o0oewcl",
+        "author": "OK_x86",
+        "author_fullname": "t2_1b69pdtfe2",
+        "body": "I don't think 100M is enough to really make an impact on the bond market. But this isn't the first person to mention that US treasuries are getting less appealing with each passing day. \n\nNow if Canada Japan, China and the UK start moving away from us bonds it could have seismic effects on America's ability to borrow at a discount as it has for so long.\nAnd I think it's likely you'll see something like this from EU countries in general and hopefully the Commonwealth as well (although the UK has been a bit fickle in backing Canada up, so I'm not holding my breath that they're going to grow a pair anytime soon). Japan is in a bind. China though could do it for the lulz.",
+        "name": "t1_o0oewcl",
+        "created_utc": 1768921823,
+        "created_at_iso": "2026-01-20T15:10:23.000Z",
+        "parent_id": "t1_o0o4pif",
+        "url": "https://www.reddit.com/r/stocks/comments/1qi1y6p/danish_pension_fund_akademikerpension_to_exit_us/o0oewcl/",
+        "ups": 421,
+        "downs": 0,
+        "score": 421
+      },
+      "3": {
+        "id": "o0oh58v",
+        "author": "IHateTheColourblind",
+        "author_fullname": "t2_rjobo6eup",
+        "body": "&gt;I don't think 100M is enough to really make an impact on the bond market.\n\nThe US bond market is $30.5 trillion, $100 million represents approximately 0.0003% of that market. It's a fraction of a drop in the bucket but it could be an indicator of things to come.",
+        "name": "t1_o0oh58v",
+        "created_utc": 1768922483,
+        "created_at_iso": "2026-01-20T15:21:23.000Z",
+        "parent_id": "t1_o0oewcl",
+        "url": "https://www.reddit.com/r/stocks/comments/1qi1y6p/danish_pension_fund_akademikerpension_to_exit_us/o0oh58v/",
+        "ups": 235,
+        "downs": 0,
+        "score": 235
+      },
+      "4": {
+        "id": "o0ohy0x",
+        "author": "trilobyte-dev",
+        "author_fullname": "t2_cwxmi",
+        "body": "When it comes to finance directionality is usually more important than raw numbers.  If this is a one time event, 🤷‍♂️, but if it’s the first of many such moves then it will become a problem.\n\n*** Edited for grammar",
+        "name": "t1_o0ohy0x",
+        "created_utc": 1768922714,
+        "created_at_iso": "2026-01-20T15:25:14.000Z",
+        "parent_id": "t1_o0oh58v",
+        "url": "https://www.reddit.com/r/stocks/comments/1qi1y6p/danish_pension_fund_akademikerpension_to_exit_us/o0ohy0x/",
+        "ups": 146,
+        "downs": 0,
+        "score": 146
+      }
+    },
+    "creditsUsed": 1
+  }
+}

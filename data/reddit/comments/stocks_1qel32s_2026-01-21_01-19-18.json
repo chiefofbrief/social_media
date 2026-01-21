@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "metadata": {
+    "post_url": "https://www.reddit.com/r/stocks/comments/1qel32s/canada_turns_to_china_as_trumps_tariffs_and/",
+    "post_id": "1qel32s",
+    "subreddit": "stocks",
+    "fetched_at": "2026-01-21_01-19-18",
+    "comment_count": 3
+  },
+  "comments": {
+    "success": true,
+    "data": {
+      "0": {
+        "id": "nzy5ecv",
+        "author": "AutoModerator",
+        "author_fullname": "t2_6l4z3",
+        "body": "Hi, you're on r/Stocks, please make sure your post is related to stocks or the stockmarket or it will most likely get removed as being off-topic/political; feel free to edit it now and be more specific.\n\n**To everyone commenting:**  Please focus on how this affects the stock market or specific stocks or it will be removed as being off-topic/political.\n\nIf you're interested in just politics, see our wiki on [\"relevant subreddits\"](https://www.reddit.com/r/stocks/wiki/index/#wiki_relevant_subreddits) and post to those Reddit communities instead without linking back here, thanks!\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/stocks) if you have any questions or concerns.*",
+        "name": "t1_nzy5ecv",
+        "created_utc": 1768581879,
+        "created_at_iso": "2026-01-16T16:44:39.000Z",
+        "parent_id": "t3_1qel32s",
+        "url": "https://www.reddit.com/r/stocks/comments/1qel32s/canada_turns_to_china_as_trumps_tariffs_and/nzy5ecv/",
+        "ups": 1,
+        "downs": 0,
+        "score": 1
+      },
+      "1": {
+        "id": "nzyjuim",
+        "author": "National-Stretch3979",
+        "author_fullname": "t2_83xrrbxf",
+        "body": "One important note that I think a lot of people are missing. The 49,000 unit cap for Chinese EVs that’s part of this agreement is simply a return to the  pre-tariff cap that China was allowed to bring into Canada and represents about 3% of the market. Additionally, the cars that will be allowed to be brought in are sub $35,000 EV‘s, a portion of the Canadian market that is not being filled at all.",
+        "name": "t1_nzyjuim",
+        "created_utc": 1768585718,
+        "created_at_iso": "2026-01-16T17:48:38.000Z",
+        "parent_id": "t3_1qel32s",
+        "url": "https://www.reddit.com/r/stocks/comments/1qel32s/canada_turns_to_china_as_trumps_tariffs_and/nzyjuim/",
+        "ups": 107,
+        "downs": 0,
+        "score": 107
+      },
+      "2": {
+        "id": "o019qwl",
+        "author": "S_A_N_D_",
+        "author_fullname": "t2_7qmio",
+        "body": "True, but the writing is on the wall. This gets a foot in the door for Chinese EVs. The next step will be to negotiate and set up targets for production on Canadian soil to replace/substitute/prevent job losses associated with US tariffs.\n\nSo cap it now, then move some production here and expand production to limit harm done and effectively swap out American integration for China.\n\nOne of the biggest areas of cross border trade is cars/car parts and all the manufacturing that feeds into it like steel. That is all under threat from the loss of CUSMA and Trumps unpredictability. So mitigating that threat opens the door to far more trade and reduces dependence on US trade and therefore much of the leverage the US holds with regards to negotiating trade.\n\nChinese cars also won't sell all that well to start. It will take time to build brand trust and recognition. So a low target is likely sufficient to saturate demand, and China has a lot if experience playing a long game rather than focusing on short term success for shareholders.\n\nWhat I expect will happen is higher targets in exchange for some manufacturing in Canada which will also placate the Ontario Premier who is going to be very protective of the impact this might have on the Ontario auto manufacturing sector. If they can get that going, it will blow open the door significantly and US manufactures stand to lose big.",
+        "name": "t1_o019qwl",
+        "created_utc": 1768615453,
+        "created_at_iso": "2026-01-17T02:04:13.000Z",
+        "parent_id": "t1_nzyjuim",
+        "url": "https://www.reddit.com/r/stocks/comments/1qel32s/canada_turns_to_china_as_trumps_tariffs_and/o019qwl/",
+        "ups": 36,
+        "downs": 0,
+        "score": 36
+      },
+      "3": {
+        "id": "o01cnk2",
+        "author": "Mysterious_Union_477",
+        "author_fullname": "t2_25aqokjaqb",
+        "body": "I don’t get why you think brand recognition matters for a car that will perform the same for half the price , people will start to buy the second they realize the cars are good. Maybe not everyone but I have some faith in humanity left",
+        "name": "t1_o01cnk2",
+        "created_utc": 1768616562,
+        "created_at_iso": "2026-01-17T02:22:42.000Z",
+        "parent_id": "t1_o019qwl",
+        "url": "https://www.reddit.com/r/stocks/comments/1qel32s/canada_turns_to_china_as_trumps_tariffs_and/o01cnk2/",
+        "ups": 14,
+        "downs": 0,
+        "score": 14
+      },
+      "4": {
+        "id": "o01ehi6",
+        "author": "S_A_N_D_",
+        "author_fullname": "t2_7qmio",
+        "body": "It's not about performance/features, its about longevity and reliability. The majority of people aren't going to drop $20K on an unknown, even if it is $40K in value relative to the other offerings. \n\nIt's going to take time for people to recognize them as a viable contender and not something that's going to fall apart in 2 years or has poor warranty/manufacturer support when it breaks. \n\n49000 is still a lot of cars. That's the same number as Tesla sold in Canada in all of 2024. So that's not a pittance and people will buy it. It's actually somewhat of an optimistic target, especially going into a potential economic downturn. But it's not going to compete with Toyota which sold around 200 000 cars in the same time-period. \n\nBasically, they'll sell, but they're not going to match the likes of Toyota in the first few years. People will realize they're good cars, but it takes a few years for that to happen because one of the big factors will be how well they hold up after you drive it off the lot.",
+        "name": "t1_o01ehi6",
+        "created_utc": 1768617259,
+        "created_at_iso": "2026-01-17T02:34:19.000Z",
+        "parent_id": "t1_o01cnk2",
+        "url": "https://www.reddit.com/r/stocks/comments/1qel32s/canada_turns_to_china_as_trumps_tariffs_and/o01ehi6/",
+        "ups": 6,
+        "downs": 0,
+        "score": 6
+      }
+    },
+    "creditsUsed": 1
+  }
+}
