@@ -5,6 +5,7 @@ Collection of scripts for researching stocks and topics across social media plat
 ## Available Scripts
 
 - **[youtube_stock_research.py](#youtube_stock_researchpy)** - Research stock sentiment on YouTube with video analysis and transcripts
+- **[tiktok_stock_research.py](#tiktok_stock_researchpy)** - Research stock sentiment on TikTok (FinTok) with video analysis and transcripts
 - **[fetch_reddit_posts.py](#fetch_reddit_postspy)** - Fetch top posts from any subreddit
 
 ---
@@ -108,6 +109,116 @@ python scripts/youtube_stock_research.py NVDA --max-videos 30 --no-details
 Research Apple over past year:
 ```bash
 python scripts/youtube_stock_research.py AAPL --time-period this_year --max-videos 50
+```
+
+---
+
+## tiktok_stock_research.py
+
+Searches TikTok (FinTok) for videos about specific stocks, retrieves video details including transcripts, and analyzes sentiment for stock research.
+
+### Features
+
+- 🔍 Search TikTok for stock tickers/companies with keyword or hashtag
+- 📅 Filter by time period (yesterday, this-week, this-month, last-3-months, last-6-months, all_time)
+- 📹 Fetch full video details including transcripts
+- 📊 Automatic sentiment analysis (bullish/bearish/neutral)
+- 💾 Saves structured JSON results with engagement metrics
+- 🔥 Sort by relevance, most-liked, or date-posted
+
+### Setup
+
+1. Set your SociaVault API key as an environment variable:
+   ```bash
+   export SOCIAVAULT_API_KEY="your-api-key-here"
+   ```
+
+2. Install required dependencies:
+   ```bash
+   pip install requests
+   ```
+
+### Usage
+
+Basic usage (searches "#{TICKER} stock" for past month):
+```bash
+python scripts/tiktok_stock_research.py TSLA
+```
+
+Custom search with time filter:
+```bash
+python scripts/tiktok_stock_research.py AMZN --query "Amazon stock news" --time-period this-week
+```
+
+Sort by most-liked videos:
+```bash
+python scripts/tiktok_stock_research.py NVDA --max-videos 30 --sort-by most-liked
+```
+
+Skip transcript fetching for faster results:
+```bash
+python scripts/tiktok_stock_research.py MSFT --no-details
+```
+
+### Parameters
+
+- `ticker` (required): Stock ticker symbol (e.g., TSLA, AMZN, NVDA)
+- `--query`: Custom search query (overrides default "#{ticker} stock" search)
+- `--time-period`: Time filter - `yesterday`, `this-week`, `this-month` (default), `last-3-months`, `last-6-months`, `all_time`
+- `--sort-by`: Sort method - `relevance` (default), `most-liked`, `date-posted`
+- `--max-videos`: Maximum videos to fetch (default: 20)
+- `--no-details`: Skip fetching video details and transcripts (faster but no sentiment analysis)
+- `--output`: Custom output file path
+
+### Output
+
+The script saves results to `data/tiktok/{TICKER}_{timeperiod}_{timestamp}.json` with:
+
+- **Search metadata**: ticker, query, time period, timestamp
+- **Video details**: description, author info, views, likes, comments, shares
+- **Transcripts**: Full video transcripts parsed from WEBVTT format
+- **Sentiment analysis**: Bullish/bearish/neutral classification based on keywords in description and transcript
+- **Summary statistics**: Total videos, views, engagement, sentiment breakdown
+
+### Sentiment Analysis
+
+Videos are analyzed for bullish/bearish sentiment using keyword detection:
+
+- 🟢 **Bullish**: buy, bull, growth, profit, opportunity, breakout, rally, upgrade, outperform
+- 🔴 **Bearish**: sell, bear, decline, loss, crash, warning, downgrade, weak, overvalued
+- ⚪ **Neutral**: Neither sentiment dominates
+
+### Cost
+
+- **1 credit** per search request
+- **1 credit** per video detail fetch (if `--no-details` not used)
+- Example: `--max-videos 10` with details = ~11 credits total
+
+### Examples
+
+Research Tesla stock from this month (FinTok):
+```bash
+python scripts/tiktok_stock_research.py TSLA
+```
+
+Find most-liked videos about Amazon:
+```bash
+python scripts/tiktok_stock_research.py AMZN --sort-by most-liked --max-videos 30
+```
+
+Quick search without transcripts (cheaper):
+```bash
+python scripts/tiktok_stock_research.py NVDA --max-videos 50 --no-details
+```
+
+Search with custom query and hashtag:
+```bash
+python scripts/tiktok_stock_research.py AAPL --query "#AAPL stock analysis"
+```
+
+Research from past 3 months:
+```bash
+python scripts/tiktok_stock_research.py GME --time-period last-3-months --max-videos 40
 ```
 
 ---

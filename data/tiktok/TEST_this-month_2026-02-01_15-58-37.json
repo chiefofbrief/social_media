@@ -1,0 +1,10 @@
+{
+  "ticker": "TEST",
+  "query": "stock market",
+  "time_period": "this-month",
+  "timestamp": "2026-02-01T15:58:37.686139",
+  "videos": [],
+  "summary": {
+    "total_videos": 0
+  }
+}

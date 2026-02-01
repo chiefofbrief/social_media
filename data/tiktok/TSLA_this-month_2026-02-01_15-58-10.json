@@ -1,0 +1,10 @@
+{
+  "ticker": "TSLA",
+  "query": "#TSLA stock",
+  "time_period": "this-month",
+  "timestamp": "2026-02-01T15:58:10.747249",
+  "videos": [],
+  "summary": {
+    "total_videos": 0
+  }
+}
