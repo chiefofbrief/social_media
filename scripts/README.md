@@ -80,9 +80,9 @@ Example: `data/stocks/TSLA/reddit_2026-02-01_15-30-45.json`
 
 ### Cost
 
-- **1 credit per ticker** (search covers all 3 subreddits)
+- **3 credits per ticker** (1 credit per subreddit)
 - Credit check: 0 credits (automatic)
-- Example: 5 tickers = 5 credits = $0.024
+- Example: 5 tickers = 15 credits = $0.072
 
 ### Example Output Structure
 

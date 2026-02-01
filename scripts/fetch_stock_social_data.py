@@ -45,8 +45,8 @@ OUTPUT:
 
 API COST:
     - Credit check: 0 credits
-    - Per ticker search: 1 credit
-    - Results are combined from all 3 subreddits in one search
+    - Per ticker: 3 credits (1 per subreddit)
+    - Example: 5 tickers = 15 credits = $0.072
 
 EXAMPLE OUTPUT:
     data/stocks/TSLA/reddit_2026-02-01_15-30-45.json
@@ -142,23 +142,23 @@ class SociaVaultClient:
         response.raise_for_status()
         return response.json()
 
-    def search_reddit(self, query: str, timeframe: str = "month", sort: str = "relevance"):
+    def fetch_subreddit_posts(self, subreddit: str, timeframe: str = "month", sort: str = "top"):
         """
-        Search Reddit for posts matching a query with retry logic.
+        Fetch posts from a specific subreddit with retry logic.
 
         Args:
-            query: Search query (supports Boolean operators)
+            subreddit: Subreddit name (without r/ prefix)
             timeframe: Time period (hour, day, week, month, year, all)
-            sort: Sort method (relevance, hot, top, new, comments)
+            sort: Sort method (top, new, hot, rising, controversial)
 
         Returns:
-            API response as dictionary containing posts from all subreddits
+            API response as dictionary containing posts from the subreddit
 
         Raises:
             Exception: If the request fails after all retries
         """
         params = {
-            "query": query,
+            "subreddit": subreddit,
             "timeframe": timeframe,
             "sort": sort,
             "trim": False  # Get full data for analysis
@@ -168,7 +168,7 @@ class SociaVaultClient:
         for attempt in range(MAX_RETRIES):
             try:
                 response = requests.get(
-                    f"{SOCIAVAULT_BASE_URL}/scrape/reddit/search",
+                    f"{SOCIAVAULT_BASE_URL}/scrape/reddit/subreddit",
                     headers=self.headers,
                     params=params,
                     timeout=REQUEST_TIMEOUT
@@ -218,26 +218,6 @@ class SociaVaultClient:
 # DATA PROCESSING
 # ============================================================================
 
-def build_search_query(ticker: str) -> str:
-    """
-    Build a search query for a stock ticker.
-
-    Args:
-        ticker: Stock ticker symbol (e.g., TSLA)
-
-    Returns:
-        Search query string with Boolean operators
-    """
-    company_name = TICKER_MAPPING.get(ticker.upper(), "")
-
-    if company_name:
-        # Search for ticker OR company name AND stock-related terms
-        query = f'({ticker} OR "{company_name}") (stock OR price OR earnings OR buy OR sell OR analysis)'
-    else:
-        # Just ticker with stock terms
-        query = f'{ticker} (stock OR price OR earnings OR buy OR sell OR analysis)'
-
-    return query
 
 
 def filter_posts_by_date(posts: list, days: int) -> list:
@@ -285,23 +265,35 @@ def filter_posts_by_engagement(posts: list, min_score: int, min_comments: int) -
     return filtered
 
 
-def filter_posts_by_subreddit(posts: list, subreddits: list) -> list:
+def filter_posts_by_ticker(posts: list, ticker: str, company_name: str = "") -> list:
     """
-    Filter posts to only include those from target subreddits.
+    Filter posts to only include those that mention the ticker or company.
 
     Args:
         posts: List of post dictionaries
-        subreddits: List of subreddit names (without r/ prefix)
+        ticker: Stock ticker symbol
+        company_name: Optional company name
 
     Returns:
-        Filtered list of posts
+        Filtered list of posts that mention the ticker or company
     """
-    subreddits_lower = [s.lower() for s in subreddits]
+    ticker_upper = ticker.upper()
+    ticker_lower = ticker.lower()
 
-    filtered = [
-        post for post in posts
-        if post.get('subreddit', '').lower() in subreddits_lower
-    ]
+    search_terms = [ticker_upper, ticker_lower, f"${ticker_upper}"]
+    if company_name:
+        search_terms.append(company_name.lower())
+
+    filtered = []
+    for post in posts:
+        title = post.get('title', '').lower()
+        selftext = post.get('selftext', '').lower()
+
+        # Check if any search term appears in title or body
+        for term in search_terms:
+            if term.lower() in title or term.lower() in selftext:
+                filtered.append(post)
+                break
 
     return filtered
 
@@ -344,21 +336,36 @@ def fetch_ticker_data(client: SociaVaultClient, ticker: str, days: int,
         Dictionary with ticker data and filtered posts
     """
     try:
-        # Build search query
-        query = build_search_query(ticker)
-        console.print(f"[cyan]Searching: {query}[/cyan]")
+        company_name = TICKER_MAPPING.get(ticker.upper(), "")
+        all_posts = []
 
-        # Fetch data (1 credit)
-        # Use month timeframe and filter locally for precise date control
-        data = client.search_reddit(query, timeframe="month", sort="relevance")
+        # Fetch from each target subreddit (1 credit per subreddit = 3 credits total)
+        for subreddit in TARGET_SUBREDDITS:
+            try:
+                console.print(f"[cyan]  Fetching r/{subreddit}...[/cyan]")
 
-        # Extract posts
-        all_posts = extract_posts_from_response(data)
-        console.print(f"[dim]  Found {len(all_posts)} total posts[/dim]")
+                # Use month timeframe and filter locally for precise date control
+                data = client.fetch_subreddit_posts(subreddit, timeframe="month", sort="top")
 
-        # Filter by subreddit
-        posts = filter_posts_by_subreddit(all_posts, TARGET_SUBREDDITS)
-        console.print(f"[dim]  After subreddit filter: {len(posts)} posts[/dim]")
+                # Extract posts
+                posts = extract_posts_from_response(data)
+                console.print(f"[dim]    Found {len(posts)} posts in r/{subreddit}[/dim]")
+
+                all_posts.extend(posts)
+
+                # Small delay between subreddit fetches
+                if subreddit != TARGET_SUBREDDITS[-1]:
+                    time.sleep(0.5)
+
+            except Exception as e:
+                console.print(f"[yellow]    ⚠ Error fetching r/{subreddit}: {str(e)}[/yellow]")
+                continue
+
+        console.print(f"[dim]  Total posts from all subreddits: {len(all_posts)}[/dim]")
+
+        # Filter by ticker mention
+        posts = filter_posts_by_ticker(all_posts, ticker, company_name)
+        console.print(f"[dim]  After ticker filter: {len(posts)} posts[/dim]")
 
         # Filter by date
         posts = filter_posts_by_date(posts, days)
@@ -378,8 +385,7 @@ def fetch_ticker_data(client: SociaVaultClient, ticker: str, days: int,
 
         return {
             "ticker": ticker,
-            "company_name": TICKER_MAPPING.get(ticker.upper(), ""),
-            "search_query": query,
+            "company_name": company_name,
             "days_back": days,
             "min_score": min_score,
             "min_comments": min_comments,
@@ -576,8 +582,8 @@ def main():
         available_credits = credits_info.get('credits', 'unknown')
         console.print(f"[green]✓ Available credits: {available_credits}[/green]\n")
 
-        # Warn if low on credits
-        required_credits = len(tickers)
+        # Warn if low on credits (3 credits per ticker)
+        required_credits = len(tickers) * 3
         if isinstance(available_credits, (int, float)) and available_credits < required_credits:
             console.print(f"[yellow]⚠ Warning: Low credits. This operation requires {required_credits} credits.[/yellow]\n")
 
@@ -618,7 +624,7 @@ def main():
         # Summary
         console.print("\n" + "═" * console.width)
         console.print(f"\n[green]✓ Completed! Processed {len(tickers)} ticker(s)[/green]")
-        console.print(f"[dim]Total API credits used: {len(tickers)}[/dim]")
+        console.print(f"[dim]Total API credits used: {len(tickers) * 3}[/dim]")
 
         total_posts = sum(len(r.get('posts', [])) for r in all_results)
         console.print(f"[dim]Total posts found: {total_posts}[/dim]\n")
