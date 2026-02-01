@@ -1,4 +1,118 @@
-# Reddit Data Collection Scripts
+# Social Media Research Scripts
+
+Collection of scripts for researching stocks and topics across social media platforms using the SociaVault API.
+
+## Available Scripts
+
+- **[youtube_stock_research.py](#youtube_stock_researchpy)** - Research stock sentiment on YouTube with video analysis and transcripts
+- **[fetch_reddit_posts.py](#fetch_reddit_postspy)** - Fetch top posts from any subreddit
+
+---
+
+## youtube_stock_research.py
+
+Searches YouTube for videos about specific stocks, retrieves video details including transcripts, and analyzes sentiment for stock research.
+
+### Features
+
+- 🔍 Search YouTube for stock tickers/companies
+- 📅 Filter by time period (today, this_week, this_month, this_year, all_time)
+- 📹 Fetch full video details including transcripts
+- 📊 Automatic sentiment analysis (bullish/bearish/neutral)
+- 💾 Saves structured JSON results with engagement metrics
+
+### Setup
+
+1. Set your SociaVault API key as an environment variable:
+   ```bash
+   export SOCIAVAULT_API_KEY="your-api-key-here"
+   ```
+
+2. Install required dependencies:
+   ```bash
+   pip install requests
+   ```
+
+### Usage
+
+Basic usage (searches "TICKER stock" for past month):
+```bash
+python scripts/youtube_stock_research.py TSLA
+```
+
+Custom search with time filter:
+```bash
+python scripts/youtube_stock_research.py AMZN --time-period this_week --max-videos 20
+```
+
+Custom query with specific search terms:
+```bash
+python scripts/youtube_stock_research.py NVDA --query "NVDA earnings analysis" --max-videos 15
+```
+
+Skip transcript fetching for faster results:
+```bash
+python scripts/youtube_stock_research.py MSFT --no-details
+```
+
+### Parameters
+
+- `ticker` (required): Stock ticker symbol (e.g., TSLA, AMZN, NVDA)
+- `--query`: Custom search query (overrides default "{ticker} stock" search)
+- `--time-period`: Time filter - `last_hour`, `today`, `this_week`, `this_month` (default), `this_year`, `all_time`
+- `--max-videos`: Maximum videos to fetch (default: 20)
+- `--no-details`: Skip fetching video details and transcripts (faster but no sentiment analysis)
+- `--output`: Custom output file path
+
+### Output
+
+The script saves results to `data/youtube/{TICKER}_{timeperiod}_{timestamp}.json` with:
+
+- **Search metadata**: ticker, query, time period, timestamp
+- **Video details**: title, description, channel info, views, likes, comments
+- **Transcripts**: Full video transcripts with timestamps
+- **Sentiment analysis**: Bullish/bearish/neutral classification based on keywords in title, description, and transcript
+- **Summary statistics**: Total videos, views, engagement, sentiment breakdown
+
+### Sentiment Analysis
+
+Videos are analyzed for bullish/bearish sentiment using keyword detection:
+
+- 🟢 **Bullish**: buy, bull, growth, profit, opportunity, breakout, rally, upgrade, outperform
+- 🔴 **Bearish**: sell, bear, decline, loss, crash, warning, downgrade, weak, overvalued
+- ⚪ **Neutral**: Neither sentiment dominates
+
+### Cost
+
+- **1 credit** per search request
+- **1 credit** per video detail fetch (if `--no-details` not used)
+- Example: `--max-videos 10` with details = ~11 credits total
+
+### Examples
+
+Research Tesla stock from today:
+```bash
+python scripts/youtube_stock_research.py TSLA --time-period today
+```
+
+Research Amazon with custom query:
+```bash
+python scripts/youtube_stock_research.py AMZN --query "Amazon AWS earnings Q4"
+```
+
+Quick search without transcripts (cheaper):
+```bash
+python scripts/youtube_stock_research.py NVDA --max-videos 30 --no-details
+```
+
+Research Apple over past year:
+```bash
+python scripts/youtube_stock_research.py AAPL --time-period this_year --max-videos 50
+```
+
+---
+
+## Reddit Data Collection Scripts
 
 ## fetch_reddit_posts.py
 
