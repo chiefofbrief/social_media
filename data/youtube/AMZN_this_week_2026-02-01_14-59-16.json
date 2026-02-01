@@ -1,0 +1,1598 @@
+{
+  "ticker": "AMZN",
+  "query": "AMZN stock",
+  "time_period": "this_week",
+  "timestamp": "2026-02-01T14:59:16.115976",
+  "videos": [
+    {
+      "type": "video",
+      "id": "1s76pS26CU4",
+      "url": "https://www.youtube.com/watch?v=1s76pS26CU4",
+      "title": "Better Than Nvidia? The Case for Amazon in 2026",
+      "thumbnail": "https://img.youtube.com/vi/1s76pS26CU4/maxresdefault.jpg",
+      "channel": {
+        "id": "UCC9CV2-VQpxtILJJ2RvPZCA",
+        "url": "https://www.youtube.com/@RickOrford",
+        "handle": "RickOrford",
+        "title": "Rick Orford - Trading Stocks and Options For All"
+      },
+      "viewCountText": "3,633",
+      "viewCountInt": 3633,
+      "publishedTimeText": "2 days ago",
+      "publishedTime": "2026-01-30T14:59:00.773Z",
+      "lengthText": "15:42",
+      "lengthSeconds": 942,
+      "badges": {
+        "0": "New",
+        "1": "4K"
+      },
+      "description": "Amazon stock (AMZN) is up just 6% this year, lagging behind the rest of Big Tech. Is the market missing something, or is Amazon actually falling behind? In this video, I break down Amazon\u2019s Q3 earnings, the \"hidden\" risks in their net income, and the 3 massive growth drivers that could send this stock much higher in 2026.\n\nI\u2019ll also look at the $125 Billion AI spending risk, the \"fake\" profit numbers you need to know about, and whether Amazon is a buy, sell, or hold at $245.\n\nIf you\u2019re wondering whether Amazon is expensive, fairly valued, or setting up as a long-term buying opportunity, this video will give you the full picture.\n \nThe takeaways:\n\u2705 Why AWS and AI infrastructure could drive explosive profit growth\n\u2705 How Amazon\u2019s advertising business could quietly hit $100 billion\n\u2705 The under-the-radar margin expansion happening in retail\n\u2705 The biggest risk that could derail the bull case\n\u2705 What needs to happen next for Amazon stock to soar\n\nABOUT RICK ORFORD: I\u2019m Rick Orford, a Wall Street Journal Best-Selling Author and investor since 1999. I help you cut through the noise, understand the numbers, and make smarter decisions with your money.\n\nSkip ahead:\n0:00 - Intro\n1:10 - Company overview\n2:15 - Earnings\n4:57 - Stock price\n6:50 - Growth catalysts\n13:37  - Risks and red flags\n14:52 - Verdict\n\n#Amazon #AMZN #AmazonStock #Investing #Stocks #AIStocks #CloudComputing #AWS #TechStocks #GrowthStocks #LongTermInvesting #RickOrford #StockMarket #AdvertisingStocks #Magnificent7\n\n\ud83d\ude80 Check out Seeking Alpha: https://rickorford.com/sa \n\ud83c\udf10 Visit my Website: https://rickorford.com\n\u2705 Join my Discord Community: https://rickorford.com/join \n\ud83d\udd14 Don\u2019t forget to like, subscribe, and turn on notifications for more exclusive content!\n\nDISCLAIMER: Stock prices used were the market prices of Jan. 28, 2026. The video was published on Jan. 29, 2026. A portion of this video is sponsored by Seeking Alpha. Visit https://rickorford.com/sa for a 7-day free trial and a discount on your Seeking Alpha Premium annual membership. Past performance is not an indicator of future results. On the date of publication, Rick Orford had positions in AMZN. This video is for educational purposes only and not financial advice. Always do your own research and consult with a financial advisor before making any investment decisions. All information and data on this YouTube Channel is solely for entertainment purposes. I'm not a financial advisor, nor licensed in any way to provide any financial advice. The information herein is based solely on my personal opinion and experience. All investments hold inherent risk, and the information provided on this YouTube Channel should not be interpreted as any kind of guidance, recommendation, offer, advice, or suggestion. Any ideas and strategies discussed on this channel should not be implemented without first considering your financial and personal circumstances or without consulting a financial professional.",
+      "commentCountText": "38",
+      "commentCountInt": 38,
+      "likeCountInt": 117,
+      "likeCountText": "117",
+      "publishDate": "2026-01-29T12:00:03-08:00",
+      "genre": "Education",
+      "success": true,
+      "publishDateText": "Jan 29, 2026",
+      "collaborators": {},
+      "chapters": {
+        "0": {
+          "title": "Intro",
+          "timeDescription": "0:00",
+          "startSeconds": 0
+        },
+        "1": {
+          "title": "Company overview",
+          "timeDescription": "1:10",
+          "startSeconds": 70
+        },
+        "2": {
+          "title": "Earnings",
+          "timeDescription": "2:15",
+          "startSeconds": 135
+        },
+        "3": {
+          "title": "Stock price",
+          "timeDescription": "4:57",
+          "startSeconds": 297
+        },
+        "4": {
+          "title": "Growth catalysts",
+          "timeDescription": "6:50",
+          "startSeconds": 410
+        },
+        "5": {
+          "title": "Risks and red flags",
+          "timeDescription": "13:37",
+          "startSeconds": 817
+        },
+        "6": {
+          "title": "Verdict",
+          "timeDescription": "14:52",
+          "startSeconds": 892
+        }
+      },
+      "watchNextVideos": {
+        "0": {
+          "id": "3f8PgWFdmB8",
+          "title": "GET IN EARLY! These 3 Stocks Will Make Millionaires By 2030",
+          "thumbnail": "https://i.ytimg.com/vi/3f8PgWFdmB8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCd4pr7Py1YePPrwSJqDT_P3Vnccw",
+          "channel": {
+            "title": "Ticker Symbol: YOU",
+            "url": "https://www.youtube.com/@TickerSymbolYOU",
+            "handle": "TickerSymbolYOU",
+            "id": "UC7kCeZ53sli_9XwuQeFxLqw"
+          },
+          "publishedTimeText": "4 days ago",
+          "publishedTime": "2026-01-28T14:59:06.500Z",
+          "publishDateText": "4 days ago",
+          "publishDate": "2026-01-28T14:59:06.500Z",
+          "viewCountText": "227K views",
+          "viewCountInt": 227000,
+          "lengthText": "17:59",
+          "lengthInSeconds": 1079,
+          "videoUrl": "https://www.youtube.com/watch?v=3f8PgWFdmB8"
+        },
+        "1": {
+          "id": "c3RPSRp3Wig",
+          "title": "Is $250K, $500K, $750K, and $1M Enough to Retire Comfortably?",
+          "thumbnail": "https://i.ytimg.com/vi/c3RPSRp3Wig/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDIC-rk5xoe9WZoMwOraycu-nd6sA",
+          "channel": {
+            "title": "Humphrey Yang",
+            "url": "https://www.youtube.com/@humphrey",
+            "handle": "humphrey",
+            "id": "UCFBpVaKCC0ajGps1vf0AgBg"
+          },
+          "publishedTimeText": "3 days ago",
+          "publishedTime": "2026-01-29T14:59:06.500Z",
+          "publishDateText": "3 days ago",
+          "publishDate": "2026-01-29T14:59:06.500Z",
+          "viewCountText": "122K views",
+          "viewCountInt": 122000,
+          "lengthText": "15:38",
+          "lengthInSeconds": 938,
+          "videoUrl": "https://www.youtube.com/watch?v=c3RPSRp3Wig"
+        },
+        "2": {
+          "id": "xWhzpv4yM3Y",
+          "title": "Cathie Wood: \u201cThis Will 12X Starting 2026\u201d",
+          "thumbnail": "https://i9.ytimg.com/vi/xWhzpv4yM3Y/hqdefault_custom_1.jpg?sqp=CMTS_csG-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBf_KnQ8fKHyFeauFvXyefXv7SSQw",
+          "channel": {
+            "title": "Cooper Academy",
+            "url": "https://www.youtube.com/@thecooperacademy",
+            "handle": "thecooperacademy",
+            "id": "UCmHm0w-JJfC2Ll1Of_WObAQ"
+          },
+          "publishedTimeText": "1 day ago",
+          "publishedTime": "2026-01-31T14:59:06.500Z",
+          "publishDateText": "1 day ago",
+          "publishDate": "2026-01-31T14:59:06.500Z",
+          "viewCountText": "17K views",
+          "viewCountInt": 17000,
+          "lengthText": "22:39",
+          "lengthInSeconds": 1359,
+          "videoUrl": "https://www.youtube.com/watch?v=xWhzpv4yM3Y"
+        },
+        "3": {
+          "id": "YgcPQD9aKlE",
+          "title": "Meta\u2019s Earnings Look Great. That\u2019s the Problem",
+          "thumbnail": "https://i.ytimg.com/vi/YgcPQD9aKlE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBYFNUSkFmKM55Du_88tzZHgsLYUg",
+          "channel": {
+            "title": "Jerry Romine Stocks",
+            "url": "https://www.youtube.com/@JerryRomineStocks",
+            "handle": "JerryRomineStocks",
+            "id": "UCMiJUXvEpHHW5JTnW-ez9EA"
+          },
+          "publishedTimeText": "1 day ago",
+          "publishedTime": "2026-01-31T14:59:06.500Z",
+          "publishDateText": "1 day ago",
+          "publishDate": "2026-01-31T14:59:06.500Z",
+          "viewCountText": "11K views",
+          "viewCountInt": 11000,
+          "lengthText": "9:00",
+          "lengthInSeconds": 540,
+          "videoUrl": "https://www.youtube.com/watch?v=YgcPQD9aKlE"
+        },
+        "4": {
+          "id": "ZnHAWGQY4V8",
+          "title": "Cathie Wood : NVIDIA Is About to Get ABSURD",
+          "thumbnail": "https://i.ytimg.com/vi/ZnHAWGQY4V8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAJSnB5vQ2UyBosl5rQThzaqSTw9A",
+          "channel": {
+            "title": "The NVIDIA Report",
+            "url": "https://www.youtube.com/@TheNVIDIAReport",
+            "handle": "TheNVIDIAReport",
+            "id": "UCKjflY8gRC1ojOrs20s_YTg"
+          },
+          "publishedTimeText": "21 hours ago",
+          "publishedTime": "2026-02-01T14:59:06.500Z",
+          "publishDateText": "21 hours ago",
+          "publishDate": "2026-02-01T14:59:06.500Z",
+          "viewCountText": "11K views",
+          "viewCountInt": 11000,
+          "lengthText": "8:27",
+          "lengthInSeconds": 507,
+          "videoUrl": "https://www.youtube.com/watch?v=ZnHAWGQY4V8"
+        },
+        "5": {
+          "id": "OsEeetpStF4",
+          "title": "I Was Ranked #1: My Top Stock Picks for 2026 \ud83d\udcc8",
+          "thumbnail": "https://i.ytimg.com/vi/OsEeetpStF4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD7ufUJdG2tRxUP8jTmzmdhXyu1dA",
+          "channel": {
+            "title": "BWB - Business With Brian",
+            "url": "https://www.youtube.com/@BusinessWithBrian",
+            "handle": "BusinessWithBrian",
+            "id": "UCyqlbzLoYtpqDXwRI9Yh5LA"
+          },
+          "publishedTimeText": "7 days ago",
+          "publishedTime": "2026-01-25T14:59:06.500Z",
+          "publishDateText": "7 days ago",
+          "publishDate": "2026-01-25T14:59:06.500Z",
+          "viewCountText": "210K views",
+          "viewCountInt": 210000,
+          "lengthText": "22:49",
+          "lengthInSeconds": 1369,
+          "videoUrl": "https://www.youtube.com/watch?v=OsEeetpStF4"
+        },
+        "6": {
+          "id": "RS9uOBSp_iU",
+          "title": "EXPLAINED: Trump Just Crashed Gold, Silver, & Bitcoin",
+          "thumbnail": "https://i.ytimg.com/vi/RS9uOBSp_iU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDBPmSJE1nIiLa__VfYqjkdPurtBA",
+          "channel": {
+            "title": "Minority Mindset",
+            "url": "https://www.youtube.com/@MinorityMindset",
+            "handle": "MinorityMindset",
+            "id": "UCT3EznhW_CNFcfOlyDNTLLw"
+          },
+          "publishedTimeText": "1 day ago",
+          "publishedTime": "2026-01-31T14:59:06.500Z",
+          "publishDateText": "1 day ago",
+          "publishDate": "2026-01-31T14:59:06.500Z",
+          "viewCountText": "299K views",
+          "viewCountInt": 299000,
+          "lengthText": "14:10",
+          "lengthInSeconds": 850,
+          "videoUrl": "https://www.youtube.com/watch?v=RS9uOBSp_iU"
+        },
+        "7": {
+          "id": "Dj3bLWXfVb4",
+          "title": "Palantir is Down 7%. (Is the Bubble Bursting?)",
+          "thumbnail": "https://i.ytimg.com/vi/Dj3bLWXfVb4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBJAolBrbyma5Jq1Ai3JxaeFCdCOQ",
+          "channel": {
+            "title": "Rick Orford - Trading Stocks and Options For All",
+            "url": "https://www.youtube.com/@RickOrford",
+            "handle": "RickOrford",
+            "id": "UCC9CV2-VQpxtILJJ2RvPZCA"
+          },
+          "publishedTimeText": "2 days ago",
+          "publishedTime": "2026-01-30T14:59:06.500Z",
+          "publishDateText": "2 days ago",
+          "publishDate": "2026-01-30T14:59:06.500Z",
+          "viewCountText": "27K views",
+          "viewCountInt": 27000,
+          "lengthText": "12:55",
+          "lengthInSeconds": 775,
+          "videoUrl": "https://www.youtube.com/watch?v=Dj3bLWXfVb4"
+        },
+        "8": {
+          "id": "zGiTg6bPdk8",
+          "title": "NVIDIA Backpedals $100 Billion Deal With OpenAI...",
+          "thumbnail": "https://i.ytimg.com/vi/zGiTg6bPdk8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCzXWE_dV4WTUPiObGQwggBEP1VaQ",
+          "channel": {
+            "title": "YongYea",
+            "url": "https://www.youtube.com/@YongYea",
+            "handle": "YongYea",
+            "id": "UCT6iAerLNE-0J1S_E97UAuQ"
+          },
+          "publishedTimeText": "16 hours ago",
+          "publishedTime": "2026-02-01T14:59:06.500Z",
+          "publishDateText": "16 hours ago",
+          "publishDate": "2026-02-01T14:59:06.500Z",
+          "viewCountText": "171K views",
+          "viewCountInt": 171000,
+          "lengthText": "18:00",
+          "lengthInSeconds": 1080,
+          "videoUrl": "https://www.youtube.com/watch?v=zGiTg6bPdk8"
+        },
+        "9": {
+          "id": "Q5fSbuO8Q3k",
+          "title": "NVIDIA Just Killed OpenAI's $100 Billion Deal",
+          "thumbnail": "https://i.ytimg.com/vi/Q5fSbuO8Q3k/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCuD9OlTTFHqiRPXrzjKapkiyeJtA",
+          "channel": {
+            "title": "Dr. Josh C. Simmons",
+            "url": "https://www.youtube.com/@drjoshcsimmons",
+            "handle": "drjoshcsimmons",
+            "id": "UC4sdJIrKWKxymZ5lwVSBzTw"
+          },
+          "publishedTimeText": "1 day ago",
+          "publishedTime": "2026-01-31T14:59:06.500Z",
+          "publishDateText": "1 day ago",
+          "publishDate": "2026-01-31T14:59:06.500Z",
+          "viewCountText": "127K views",
+          "viewCountInt": 127000,
+          "lengthText": "11:08",
+          "lengthInSeconds": 668,
+          "videoUrl": "https://www.youtube.com/watch?v=Q5fSbuO8Q3k"
+        },
+        "10": {
+          "id": "6uCRZq0fVHo",
+          "title": "How One Loader's \"STUPID\" Ammo Swap Made Shermans Fire Twice as Fast",
+          "thumbnail": "https://i.ytimg.com/vi/6uCRZq0fVHo/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCGcFaqg3d9eASscEKDCalfkchQOA",
+          "channel": {
+            "title": "WWII Registry",
+            "url": "https://www.youtube.com/@WWIIRegistry",
+            "handle": "WWIIRegistry",
+            "id": "UC7WAhjoLJ1phkFquOLnNSpw"
+          },
+          "publishedTimeText": "1 month ago",
+          "publishedTime": "2026-01-01T14:59:06.500Z",
+          "publishDateText": "1 month ago",
+          "publishDate": "2026-01-01T14:59:06.500Z",
+          "viewCountText": "281K views",
+          "viewCountInt": 281000,
+          "lengthText": "21:44",
+          "lengthInSeconds": 1304,
+          "videoUrl": "https://www.youtube.com/watch?v=6uCRZq0fVHo"
+        },
+        "11": {
+          "id": "C3FTizAducE",
+          "title": "If YOU Give Me 20 Minutes, You'll Become Financially Free",
+          "thumbnail": "https://i.ytimg.com/vi/C3FTizAducE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAo6ZMAmELDe-kO9efsWjuOIZzq3w",
+          "channel": {
+            "title": "The Diary Of A CEO Clips",
+            "url": "https://www.youtube.com/@TheDiaryOfACEOClips",
+            "handle": "TheDiaryOfACEOClips",
+            "id": "UCnjgxChqYYnyoqO4k_Q1d6Q"
+          },
+          "publishedTimeText": "1 day ago",
+          "publishedTime": "2026-01-31T14:59:06.500Z",
+          "publishDateText": "1 day ago",
+          "publishDate": "2026-01-31T14:59:06.500Z",
+          "viewCountText": "249K views",
+          "viewCountInt": 249000,
+          "lengthText": "21:16",
+          "lengthInSeconds": 1276,
+          "videoUrl": "https://www.youtube.com/watch?v=C3FTizAducE"
+        }
+      },
+      "keywords": {
+        "0": "Amazon stock",
+        "1": "AMZN",
+        "2": "AMZN stock",
+        "3": "Amazon investing",
+        "4": "AWS stock",
+        "5": "AI stocks",
+        "6": "cloud computing stocks",
+        "7": "tech stocks",
+        "8": "growth stocks",
+        "9": "long term investing",
+        "10": "stock market investing",
+        "11": "advertising stocks",
+        "12": "Magnificent 7 stocks",
+        "13": "Rick Orford",
+        "14": "Amazon earnings",
+        "15": "Amazon AI",
+        "16": "Amazon AWS growth",
+        "17": "best stocks to buy"
+      },
+      "durationMs": 941000,
+      "durationFormatted": "00:15:41",
+      "captionTracks": {},
+      "transcript": null,
+      "transcript_only_text": null,
+      "sentiment_analysis": {
+        "sentiment": "bullish",
+        "confidence": 0.67,
+        "bullish_signals": 6,
+        "bearish_signals": 3,
+        "has_transcript": false
+      }
+    },
+    {
+      "type": "video",
+      "id": "AbbJJ3ojIqc",
+      "url": "https://www.youtube.com/watch?v=AbbJJ3ojIqc",
+      "title": "What to watch from Google and Amazon earnings",
+      "thumbnail": "https://img.youtube.com/vi/AbbJJ3ojIqc/maxresdefault.jpg",
+      "channel": {
+        "id": "UCEAZeUIeJs0IjQiqTCdVSIg",
+        "url": "https://www.youtube.com/@YahooFinance",
+        "handle": "YahooFinance",
+        "title": "Yahoo Finance"
+      },
+      "viewCountText": "3,212",
+      "viewCountInt": 3212,
+      "publishedTimeText": "9 hours ago",
+      "publishedTime": "2026-02-01T14:59:00.773Z",
+      "lengthText": "7:08",
+      "lengthSeconds": 428,
+      "badges": {
+        "0": "New"
+      },
+      "description": "Citi senior internet sector analyst Ron Josey speaks with Market Domination host Josh Lipton to discuss his expectations for the earnings print.\n\nTo watch more expert insights and analysis on the latest market action, check out more Market Domination here: https://finance.yahoo.com/videos/seri...\n#youtube #stocks #amazon #google #tech \n\n\nAbout Yahoo Finance:\n\nYahoo Finance provides free stock ticker data, up-to-date news, portfolio management resources, comprehensive market data, advanced tools, and more information to help you manage your financial life.\n\nGet the latest news and data at finance.yahoo.com\n\nDownload the Yahoo Finance app on Apple (https://apple.co/3Rten0R) or Android (https://bit.ly/3t8UnXO)\n\nFollow Yahoo Finance on social:\n\nX: \u00a0\u00a0/\u00a0yahoofinance\u00a0\u00a0\nInstagram: https://www.instagram.com/yahoofinanc...\nTikTok: https://www.tiktok.com/@yahoofinance?...\nFacebook: \u00a0\u00a0/\u00a0yahoofinance\u00a0\u00a0\nLinkedIn: \u00a0\u00a0/\u00a0yahoo-finance\u00a0\u00a0",
+      "commentCountText": "29",
+      "commentCountInt": 29,
+      "likeCountInt": 58,
+      "likeCountText": "58",
+      "publishDate": "2026-01-31T21:00:12-08:00",
+      "genre": "News & Politics",
+      "success": true,
+      "publishDateText": "Jan 31, 2026",
+      "collaborators": {},
+      "chapters": {},
+      "watchNextVideos": {
+        "0": {
+          "id": "LKhw8cZfTeQ",
+          "title": "Why Greenland Is So Empty (It\u2019s Not the Cold)",
+          "thumbnail": "https://i.ytimg.com/vi/LKhw8cZfTeQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA4a52EtCFY8lVf1fuK8hVbq9gQXA",
+          "channel": {
+            "title": "Map Pack",
+            "url": "https://www.youtube.com/@MapPack",
+            "handle": "MapPack",
+            "id": "UCb0JxFSwHTzH0AEsAzQHV4w"
+          },
+          "publishedTimeText": "2 months ago",
+          "publishedTime": "2025-12-01T14:59:08.406Z",
+          "publishDateText": "2 months ago",
+          "publishDate": "2025-12-01T14:59:08.406Z",
+          "viewCountText": "2.9M views",
+          "viewCountInt": 2900000,
+          "lengthText": "29:42",
+          "lengthInSeconds": 1782,
+          "videoUrl": "https://www.youtube.com/watch?v=LKhw8cZfTeQ"
+        },
+        "1": {
+          "id": "_WdwDlqbUmE",
+          "title": "Dump Your Bank For Fidelity's Cash Management Account? Is Fidelity's CMA Better?",
+          "thumbnail": "https://i.ytimg.com/vi/_WdwDlqbUmE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBcRCjSa_AUrp8jlKQEx0inChurFQ",
+          "channel": {
+            "title": "Diamond NestEgg",
+            "url": "https://www.youtube.com/@DiamondNestEgg",
+            "handle": "DiamondNestEgg",
+            "id": "UCnexoc6tvesvcCEzZhmI-Ag"
+          },
+          "publishedTimeText": "12 days ago",
+          "publishedTime": "2026-01-20T14:59:08.406Z",
+          "publishDateText": "12 days ago",
+          "publishDate": "2026-01-20T14:59:08.406Z",
+          "viewCountText": "299K views",
+          "viewCountInt": 299000,
+          "lengthText": "14:14",
+          "lengthInSeconds": 854,
+          "videoUrl": "https://www.youtube.com/watch?v=_WdwDlqbUmE"
+        },
+        "2": {
+          "id": "l6vyrCL56wg",
+          "title": "They Crashed Silver on Purpose\u2026 Here\u2019s The Real Plan",
+          "thumbnail": "https://i.ytimg.com/vi/l6vyrCL56wg/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAHT9IEjYrdQP3iKQls1im1RKuqHA",
+          "channel": {
+            "title": "Felix & Friends (Goat Academy)",
+            "url": "https://www.youtube.com/@FelixFriends",
+            "handle": "FelixFriends",
+            "id": "UCJtfma0mE_XrBAD9uakcjfA"
+          },
+          "publishedTimeText": "59 minutes ago",
+          "publishedTime": "2026-02-01T14:59:08.406Z",
+          "publishDateText": "59 minutes ago",
+          "publishDate": "2026-02-01T14:59:08.406Z",
+          "viewCountText": "29K views",
+          "viewCountInt": 29000,
+          "lengthText": "25:05",
+          "lengthInSeconds": 1505,
+          "videoUrl": "https://www.youtube.com/watch?v=l6vyrCL56wg"
+        },
+        "3": {
+          "id": "n7J6dPuk6Ek",
+          "title": "Waymo, Zoox, Tesla: Who Wins the Robotaxi Race?",
+          "thumbnail": "https://i.ytimg.com/vi/n7J6dPuk6Ek/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAt6d2yXrRFp4qWVHojzsqM9dsaGA",
+          "channel": {
+            "title": "Bloomberg Television",
+            "url": "https://www.youtube.com/@markets",
+            "handle": "markets",
+            "id": "UCIALMKvObZNtJ6AmdCLP7Lg"
+          },
+          "publishedTimeText": "3 weeks ago",
+          "publishedTime": "2026-01-11T14:59:08.406Z",
+          "publishDateText": "3 weeks ago",
+          "publishDate": "2026-01-11T14:59:08.406Z",
+          "viewCountText": "203K views",
+          "viewCountInt": 203000,
+          "lengthText": "11:04",
+          "lengthInSeconds": 664,
+          "videoUrl": "https://www.youtube.com/watch?v=n7J6dPuk6Ek"
+        },
+        "4": {
+          "id": "RBmOgQi4Fr0",
+          "title": "How Nvidia GPUs Compare To Google\u2019s And Amazon\u2019s AI Chips",
+          "thumbnail": "https://i.ytimg.com/vi/RBmOgQi4Fr0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBzY0m66Nc04z7byjSrPoHfhKSU2Q",
+          "channel": {
+            "title": "CNBC",
+            "url": "https://www.youtube.com/@CNBC",
+            "handle": "CNBC",
+            "id": "UCvJJ_dzjViJCoLf5uKUTwoA"
+          },
+          "publishedTimeText": "2 months ago",
+          "publishedTime": "2025-12-01T14:59:08.406Z",
+          "publishDateText": "2 months ago",
+          "publishDate": "2025-12-01T14:59:08.406Z",
+          "viewCountText": "1.3M views",
+          "viewCountInt": 1300000,
+          "lengthText": "15:59",
+          "lengthInSeconds": 959,
+          "videoUrl": "https://www.youtube.com/watch?v=RBmOgQi4Fr0"
+        },
+        "5": {
+          "id": "WQIE86q08mk",
+          "title": "#1 Best Meal to UNCLOG Your Arteries (Backed by Science)",
+          "thumbnail": "https://i.ytimg.com/vi/WQIE86q08mk/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAzRvqO-toSLXSWFjJY8m6mARCEHw",
+          "channel": {
+            "title": "Leonid Kim MD",
+            "url": "https://www.youtube.com/@LeonidKimMD",
+            "handle": "LeonidKimMD",
+            "id": "UCoMd8Ykj0UUZ0AFX6Ic7LMQ"
+          },
+          "publishedTimeText": "2 months ago",
+          "publishedTime": "2025-12-01T14:59:08.406Z",
+          "publishDateText": "2 months ago",
+          "publishDate": "2025-12-01T14:59:08.406Z",
+          "viewCountText": "2.9M views",
+          "viewCountInt": 2900000,
+          "lengthText": "11:30",
+          "lengthInSeconds": 690,
+          "videoUrl": "https://www.youtube.com/watch?v=WQIE86q08mk"
+        },
+        "6": {
+          "id": "D3L7AjNfTKM",
+          "title": "ICE Meeting Cold Open - SNL",
+          "thumbnail": "https://i.ytimg.com/vi/D3L7AjNfTKM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCnUsTAuwC1IWymo7QVhG1fVX-1JQ",
+          "channel": {
+            "title": "Saturday Night Live",
+            "url": "https://www.youtube.com/@SaturdayNightLive",
+            "handle": "SaturdayNightLive",
+            "id": "UCqFzWxSCi39LnW1JKFR3efg"
+          },
+          "publishedTimeText": "8 hours ago",
+          "publishedTime": "2026-02-01T14:59:08.406Z",
+          "publishDateText": "8 hours ago",
+          "publishDate": "2026-02-01T14:59:08.406Z",
+          "viewCountText": "920K views",
+          "viewCountInt": 920000,
+          "lengthText": "5:32",
+          "lengthInSeconds": 332,
+          "videoUrl": "https://www.youtube.com/watch?v=D3L7AjNfTKM"
+        },
+        "7": {
+          "id": "iCU812NL-ks",
+          "title": "The Tax Torpedo Explained: Why Middle-Class Millionaires Pay the Most",
+          "thumbnail": "https://i.ytimg.com/vi/iCU812NL-ks/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC1521Sw3jccDn2FUDoXwGjW2HCJA",
+          "channel": {
+            "title": "Erin Talks Money",
+            "url": "https://www.youtube.com/@ErinTalksMoney",
+            "handle": "ErinTalksMoney",
+            "id": "UCpXipTyhIY9kprpvVd-lu0A"
+          },
+          "publishedTimeText": "2 weeks ago",
+          "publishedTime": "2026-01-18T14:59:08.406Z",
+          "publishDateText": "2 weeks ago",
+          "publishDate": "2026-01-18T14:59:08.406Z",
+          "viewCountText": "225K views",
+          "viewCountInt": 225000,
+          "lengthText": "20:55",
+          "lengthInSeconds": 1255,
+          "videoUrl": "https://www.youtube.com/watch?v=iCU812NL-ks"
+        },
+        "8": {
+          "id": "PhCS2MT77Ek",
+          "title": "Apple crushes earnings on iPhone sales, but what about AI?",
+          "thumbnail": "https://i.ytimg.com/vi/PhCS2MT77Ek/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDuAKVPvMFTyEp2j5QrZBecCSfUrg",
+          "channel": {
+            "title": "Yahoo Finance",
+            "url": "https://www.youtube.com/@YahooFinance",
+            "handle": "YahooFinance",
+            "id": "UCEAZeUIeJs0IjQiqTCdVSIg"
+          },
+          "publishedTimeText": "1 day ago",
+          "publishedTime": "2026-01-31T14:59:08.406Z",
+          "publishDateText": "1 day ago",
+          "publishDate": "2026-01-31T14:59:08.406Z",
+          "viewCountText": "1.2K views",
+          "viewCountInt": 1200,
+          "lengthText": "30:58",
+          "lengthInSeconds": 1858,
+          "videoUrl": "https://www.youtube.com/watch?v=PhCS2MT77Ek"
+        },
+        "9": {
+          "id": "YTjnaH9ZxfM",
+          "title": "15 Everyday French Habits That Blow Americans Away",
+          "thumbnail": "https://i.ytimg.com/vi/YTjnaH9ZxfM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA_GWlus54_Gh3z6b7I_bAlL0tZ4g",
+          "channel": {
+            "title": "Les Frenchies",
+            "url": "https://www.youtube.com/@LesFrenchiesTravel",
+            "handle": "LesFrenchiesTravel",
+            "id": "UC5m1fPLNTZCgLjIzO5iy-Ng"
+          },
+          "publishedTimeText": "1 month ago",
+          "publishedTime": "2026-01-01T14:59:08.406Z",
+          "publishDateText": "1 month ago",
+          "publishDate": "2026-01-01T14:59:08.406Z",
+          "viewCountText": "991K views",
+          "viewCountInt": 991000,
+          "lengthText": "13:37",
+          "lengthInSeconds": 817,
+          "videoUrl": "https://www.youtube.com/watch?v=YTjnaH9ZxfM"
+        },
+        "10": {
+          "id": "r8popkdCeHI",
+          "title": "Dan Ives: \"Nvidia's World, Everyone Else is Paying Rent\"",
+          "thumbnail": "https://i.ytimg.com/vi/r8popkdCeHI/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYEyAxKH8wDw==&rs=AOn4CLB0Bn3YeJg6gZHWZDkhLGj5Gp3yGA",
+          "channel": {
+            "title": "Schwab Network",
+            "url": "https://www.youtube.com/@SchwabNetwork",
+            "handle": "SchwabNetwork",
+            "id": "UCqoSrYgusd8ZddtMoWhjHYA"
+          },
+          "publishedTimeText": "2 months ago",
+          "publishedTime": "2025-12-01T14:59:08.406Z",
+          "publishDateText": "2 months ago",
+          "publishDate": "2025-12-01T14:59:08.406Z",
+          "viewCountText": "57K views",
+          "viewCountInt": 57000,
+          "lengthText": "10:23",
+          "lengthInSeconds": 623,
+          "videoUrl": "https://www.youtube.com/watch?v=r8popkdCeHI"
+        },
+        "11": {
+          "id": "T__1QViXUxk",
+          "title": "Ex-Google Recruiter Explains Why \"Lying\" Gets You Hired",
+          "thumbnail": "https://i.ytimg.com/vi/T__1QViXUxk/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDU6lEiTiv8Je5y6SX2Z19U59mvAQ",
+          "channel": {
+            "title": "Farah Sharghi",
+            "url": "https://www.youtube.com/@Farah_Sharghi",
+            "handle": "Farah_Sharghi",
+            "id": "UCJMoh2CdnIesjxN9cmGhrLA"
+          },
+          "publishedTimeText": "1 month ago",
+          "publishedTime": "2026-01-01T14:59:08.406Z",
+          "publishDateText": "1 month ago",
+          "publishDate": "2026-01-01T14:59:08.406Z",
+          "viewCountText": "674K views",
+          "viewCountInt": 674000,
+          "lengthText": "11:55",
+          "lengthInSeconds": 715,
+          "videoUrl": "https://www.youtube.com/watch?v=T__1QViXUxk"
+        }
+      },
+      "keywords": {
+        "0": "Yahoo Finance",
+        "1": "Personal Finance",
+        "2": "Money",
+        "3": "Investing",
+        "4": "Business",
+        "5": "Savings",
+        "6": "Investment",
+        "7": "Stocks",
+        "8": "Bonds",
+        "9": "FX",
+        "10": "Currencies",
+        "11": "NYSE",
+        "12": "Equities",
+        "13": "News",
+        "14": "Politics",
+        "15": "Market",
+        "16": "Markets",
+        "17": "Yahoo FInance Premium",
+        "18": "Stock market"
+      },
+      "durationMs": 428000,
+      "durationFormatted": "00:07:08",
+      "captionTracks": {},
+      "transcript": null,
+      "transcript_only_text": null,
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "bullish_signals": 0,
+        "bearish_signals": 0,
+        "has_transcript": false
+      }
+    },
+    {
+      "type": "video",
+      "id": "huZpnL5t02Q",
+      "url": "https://www.youtube.com/watch?v=huZpnL5t02Q",
+      "title": "Week Ahead: Alphabet, Amazon, Advanced Micro Devices | Stock Movers",
+      "thumbnail": "https://img.youtube.com/vi/huZpnL5t02Q/maxresdefault.jpg",
+      "channel": {
+        "id": "UChF5O40UBqAc82I7-i5ig6A",
+        "url": "https://www.youtube.com/@BloombergPodcasts",
+        "handle": "BloombergPodcasts",
+        "title": "Bloomberg Podcasts"
+      },
+      "viewCountText": "261",
+      "viewCountInt": 261,
+      "publishedTimeText": "2 hours ago",
+      "publishedTime": "2026-02-01T14:59:00.773Z",
+      "lengthText": "6:47",
+      "lengthSeconds": 407,
+      "badges": {
+        "0": "New"
+      },
+      "description": "A look at the biggest stories in stocks in the coming week. \n\nBig Tech earnings are still in focus with Alphabet, Amazon and AMD all reporting in the coming days. Bloomberg's Nathan Hager previews the numbers with Mandeep Singh of Bloomberg Intelligence. \nSee omnystudio.com/listener (https://omnystudio.com/listener) for privacy information.\n\n\nBloomberg journalists discuss today's biggest winners and losers in the stock market. Listen for analysis on the companies making news on Wall Street.\n\nCheck out more episodes of Stock Movers: \u00a0\u00a0\u00a0\u2022\u00a0Stock\u00a0Movers\u00a0\u00a0\n\nVisit us: https://www.bloomberg.com/podcasts\n\nFollow Bloomberg Podcasts on Twitter: \u00a0\u00a0/\u00a0podcasts\u00a0\u00a0\n\nVisit our other YouTube channels:\nBloomberg Television: \u00a0\u00a0\u00a0/\u00a0@markets\u00a0\u00a0 \nBloomberg Originals: \u00a0\u00a0\u00a0/\u00a0bloomberg\u00a0\u00a0\nQuicktake: \u00a0\u00a0\u00a0/\u00a0@bloombergquicktake\u00a0\u00a0\n\nFor coverage on news, markets and more: http://www.bloomberg.com/video\n\n#Stocks #Markets #Finance #Investing #Podcast #Bloomberg\n\nWeek Ahead: Alphabet, Amazon, Advanced Micro Devices",
+      "commentCountText": "2",
+      "commentCountInt": 2,
+      "likeCountInt": 15,
+      "likeCountText": "15",
+      "publishDate": "2026-02-01T04:09:12-08:00",
+      "genre": "News & Politics",
+      "success": true,
+      "publishDateText": "Feb 1, 2026",
+      "collaborators": {},
+      "chapters": {},
+      "watchNextVideos": {
+        "0": {
+          "id": "n7J6dPuk6Ek",
+          "title": "Waymo, Zoox, Tesla: Who Wins the Robotaxi Race?",
+          "thumbnail": "https://i.ytimg.com/vi/n7J6dPuk6Ek/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAt6d2yXrRFp4qWVHojzsqM9dsaGA",
+          "channel": {
+            "title": "Bloomberg Television",
+            "url": "https://www.youtube.com/@markets",
+            "handle": "markets",
+            "id": "UCIALMKvObZNtJ6AmdCLP7Lg"
+          },
+          "publishedTimeText": "3 weeks ago",
+          "publishedTime": "2026-01-11T14:59:11.168Z",
+          "publishDateText": "3 weeks ago",
+          "publishDate": "2026-01-11T14:59:11.168Z",
+          "viewCountText": "203K views",
+          "viewCountInt": 203000,
+          "lengthText": "11:04",
+          "lengthInSeconds": 664,
+          "videoUrl": "https://www.youtube.com/watch?v=n7J6dPuk6Ek"
+        },
+        "1": {
+          "id": "87Pm0SGTtN8",
+          "title": "Marc Andreessen: The real AI boom hasn\u2019t even started yet",
+          "thumbnail": "https://i.ytimg.com/vi/87Pm0SGTtN8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDwD7GSqfkRcUFZA_oLN32FTR6m-A",
+          "channel": {
+            "title": "Lenny's Podcast and a16z",
+            "url": "https://www.youtube.comundefined"
+          },
+          "publishedTimeText": "3 days ago",
+          "publishedTime": "2026-01-29T14:59:11.168Z",
+          "publishDateText": "3 days ago",
+          "publishDate": "2026-01-29T14:59:11.168Z",
+          "viewCountText": "95K views",
+          "viewCountInt": 95000,
+          "lengthText": "1:44:36",
+          "lengthInSeconds": 6276,
+          "videoUrl": "https://www.youtube.com/watch?v=87Pm0SGTtN8"
+        },
+        "2": {
+          "id": "D3L7AjNfTKM",
+          "title": "ICE Meeting Cold Open - SNL",
+          "thumbnail": "https://i.ytimg.com/vi/D3L7AjNfTKM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCnUsTAuwC1IWymo7QVhG1fVX-1JQ",
+          "channel": {
+            "title": "Saturday Night Live",
+            "url": "https://www.youtube.com/@SaturdayNightLive",
+            "handle": "SaturdayNightLive",
+            "id": "UCqFzWxSCi39LnW1JKFR3efg"
+          },
+          "publishedTimeText": "8 hours ago",
+          "publishedTime": "2026-02-01T14:59:11.168Z",
+          "publishDateText": "8 hours ago",
+          "publishDate": "2026-02-01T14:59:11.168Z",
+          "viewCountText": "920K views",
+          "viewCountInt": 920000,
+          "lengthText": "5:32",
+          "lengthInSeconds": 332,
+          "videoUrl": "https://www.youtube.com/watch?v=D3L7AjNfTKM"
+        },
+        "3": {
+          "id": "f9Vb1rw8YOE",
+          "title": "Bloomberg News Now: Nvidia CEO Plans 'Huge' OpenAI Investment, Trump on Iran, More",
+          "thumbnail": "https://i.ytimg.com/vi/f9Vb1rw8YOE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAS2fQ1zKTMe6v9T0uccNEZiL2jAA",
+          "channel": {
+            "title": "Bloomberg Podcasts",
+            "url": "https://www.youtube.com/@BloombergPodcasts",
+            "handle": "BloombergPodcasts",
+            "id": "UChF5O40UBqAc82I7-i5ig6A"
+          },
+          "publishedTimeText": "17 minutes ago",
+          "publishedTime": "2026-02-01T14:59:11.168Z",
+          "publishDateText": "17 minutes ago",
+          "publishDate": "2026-02-01T14:59:11.168Z",
+          "viewCountText": "139 views",
+          "viewCountInt": 139,
+          "lengthText": "4:32",
+          "lengthInSeconds": 272,
+          "videoUrl": "https://www.youtube.com/watch?v=f9Vb1rw8YOE"
+        },
+        "4": {
+          "id": "3f8PgWFdmB8",
+          "title": "GET IN EARLY! These 3 Stocks Will Make Millionaires By 2030",
+          "thumbnail": "https://i.ytimg.com/vi/3f8PgWFdmB8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCd4pr7Py1YePPrwSJqDT_P3Vnccw",
+          "channel": {
+            "title": "Ticker Symbol: YOU",
+            "url": "https://www.youtube.com/@TickerSymbolYOU",
+            "handle": "TickerSymbolYOU",
+            "id": "UC7kCeZ53sli_9XwuQeFxLqw"
+          },
+          "publishedTimeText": "4 days ago",
+          "publishedTime": "2026-01-28T14:59:11.168Z",
+          "publishDateText": "4 days ago",
+          "publishDate": "2026-01-28T14:59:11.168Z",
+          "viewCountText": "227K views",
+          "viewCountInt": 227000,
+          "lengthText": "17:59",
+          "lengthInSeconds": 1079,
+          "videoUrl": "https://www.youtube.com/watch?v=3f8PgWFdmB8"
+        },
+        "5": {
+          "id": "S50fs3RjGgI",
+          "title": "Can You Sell Gold and Silver Without Reporting to the IRS?",
+          "thumbnail": "https://i.ytimg.com/vi/S50fs3RjGgI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAkgUbvVNnt-Qdv2UU1-mczj0fPFw",
+          "channel": {
+            "title": "Noel Lorenzana, CPA",
+            "url": "https://www.youtube.com/@NoelLorenzanaCPA",
+            "handle": "NoelLorenzanaCPA",
+            "id": "UClRts0Q57rCdS14e2o5xrcQ"
+          },
+          "publishedTimeText": "1 day ago",
+          "publishedTime": "2026-01-31T14:59:11.168Z",
+          "publishDateText": "1 day ago",
+          "publishDate": "2026-01-31T14:59:11.168Z",
+          "viewCountText": "74K views",
+          "viewCountInt": 74000,
+          "lengthText": "16:38",
+          "lengthInSeconds": 998,
+          "videoUrl": "https://www.youtube.com/watch?v=S50fs3RjGgI"
+        },
+        "6": {
+          "id": "kf_lvLxa8lc",
+          "title": "New photos from Epstein files appears to show Andrew on all fours over female | BBC News",
+          "thumbnail": "https://i.ytimg.com/vi/kf_lvLxa8lc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAYOvH3O2x--FGuSd8-_WjxSblKWg",
+          "channel": {
+            "title": "BBC News",
+            "url": "https://www.youtube.com/@BBCNews",
+            "handle": "BBCNews",
+            "id": "UC16niRr50-MSBwiO3YDb3RA"
+          },
+          "publishedTimeText": "22 hours ago",
+          "publishedTime": "2026-02-01T14:59:11.168Z",
+          "publishDateText": "22 hours ago",
+          "publishDate": "2026-02-01T14:59:11.168Z",
+          "viewCountText": "1.1M views",
+          "viewCountInt": 1100000,
+          "lengthText": "8:36",
+          "lengthInSeconds": 516,
+          "videoUrl": "https://www.youtube.com/watch?v=kf_lvLxa8lc"
+        },
+        "7": {
+          "id": "f2F8iDFZae8",
+          "title": "Why Microsoft stock dropped after earnings",
+          "thumbnail": "https://i.ytimg.com/vi/f2F8iDFZae8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDLxnHNiX6mD3Y-MZj5MpdnLX2Zfg",
+          "channel": {
+            "title": "Yahoo Finance",
+            "url": "https://www.youtube.com/@YahooFinance",
+            "handle": "YahooFinance",
+            "id": "UCEAZeUIeJs0IjQiqTCdVSIg"
+          },
+          "publishedTimeText": "2 days ago",
+          "publishedTime": "2026-01-30T14:59:11.168Z",
+          "publishDateText": "2 days ago",
+          "publishDate": "2026-01-30T14:59:11.168Z",
+          "viewCountText": "45K views",
+          "viewCountInt": 45000,
+          "lengthText": "28:31",
+          "lengthInSeconds": 1711,
+          "videoUrl": "https://www.youtube.com/watch?v=f2F8iDFZae8"
+        },
+        "8": {
+          "id": "WPKHKkylciI",
+          "title": "The song that broke every songwriting rule",
+          "thumbnail": "https://i.ytimg.com/vi/WPKHKkylciI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDvQZKrPOVINccLDsaRsraDogx_bQ",
+          "channel": {
+            "title": "David Hartley",
+            "url": "https://www.youtube.com/@davidhartley94",
+            "handle": "davidhartley94",
+            "id": "UCydX8ueOwv5_bvd7Uj0HBHw"
+          },
+          "publishedTimeText": "2 days ago",
+          "publishedTime": "2026-01-30T14:59:11.168Z",
+          "publishDateText": "2 days ago",
+          "publishDate": "2026-01-30T14:59:11.168Z",
+          "viewCountText": "321K views",
+          "viewCountInt": 321000,
+          "lengthText": "24:17",
+          "lengthInSeconds": 1457,
+          "videoUrl": "https://www.youtube.com/watch?v=WPKHKkylciI"
+        },
+        "9": {
+          "id": "ZnHAWGQY4V8",
+          "title": "Cathie Wood : NVIDIA Is About to Get ABSURD",
+          "thumbnail": "https://i.ytimg.com/vi/ZnHAWGQY4V8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAJSnB5vQ2UyBosl5rQThzaqSTw9A",
+          "channel": {
+            "title": "The NVIDIA Report",
+            "url": "https://www.youtube.com/@TheNVIDIAReport",
+            "handle": "TheNVIDIAReport",
+            "id": "UCKjflY8gRC1ojOrs20s_YTg"
+          },
+          "publishedTimeText": "21 hours ago",
+          "publishedTime": "2026-02-01T14:59:11.168Z",
+          "publishDateText": "21 hours ago",
+          "publishDate": "2026-02-01T14:59:11.168Z",
+          "viewCountText": "11K views",
+          "viewCountInt": 11000,
+          "lengthText": "8:27",
+          "lengthInSeconds": 507,
+          "videoUrl": "https://www.youtube.com/watch?v=ZnHAWGQY4V8"
+        },
+        "10": {
+          "id": "0aeJ7NVg5cE",
+          "title": "What's behind the recent wave of job cuts | DW News",
+          "thumbnail": "https://i.ytimg.com/vi/0aeJ7NVg5cE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAFtEMFRSEUQ64jBzxoSS9lePcJ5g",
+          "channel": {
+            "title": "DW News",
+            "url": "https://www.youtube.com/@dwnews",
+            "handle": "dwnews",
+            "id": "UCknLrEdhRCp1aegoMqRaCZg"
+          },
+          "publishedTimeText": "1 day ago",
+          "publishedTime": "2026-01-31T14:59:11.168Z",
+          "publishDateText": "1 day ago",
+          "publishDate": "2026-01-31T14:59:11.168Z",
+          "viewCountText": "100K views",
+          "viewCountInt": 100000,
+          "lengthText": "10:58",
+          "lengthInSeconds": 658,
+          "videoUrl": "https://www.youtube.com/watch?v=0aeJ7NVg5cE"
+        },
+        "11": {
+          "id": "RT8_g8TAJ94",
+          "title": "Why West Virginia Is Emptying Out",
+          "thumbnail": "https://i.ytimg.com/vi/RT8_g8TAJ94/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBkt-XB5J2l3qwQM9eO7iw-FVpMbA",
+          "channel": {
+            "title": "Geography By Geoff",
+            "url": "https://www.youtube.com/@GeographyByGeoff",
+            "handle": "GeographyByGeoff",
+            "id": "UC7-Z34pbJ0ZAOJRmUCEz0Cg"
+          },
+          "publishedTimeText": "4 days ago",
+          "publishedTime": "2026-01-28T14:59:11.168Z",
+          "publishDateText": "4 days ago",
+          "publishDate": "2026-01-28T14:59:11.168Z",
+          "viewCountText": "340K views",
+          "viewCountInt": 340000,
+          "lengthText": "18:45",
+          "lengthInSeconds": 1125,
+          "videoUrl": "https://www.youtube.com/watch?v=RT8_g8TAJ94"
+        }
+      },
+      "keywords": {
+        "0": "Business",
+        "1": "Business News",
+        "2": "Daily News",
+        "3": "News",
+        "4": "bloomberg",
+        "5": "bloomberg news",
+        "6": "business",
+        "7": "finance",
+        "8": "investing",
+        "9": "investing news",
+        "10": "markets",
+        "11": "markets news",
+        "12": "podcast",
+        "13": "radio",
+        "14": "stock",
+        "15": "stock market",
+        "16": "stocks",
+        "17": "stocks podcast"
+      },
+      "durationMs": 407000,
+      "durationFormatted": "00:06:47",
+      "captionTracks": {},
+      "transcript": null,
+      "transcript_only_text": null,
+      "sentiment_analysis": {
+        "sentiment": "neutral",
+        "confidence": 0.5,
+        "bullish_signals": 0,
+        "bearish_signals": 0,
+        "has_transcript": false
+      }
+    },
+    {
+      "type": "video",
+      "id": "XXXd5Gcdzto",
+      "url": "https://www.youtube.com/watch?v=XXXd5Gcdzto",
+      "title": "AMZN Amazon Stock: Monday Predicted Opening Price After 16K Layoffs - 5 Key Price Targets \ud83d\udd25",
+      "thumbnail": "https://img.youtube.com/vi/XXXd5Gcdzto/maxresdefault.jpg",
+      "channel": {
+        "id": "UCCWXov3PHr0kX9WG543svBw",
+        "url": "https://www.youtube.com/@StockInvestUS",
+        "handle": "StockInvestUS",
+        "title": "StockInvest.us"
+      },
+      "viewCountText": "87",
+      "viewCountInt": 87,
+      "publishedTimeText": "1 day ago",
+      "publishedTime": "2026-01-31T14:59:00.773Z",
+      "lengthText": "12:19",
+      "lengthSeconds": 739,
+      "badges": {
+        "0": "New"
+      },
+      "description": "Amazon Stock Prediction and Forecast [AMZN]\n  \nAmazon price prediction was made for Monday, February 02, 2026\n  \n\u25aa\ufe0f Check the most recent AMZN analysis at: https://stockinvest.us/stock/AMZN\n\u2753 How to Buy AMZN stock? https://stockinvest.us/how-to-buy-ama...\n  \nWe go over the AMZN Inc. stock and give our stock price prediction (AMZN). Our AMZN stock price analysis and stock price forecast on AMZN for Monday, February 02, 2026\n  \nAmazon Stock Analysis - AMZN Stock Price Prediction for Monday, February 02, 2026\n  \nAMZN STOCK: THIS IS A AMZN STOCK PRICE PREDICTION, AMZN STOCK PRICE ANALYSIS, AND A AMZN STOCK PRICE FORECAST VIDEO.\n  \n\ud83d\ude80 GET THE 30% PREMIUM DEAL TODAY + 14-DAY TRIAL\nhttps://stockinvest.us/order/youtube-... \ud83d\ude80\n  \n\ud83d\udcb0\ud83d\udcb0BECOME AN AFFILIATE AND EARN MONEY WITH US\ud83d\udcb0\ud83d\udcb0\nhttps://stockinvest.us/affiliates?ref=YT\n  \n\u25aa\ufe0f Join us:\nX: \u00a0\u00a0/\u00a0stockinvestus\u00a0\u00a0\nStocktwits: https://stocktwits.com/StockInvest_us\nReddit: \u00a0\u00a0/\u00a0stockinvest\u00a0\u00a0\n\n\u2728 3 AI-Powered Stock Analysis Tools: https://stockinvest.us/ai-analysis-offer\n  \n\u25aa\ufe0f Disclaimer: We remind you that trading involves a high risk of losing money and that you should speak with a financial advisor before buying or selling any securities. You should not base your investment decision upon StockInvest.us. By using the information, you agree and are held liable for your own investment decisions.\n  \n\u00a9 2026 StockInvest.us\n  \n#AMZN\n#TopStocks\n#StocksToBuy",
+      "commentCountInt": null,
+      "likeCountInt": 1,
+      "likeCountText": "1",
+      "publishDate": "2026-01-30T14:53:34-08:00",
+      "genre": "News & Politics",
+      "success": true,
+      "publishDateText": "Jan 30, 2026",
+      "collaborators": {},
+      "chapters": {},
+      "watchNextVideos": {
+        "0": {
+          "id": "3f8PgWFdmB8",
+          "title": "GET IN EARLY! These 3 Stocks Will Make Millionaires By 2030",
+          "thumbnail": "https://i.ytimg.com/vi/3f8PgWFdmB8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCd4pr7Py1YePPrwSJqDT_P3Vnccw",
+          "channel": {
+            "title": "Ticker Symbol: YOU",
+            "url": "https://www.youtube.com/@TickerSymbolYOU",
+            "handle": "TickerSymbolYOU",
+            "id": "UC7kCeZ53sli_9XwuQeFxLqw"
+          },
+          "publishedTimeText": "4 days ago",
+          "publishedTime": "2026-01-28T14:59:14.028Z",
+          "publishDateText": "4 days ago",
+          "publishDate": "2026-01-28T14:59:14.028Z",
+          "viewCountText": "227K views",
+          "viewCountInt": 227000,
+          "lengthText": "17:59",
+          "lengthInSeconds": 1079,
+          "videoUrl": "https://www.youtube.com/watch?v=3f8PgWFdmB8"
+        },
+        "1": {
+          "id": "Yk93CpXF7zQ",
+          "title": "Why Trump\u2019s Dollar Collapse Actually Makes Sense (most aren\u2019t ready)",
+          "thumbnail": "https://i.ytimg.com/vi/Yk93CpXF7zQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBlYXpZvsi5rYfdqtjFppHePLvdXg",
+          "channel": {
+            "title": "Felix & Friends (Goat Academy)",
+            "url": "https://www.youtube.com/@FelixFriends",
+            "handle": "FelixFriends",
+            "id": "UCJtfma0mE_XrBAD9uakcjfA"
+          },
+          "publishedTimeText": "2 days ago",
+          "publishedTime": "2026-01-30T14:59:14.028Z",
+          "publishDateText": "2 days ago",
+          "publishDate": "2026-01-30T14:59:14.028Z",
+          "viewCountText": "295K views",
+          "viewCountInt": 295000,
+          "lengthText": "26:00",
+          "lengthInSeconds": 1560,
+          "videoUrl": "https://www.youtube.com/watch?v=Yk93CpXF7zQ"
+        },
+        "2": {
+          "id": "xi8BV6bWsWg",
+          "title": "IT'S OVER: China Just Sold All US Debt What They Aren't Telling You",
+          "thumbnail": "https://i.ytimg.com/vi/xi8BV6bWsWg/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBaqHKuyJoDqVl9MuFK0U0tgyTjLw",
+          "channel": {
+            "title": "Money Rewind",
+            "url": "https://www.youtube.com/@MoneyRewindd",
+            "handle": "MoneyRewindd",
+            "id": "UCt7K12KH87JRYKDZodG60dw"
+          },
+          "publishedTimeText": "2 days ago",
+          "publishedTime": "2026-01-30T14:59:14.028Z",
+          "publishDateText": "2 days ago",
+          "publishDate": "2026-01-30T14:59:14.028Z",
+          "viewCountText": "390K views",
+          "viewCountInt": 390000,
+          "lengthText": "30:06",
+          "lengthInSeconds": 1806,
+          "videoUrl": "https://www.youtube.com/watch?v=xi8BV6bWsWg"
+        },
+        "3": {
+          "id": "k2xEXN0cyxc",
+          "title": "5 Hot Stocks to Buy Now: February's Top Picks With Upside Ahead",
+          "thumbnail": "https://i.ytimg.com/vi/k2xEXN0cyxc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAAdvGG8fhUHDEtsPJdhg9FQs3p7A",
+          "channel": {
+            "title": "MarketBeat",
+            "url": "https://www.youtube.com/@MarketBeatMedia",
+            "handle": "MarketBeatMedia",
+            "id": "UCDMRj2UMCY4Jp49Waf_2X9g"
+          },
+          "publishedTimeText": "2 days ago",
+          "publishedTime": "2026-01-30T14:59:14.028Z",
+          "publishDateText": "2 days ago",
+          "publishDate": "2026-01-30T14:59:14.028Z",
+          "viewCountText": "40K views",
+          "viewCountInt": 40000,
+          "lengthText": "15:28",
+          "lengthInSeconds": 928,
+          "videoUrl": "https://www.youtube.com/watch?v=k2xEXN0cyxc"
+        },
+        "4": {
+          "id": "ZZ2nWg1QhR4",
+          "title": "IT'S OVER! I Can't Stay Quiet on GOOGLE vs NVIDIA Any Longer",
+          "thumbnail": "https://i.ytimg.com/vi/ZZ2nWg1QhR4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDFUUdjtj9kheOCurl7QnpC76r1IQ",
+          "channel": {
+            "title": "Ticker Symbol: YOU",
+            "url": "https://www.youtube.com/@TickerSymbolYOU",
+            "handle": "TickerSymbolYOU",
+            "id": "UC7kCeZ53sli_9XwuQeFxLqw"
+          },
+          "publishedTimeText": "1 month ago",
+          "publishedTime": "2026-01-01T14:59:14.028Z",
+          "publishDateText": "1 month ago",
+          "publishDate": "2026-01-01T14:59:14.028Z",
+          "viewCountText": "268K views",
+          "viewCountInt": 268000,
+          "lengthText": "15:18",
+          "lengthInSeconds": 918,
+          "videoUrl": "https://www.youtube.com/watch?v=ZZ2nWg1QhR4"
+        },
+        "5": {
+          "id": "rxuqMpWvxrk",
+          "title": "OH SH*T! China is About to DUMP Gold and Silver!",
+          "thumbnail": "https://i.ytimg.com/vi/rxuqMpWvxrk/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAwOdqW6LJx7LnagczoCmgYVg7q4A",
+          "channel": {
+            "title": "Steven Van Metre",
+            "url": "https://www.youtube.com/@stevenvanmetre5087",
+            "handle": "stevenvanmetre5087",
+            "id": "UCRIQM-CUkxVazVPv980YZsw"
+          },
+          "publishedTimeText": "15 hours ago",
+          "publishedTime": "2026-02-01T14:59:14.028Z",
+          "publishDateText": "15 hours ago",
+          "publishDate": "2026-02-01T14:59:14.028Z",
+          "viewCountText": "120K views",
+          "viewCountInt": 120000,
+          "lengthText": "11:24",
+          "lengthInSeconds": 684,
+          "videoUrl": "https://www.youtube.com/watch?v=rxuqMpWvxrk"
+        },
+        "6": {
+          "id": "XFtayhPIdEs",
+          "title": "The \u201cONE CANDLE\" Scalping Strategy I Will Use For Life",
+          "thumbnail": "https://i.ytimg.com/vi/XFtayhPIdEs/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB_SJHtR4KNjIVfdZmPcB-_e7NW6A",
+          "channel": {
+            "title": "ProRealAlgos",
+            "url": "https://www.youtube.com/@prorealalgos",
+            "handle": "prorealalgos",
+            "id": "UCmTrfqCi6-qdUZsn5ebOSCA"
+          },
+          "publishedTimeText": "1 month ago",
+          "publishedTime": "2026-01-01T14:59:14.028Z",
+          "publishDateText": "1 month ago",
+          "publishDate": "2026-01-01T14:59:14.028Z",
+          "viewCountText": "623K views",
+          "viewCountInt": 623000,
+          "lengthText": "23:28",
+          "lengthInSeconds": 1408,
+          "videoUrl": "https://www.youtube.com/watch?v=XFtayhPIdEs"
+        },
+        "7": {
+          "id": "6uCRZq0fVHo",
+          "title": "How One Loader's \"STUPID\" Ammo Swap Made Shermans Fire Twice as Fast",
+          "thumbnail": "https://i.ytimg.com/vi/6uCRZq0fVHo/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCGcFaqg3d9eASscEKDCalfkchQOA",
+          "channel": {
+            "title": "WWII Registry",
+            "url": "https://www.youtube.com/@WWIIRegistry",
+            "handle": "WWIIRegistry",
+            "id": "UC7WAhjoLJ1phkFquOLnNSpw"
+          },
+          "publishedTimeText": "1 month ago",
+          "publishedTime": "2026-01-01T14:59:14.028Z",
+          "publishDateText": "1 month ago",
+          "publishDate": "2026-01-01T14:59:14.028Z",
+          "viewCountText": "281K views",
+          "viewCountInt": 281000,
+          "lengthText": "21:44",
+          "lengthInSeconds": 1304,
+          "videoUrl": "https://www.youtube.com/watch?v=6uCRZq0fVHo"
+        },
+        "8": {
+          "id": "OsEeetpStF4",
+          "title": "I Was Ranked #1: My Top Stock Picks for 2026 \ud83d\udcc8",
+          "thumbnail": "https://i.ytimg.com/vi/OsEeetpStF4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD7ufUJdG2tRxUP8jTmzmdhXyu1dA",
+          "channel": {
+            "title": "BWB - Business With Brian",
+            "url": "https://www.youtube.com/@BusinessWithBrian",
+            "handle": "BusinessWithBrian",
+            "id": "UCyqlbzLoYtpqDXwRI9Yh5LA"
+          },
+          "publishedTimeText": "7 days ago",
+          "publishedTime": "2026-01-25T14:59:14.028Z",
+          "publishDateText": "7 days ago",
+          "publishDate": "2026-01-25T14:59:14.028Z",
+          "viewCountText": "210K views",
+          "viewCountInt": 210000,
+          "lengthText": "22:49",
+          "lengthInSeconds": 1369,
+          "videoUrl": "https://www.youtube.com/watch?v=OsEeetpStF4"
+        },
+        "9": {
+          "id": "RS9uOBSp_iU",
+          "title": "EXPLAINED: Trump Just Crashed Gold, Silver, & Bitcoin",
+          "thumbnail": "https://i.ytimg.com/vi/RS9uOBSp_iU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDBPmSJE1nIiLa__VfYqjkdPurtBA",
+          "channel": {
+            "title": "Minority Mindset",
+            "url": "https://www.youtube.com/@MinorityMindset",
+            "handle": "MinorityMindset",
+            "id": "UCT3EznhW_CNFcfOlyDNTLLw"
+          },
+          "publishedTimeText": "1 day ago",
+          "publishedTime": "2026-01-31T14:59:14.028Z",
+          "publishDateText": "1 day ago",
+          "publishDate": "2026-01-31T14:59:14.028Z",
+          "viewCountText": "299K views",
+          "viewCountInt": 299000,
+          "lengthText": "14:10",
+          "lengthInSeconds": 850,
+          "videoUrl": "https://www.youtube.com/watch?v=RS9uOBSp_iU"
+        },
+        "10": {
+          "id": "kf_lvLxa8lc",
+          "title": "New photos from Epstein files appears to show Andrew on all fours over female | BBC News",
+          "thumbnail": "https://i.ytimg.com/vi/kf_lvLxa8lc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAYOvH3O2x--FGuSd8-_WjxSblKWg",
+          "channel": {
+            "title": "BBC News",
+            "url": "https://www.youtube.com/@BBCNews",
+            "handle": "BBCNews",
+            "id": "UC16niRr50-MSBwiO3YDb3RA"
+          },
+          "publishedTimeText": "22 hours ago",
+          "publishedTime": "2026-02-01T14:59:14.028Z",
+          "publishDateText": "22 hours ago",
+          "publishDate": "2026-02-01T14:59:14.028Z",
+          "viewCountText": "1.1M views",
+          "viewCountInt": 1100000,
+          "lengthText": "8:36",
+          "lengthInSeconds": 516,
+          "videoUrl": "https://www.youtube.com/watch?v=kf_lvLxa8lc"
+        },
+        "11": {
+          "id": "HP5Ek68kd7I",
+          "title": "Rick Rule Reveals His Best Oil Stocks and Proven Mining Investment Strategies",
+          "thumbnail": "https://i.ytimg.com/vi/HP5Ek68kd7I/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAznnUV5bqD_W0vb61PLo3dBtFcKw",
+          "channel": {
+            "title": "MiningStockEducation.com",
+            "url": "https://www.youtube.com/@MiningStockEdu",
+            "handle": "MiningStockEdu",
+            "id": "UC9Xnap-g3EZuddiUeauMlNQ"
+          },
+          "publishedTimeText": "1 month ago",
+          "publishedTime": "2026-01-01T14:59:14.028Z",
+          "publishDateText": "1 month ago",
+          "publishDate": "2026-01-01T14:59:14.028Z",
+          "viewCountText": "98K views",
+          "viewCountInt": 98000,
+          "lengthText": "55:01",
+          "lengthInSeconds": 3301,
+          "videoUrl": "https://www.youtube.com/watch?v=HP5Ek68kd7I"
+        }
+      },
+      "keywords": {
+        "0": "$AMZN",
+        "1": "AMZN",
+        "2": "AMZN stock 2026",
+        "3": "AMZN.O",
+        "4": "Amazon",
+        "5": "Amazon earnings preview",
+        "6": "Amazon job cuts",
+        "7": "Amazon layoffs",
+        "8": "Amazon stock",
+        "9": "Amazon.com",
+        "10": "FAANG",
+        "11": "Seattle tech layoffs",
+        "12": "commodities selloff",
+        "13": "earnings season 2026",
+        "14": "fundamental analysis AMZN",
+        "15": "gold plunge 2026",
+        "16": "growth stock",
+        "17": "investors",
+        "18": "long term investing",
+        "19": "market news 2026",
+        "20": "options trading",
+        "21": "portfolio management",
+        "22": "stock analysis",
+        "23": "stock analysis 2026",
+        "24": "swing trading",
+        "25": "tech layoffs 2026",
+        "26": "technical analysis AMZN",
+        "27": "traders"
+      },
+      "durationMs": 738000,
+      "durationFormatted": "00:12:18",
+      "captionTracks": {},
+      "transcript": null,
+      "transcript_only_text": null,
+      "sentiment_analysis": {
+        "sentiment": "bearish",
+        "confidence": 0.67,
+        "bullish_signals": 1,
+        "bearish_signals": 2,
+        "has_transcript": false
+      }
+    },
+    {
+      "type": "video",
+      "id": "7sk3qmIQZnI",
+      "url": "https://www.youtube.com/watch?v=7sk3qmIQZnI",
+      "title": "the $125 Billion Secret: Amazon Told Wall Street One Thing and Employees Another. Here's the Truth.",
+      "thumbnail": "https://img.youtube.com/vi/7sk3qmIQZnI/maxresdefault.jpg",
+      "channel": {
+        "id": "UC0C-17n9iuUQPylguM1d-lQ",
+        "url": "https://www.youtube.com/@NateBJones",
+        "handle": "NateBJones",
+        "title": "AI News & Strategy Daily | Nate B Jones"
+      },
+      "viewCountText": "111,598",
+      "viewCountInt": 111598,
+      "publishedTimeText": "1 day ago",
+      "publishedTime": "2026-01-31T14:59:00.773Z",
+      "lengthText": "18:37",
+      "lengthSeconds": 1117,
+      "badges": {
+        "0": "New"
+      },
+      "description": "My site: https://natebjones.com\nFull Story: https://natesnewsletter.substack.com/...\n________________________\nWhat's really happening inside Amazon's 30,000-person layoff? The common story is that it's about culture and too many managers\u2014but the reality is more complicated.\n\nIn this video, I share the inside scoop on why the largest layoff in Amazon history is really a capital reallocation story:\n\n \u2022 Why free cash flow went negative as CapEx hit $125 billion\n \u2022 How $6 billion in salary savings funds AI infrastructure buildouts\n \u2022 What the culture narrative obscures about GPU economics\n \u2022 Where every hyperscaler faces the same brutal arithmetic\n\nFor tech workers watching the AI labor market, the uncomfortable truth is that human capital now competes directly with compute capital\u2014and the trade-offs are structural, not cyclical.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/",
+      "commentCountText": "581",
+      "commentCountInt": 581,
+      "likeCountInt": 4366,
+      "likeCountText": "4366",
+      "publishDate": "2026-01-30T07:00:13-08:00",
+      "genre": "Entertainment",
+      "success": true,
+      "publishDateText": "Jan 30, 2026",
+      "collaborators": {},
+      "chapters": {},
+      "watchNextVideos": {
+        "0": {
+          "id": "87Pm0SGTtN8",
+          "title": "Marc Andreessen: The real AI boom hasn\u2019t even started yet",
+          "thumbnail": "https://i.ytimg.com/vi/87Pm0SGTtN8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDwD7GSqfkRcUFZA_oLN32FTR6m-A",
+          "channel": {
+            "title": "Lenny's Podcast and a16z",
+            "url": "https://www.youtube.comundefined"
+          },
+          "publishedTimeText": "3 days ago",
+          "publishedTime": "2026-01-29T14:59:15.883Z",
+          "publishDateText": "3 days ago",
+          "publishDate": "2026-01-29T14:59:15.883Z",
+          "viewCountText": "95K views",
+          "viewCountInt": 95000,
+          "lengthText": "1:44:36",
+          "lengthInSeconds": 6276,
+          "videoUrl": "https://www.youtube.com/watch?v=87Pm0SGTtN8"
+        },
+        "1": {
+          "id": "KtQ9nt2ZeGM",
+          "title": "You are being misled about renewable energy technology.",
+          "thumbnail": "https://i.ytimg.com/vi/KtQ9nt2ZeGM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBtg7uyxxz8vq1UCVNuxRB43l9oBQ",
+          "channel": {
+            "title": "Technology Connections",
+            "url": "https://www.youtube.com/@TechnologyConnections",
+            "handle": "TechnologyConnections",
+            "id": "UCy0tKL1T7wFoYcxCe0xjN6Q"
+          },
+          "publishedTimeText": "1 day ago",
+          "publishedTime": "2026-01-31T14:59:15.883Z",
+          "publishDateText": "1 day ago",
+          "publishDate": "2026-01-31T14:59:15.883Z",
+          "viewCountText": "1.4M views",
+          "viewCountInt": 1400000,
+          "lengthText": "1:32:00",
+          "lengthInSeconds": 5520,
+          "videoUrl": "https://www.youtube.com/watch?v=KtQ9nt2ZeGM"
+        },
+        "2": {
+          "id": "EZ4EjJ0iDDQ",
+          "title": "Why Your Best Employees Quit Using AI After 3 Weeks (And the 6 Skills That Would Have Saved Them)",
+          "thumbnail": "https://i.ytimg.com/vi/EZ4EjJ0iDDQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA4ZT7Qj1TTn8JVnmNC-exfT2_qlg",
+          "channel": {
+            "title": "AI News & Strategy Daily | Nate B Jones",
+            "url": "https://www.youtube.com/@NateBJones",
+            "handle": "NateBJones",
+            "id": "UC0C-17n9iuUQPylguM1d-lQ"
+          },
+          "publishedTimeText": "6 days ago",
+          "publishedTime": "2026-01-26T14:59:15.883Z",
+          "publishDateText": "6 days ago",
+          "publishDate": "2026-01-26T14:59:15.883Z",
+          "viewCountText": "64K views",
+          "viewCountInt": 64000,
+          "lengthText": "21:32",
+          "lengthInSeconds": 1292,
+          "videoUrl": "https://www.youtube.com/watch?v=EZ4EjJ0iDDQ"
+        },
+        "3": {
+          "id": "l6vyrCL56wg",
+          "title": "They Crashed Silver on Purpose\u2026 Here\u2019s The Real Plan",
+          "thumbnail": "https://i.ytimg.com/vi/l6vyrCL56wg/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAHT9IEjYrdQP3iKQls1im1RKuqHA",
+          "channel": {
+            "title": "Felix & Friends (Goat Academy)",
+            "url": "https://www.youtube.com/@FelixFriends",
+            "handle": "FelixFriends",
+            "id": "UCJtfma0mE_XrBAD9uakcjfA"
+          },
+          "publishedTimeText": "59 minutes ago",
+          "publishedTime": "2026-02-01T14:59:15.883Z",
+          "publishDateText": "59 minutes ago",
+          "publishDate": "2026-02-01T14:59:15.883Z",
+          "viewCountText": "29K views",
+          "viewCountInt": 29000,
+          "lengthText": "25:05",
+          "lengthInSeconds": 1505,
+          "videoUrl": "https://www.youtube.com/watch?v=l6vyrCL56wg"
+        },
+        "4": {
+          "id": "NoRePxSrhpw",
+          "title": "The Ticking Time Bomb in Every Codebase Over 18 Months Old (How to Fix It Before It's Too Late)",
+          "thumbnail": "https://i.ytimg.com/vi/NoRePxSrhpw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBSvXiojT125MRlejkQIDSV0U79Zg",
+          "channel": {
+            "title": "AI News & Strategy Daily | Nate B Jones",
+            "url": "https://www.youtube.com/@NateBJones",
+            "handle": "NateBJones",
+            "id": "UC0C-17n9iuUQPylguM1d-lQ"
+          },
+          "publishedTimeText": "3 days ago",
+          "publishedTime": "2026-01-29T14:59:15.883Z",
+          "publishDateText": "3 days ago",
+          "publishDate": "2026-01-29T14:59:15.883Z",
+          "viewCountText": "24K views",
+          "viewCountInt": 24000,
+          "lengthText": "24:35",
+          "lengthInSeconds": 1475,
+          "videoUrl": "https://www.youtube.com/watch?v=NoRePxSrhpw"
+        },
+        "5": {
+          "id": "40-ENZmqcz0",
+          "title": "Amazon VP On Stack Ranking & PIPs, Working With Bezos, His Promotions | Ethan Evans",
+          "thumbnail": "https://i.ytimg.com/vi/40-ENZmqcz0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBZHBRkYB6Fdh3SB4Gg57gdSjs_OA",
+          "channel": {
+            "title": "Ryan Peterman",
+            "url": "https://www.youtube.com/@RyanLPeterman",
+            "handle": "RyanLPeterman",
+            "id": "UCzB7YGrrxDC_POenf86H3_Q"
+          },
+          "publishedTimeText": "6 months ago",
+          "publishedTime": "2025-08-01T14:59:15.883Z",
+          "publishDateText": "6 months ago",
+          "publishDate": "2025-08-01T14:59:15.883Z",
+          "viewCountText": "518K views",
+          "viewCountInt": 518000,
+          "lengthText": "53:26",
+          "lengthInSeconds": 3206,
+          "videoUrl": "https://www.youtube.com/watch?v=40-ENZmqcz0"
+        },
+        "6": {
+          "id": "DxYsYwKcNX0",
+          "title": "What's Happening in the UK Property Market?",
+          "thumbnail": "https://i9.ytimg.com/vi/DxYsYwKcNX0/hqdefault_custom_1.jpg?sqp=CMTS_csG-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBfp0FGkqE-0Z-qoPTCaN7TiMFNVg",
+          "channel": {
+            "title": "Damien Talks Money",
+            "url": "https://www.youtube.com/@DamienTalksMoney",
+            "handle": "DamienTalksMoney",
+            "id": "UCjPR68IfHV0aY9s6cF5u0uQ"
+          },
+          "publishedTimeText": "5 hours ago",
+          "publishedTime": "2026-02-01T14:59:15.883Z",
+          "publishDateText": "5 hours ago",
+          "publishDate": "2026-02-01T14:59:15.883Z",
+          "viewCountText": "78K views",
+          "viewCountInt": 78000,
+          "lengthText": "13:32",
+          "lengthInSeconds": 812,
+          "videoUrl": "https://www.youtube.com/watch?v=DxYsYwKcNX0"
+        },
+        "7": {
+          "id": "8bs6KmJX4_g",
+          "title": "Honest Big Tech Layoff Story After 25 Year Career, Anxiety, and Untold Reality",
+          "thumbnail": "https://i.ytimg.com/vi/8bs6KmJX4_g/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBAiV5agG6yHHkDYlEp97viC9blMA",
+          "channel": {
+            "title": "Ryan Peterman",
+            "url": "https://www.youtube.com/@RyanLPeterman",
+            "handle": "RyanLPeterman",
+            "id": "UCzB7YGrrxDC_POenf86H3_Q"
+          },
+          "publishedTimeText": "2 days ago",
+          "publishedTime": "2026-01-30T14:59:15.883Z",
+          "publishDateText": "2 days ago",
+          "publishDate": "2026-01-30T14:59:15.883Z",
+          "viewCountText": "17K views",
+          "viewCountInt": 17000,
+          "lengthText": "50:29",
+          "lengthInSeconds": 3029,
+          "videoUrl": "https://www.youtube.com/watch?v=8bs6KmJX4_g"
+        },
+        "8": {
+          "id": "zGiTg6bPdk8",
+          "title": "NVIDIA Backpedals $100 Billion Deal With OpenAI...",
+          "thumbnail": "https://i.ytimg.com/vi/zGiTg6bPdk8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCzXWE_dV4WTUPiObGQwggBEP1VaQ",
+          "channel": {
+            "title": "YongYea",
+            "url": "https://www.youtube.com/@YongYea",
+            "handle": "YongYea",
+            "id": "UCT6iAerLNE-0J1S_E97UAuQ"
+          },
+          "publishedTimeText": "16 hours ago",
+          "publishedTime": "2026-02-01T14:59:15.883Z",
+          "publishDateText": "16 hours ago",
+          "publishDate": "2026-02-01T14:59:15.883Z",
+          "viewCountText": "171K views",
+          "viewCountInt": 171000,
+          "lengthText": "18:00",
+          "lengthInSeconds": 1080,
+          "videoUrl": "https://www.youtube.com/watch?v=zGiTg6bPdk8"
+        },
+        "9": {
+          "id": "0teZqotpqT8",
+          "title": "Stop Competing With 400 Applicants. Build This in One Weekend (Yes, there's a  no code option too!)",
+          "thumbnail": "https://i.ytimg.com/vi/0teZqotpqT8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBjdp5CBMj4K60qz2fR516Jw-1MuA",
+          "channel": {
+            "title": "AI News & Strategy Daily | Nate B Jones",
+            "url": "https://www.youtube.com/@NateBJones",
+            "handle": "NateBJones",
+            "id": "UC0C-17n9iuUQPylguM1d-lQ"
+          },
+          "publishedTimeText": "2 weeks ago",
+          "publishedTime": "2026-01-18T14:59:15.883Z",
+          "publishDateText": "2 weeks ago",
+          "publishDate": "2026-01-18T14:59:15.883Z",
+          "viewCountText": "71K views",
+          "viewCountInt": 71000,
+          "lengthText": "25:57",
+          "lengthInSeconds": 1557,
+          "videoUrl": "https://www.youtube.com/watch?v=0teZqotpqT8"
+        },
+        "10": {
+          "id": "j2nE3_HCvoU",
+          "title": "AI bubble: Data centre cancellations are sky rocketing | Ed Zitron",
+          "thumbnail": "https://i.ytimg.com/vi/j2nE3_HCvoU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAy0kJ-IXYv_lK4izjy5ctBeCaRCg",
+          "channel": {
+            "title": "The Tech Report",
+            "url": "https://www.youtube.com/@TheTechReportTR",
+            "handle": "TheTechReportTR",
+            "id": "UCPiMR-Ize9p3dgjzZ8bo9ZQ"
+          },
+          "publishedTimeText": "1 day ago",
+          "publishedTime": "2026-01-31T14:59:15.883Z",
+          "publishDateText": "1 day ago",
+          "publishDate": "2026-01-31T14:59:15.883Z",
+          "viewCountText": "238K views",
+          "viewCountInt": 238000,
+          "lengthText": "32:05",
+          "lengthInSeconds": 1925,
+          "videoUrl": "https://www.youtube.com/watch?v=j2nE3_HCvoU"
+        },
+        "11": {
+          "id": "kuGg0b2IrHQ",
+          "title": "Meta Up 10%, Microsoft Down 10%, Tesla Killing Cars. This Week Broke Something.",
+          "thumbnail": "https://i.ytimg.com/vi/kuGg0b2IrHQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCuiIIbncS4GCu4ojPxf_d8CVG1dA",
+          "channel": {
+            "title": "AI News & Strategy Daily | Nate B Jones",
+            "url": "https://www.youtube.com/@NateBJones",
+            "handle": "NateBJones",
+            "id": "UC0C-17n9iuUQPylguM1d-lQ"
+          },
+          "publishedTimeText": "22 hours ago",
+          "publishedTime": "2026-02-01T14:59:15.883Z",
+          "publishDateText": "22 hours ago",
+          "publishDate": "2026-02-01T14:59:15.883Z",
+          "viewCountText": "43K views",
+          "viewCountInt": 43000,
+          "lengthText": "14:50",
+          "lengthInSeconds": 890,
+          "videoUrl": "https://www.youtube.com/watch?v=kuGg0b2IrHQ"
+        }
+      },
+      "keywords": {
+        "0": "AI strategy",
+        "1": "AI jobs",
+        "2": "AI labor market",
+        "3": "Amazon layoffs",
+        "4": "future of work",
+        "5": "AI infrastructure",
+        "6": "GPU spending",
+        "7": "tech layoffs",
+        "8": "AWS",
+        "9": "Andy Jassy",
+        "10": "hyperscaler capex",
+        "11": "automation at work",
+        "12": "AI career advice",
+        "13": "big tech jobs",
+        "14": "capital reallocation",
+        "15": "AI investment"
+      },
+      "durationMs": 1116000,
+      "durationFormatted": "00:18:36",
+      "captionTracks": {},
+      "transcript": null,
+      "transcript_only_text": null,
+      "sentiment_analysis": {
+        "sentiment": "bearish",
+        "confidence": 1.0,
+        "bullish_signals": 0,
+        "bearish_signals": 1,
+        "has_transcript": false
+      }
+    }
+  ],
+  "summary": {
+    "total_videos": 5,
+    "total_views": 118791,
+    "total_likes": 4557,
+    "total_comments": 650,
+    "avg_views": 23758,
+    "avg_likes": 911,
+    "sentiment_breakdown": {
+      "bullish": 1,
+      "bearish": 2,
+      "neutral": 2
+    },
+    "dominant_sentiment": "bearish"
+  }
+}

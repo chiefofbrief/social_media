@@ -1,117 +1,229 @@
-# Social Media Data Collection Scripts
+# Social Media Research Scripts
 
-## fetch_stock_social_data.py
+Collection of scripts for researching stocks and topics across social media platforms using the SociaVault API.
 
-**NEW:** Fetches Reddit posts about specific stock tickers from investment-focused subreddits.
+## Available Scripts
+
+- **[youtube_stock_research.py](#youtube_stock_researchpy)** - Research stock sentiment on YouTube with video analysis and transcripts
+- **[tiktok_stock_research.py](#tiktok_stock_researchpy)** - Research stock sentiment on TikTok (FinTok) with video analysis and transcripts
+- **[fetch_reddit_posts.py](#fetch_reddit_postspy)** - Fetch top posts from any subreddit
+
+---
+
+## youtube_stock_research.py
+
+Searches YouTube for videos about specific stocks, retrieves video details including transcripts, and analyzes sentiment for stock research.
 
 ### Features
 
-- Search by stock ticker (e.g., TSLA, AAPL, NVDA)
-- Automatically searches 3 key subreddits: r/stocks, r/ValueInvesting, r/options
-- Smart engagement filtering (upvotes OR comments threshold)
-- Date range filtering (default: 2 weeks)
-- Ticker-to-company name mapping for better search results
-- Beautiful terminal output with rich formatting
-- Auto-saves to organized directory structure
+- 🔍 Search YouTube for stock tickers/companies
+- 📅 Filter by time period (today, this_week, this_month, this_year, all_time)
+- 📹 Fetch full video details including transcripts
+- 📊 Automatic sentiment analysis (bullish/bearish/neutral)
+- 💾 Saves structured JSON results with engagement metrics
 
 ### Setup
 
-1. Set your SociaVault API key:
+1. Set your SociaVault API key as an environment variable:
    ```bash
    export SOCIAVAULT_API_KEY="your-api-key-here"
    ```
 
-2. Install dependencies:
+2. Install required dependencies:
    ```bash
-   pip install requests rich
+   pip install requests
    ```
 
 ### Usage
 
-**Single ticker (default: 14 days, engagement filter):**
+Basic usage (searches "TICKER stock" for past month):
 ```bash
-python scripts/fetch_stock_social_data.py --ticker TSLA
+python scripts/youtube_stock_research.py TSLA
 ```
 
-**Multiple tickers:**
+Custom search with time filter:
 ```bash
-python scripts/fetch_stock_social_data.py --tickers TSLA AAPL NVDA
+python scripts/youtube_stock_research.py AMZN --time-period this_week --max-videos 20
 ```
 
-**Custom timeframe (7 days):**
+Custom query with specific search terms:
 ```bash
-python scripts/fetch_stock_social_data.py --ticker AAPL --days 7
+python scripts/youtube_stock_research.py NVDA --query "NVDA earnings analysis" --max-videos 15
 ```
 
-**Higher engagement filter:**
+Skip transcript fetching for faster results:
 ```bash
-python scripts/fetch_stock_social_data.py --ticker NVDA --min-score 100 --min-comments 20
-```
-
-**More results:**
-```bash
-python scripts/fetch_stock_social_data.py --ticker MSFT --max-results 100
+python scripts/youtube_stock_research.py MSFT --no-details
 ```
 
 ### Parameters
 
-- `--ticker`: Single stock ticker (e.g., TSLA)
-- `--tickers`: Multiple tickers space-separated (e.g., TSLA AAPL NVDA)
-- `--days`: Number of days to look back (default: 14)
-- `--min-score`: Minimum post upvotes (default: 50)
-- `--min-comments`: Minimum comments (default: 10)
-- `--max-results`: Max posts per ticker (default: 50)
-- `--no-save`: Don't save to file (display only)
-
-**Filtering Logic:** Posts are included if they have score >= min-score OR comments >= min-comments
+- `ticker` (required): Stock ticker symbol (e.g., TSLA, AMZN, NVDA)
+- `--query`: Custom search query (overrides default "{ticker} stock" search)
+- `--time-period`: Time filter - `last_hour`, `today`, `this_week`, `this_month` (default), `this_year`, `all_time`
+- `--max-videos`: Maximum videos to fetch (default: 20)
+- `--no-details`: Skip fetching video details and transcripts (faster but no sentiment analysis)
+- `--output`: Custom output file path
 
 ### Output
 
-**Terminal:** Beautiful formatted display with:
-- Post titles, upvotes, comments, upvote ratio
-- Subreddit, author, date
-- Clickable URLs
-- Post body preview (first 200 chars)
-- Summary statistics
+The script saves results to `data/youtube/{TICKER}_{timeperiod}_{timestamp}.json` with:
 
-**File:** `data/stocks/{TICKER}/reddit_{timestamp}.json`
+- **Search metadata**: ticker, query, time period, timestamp
+- **Video details**: title, description, channel info, views, likes, comments
+- **Transcripts**: Full video transcripts with timestamps
+- **Sentiment analysis**: Bullish/bearish/neutral classification based on keywords in title, description, and transcript
+- **Summary statistics**: Total videos, views, engagement, sentiment breakdown
 
-Example: `data/stocks/TSLA/reddit_2026-02-01_15-30-45.json`
+### Sentiment Analysis
+
+Videos are analyzed for bullish/bearish sentiment using keyword detection:
+
+- 🟢 **Bullish**: buy, bull, growth, profit, opportunity, breakout, rally, upgrade, outperform
+- 🔴 **Bearish**: sell, bear, decline, loss, crash, warning, downgrade, weak, overvalued
+- ⚪ **Neutral**: Neither sentiment dominates
 
 ### Cost
 
-- **3 credits per ticker** (1 credit per subreddit)
-- Credit check: 0 credits (automatic)
-- Example: 5 tickers = 15 credits = $0.072
+- **1 credit** per search request
+- **1 credit** per video detail fetch (if `--no-details` not used)
+- Example: `--max-videos 10` with details = ~11 credits total
 
-### Example Output Structure
+### Examples
 
-```json
-{
-  "ticker": "TSLA",
-  "company_name": "Tesla",
-  "search_query": "(TSLA OR \"Tesla\") (stock OR price OR earnings OR buy OR sell OR analysis)",
-  "days_back": 14,
-  "posts_count": 42,
-  "subreddits": ["stocks", "ValueInvesting", "options"],
-  "posts": [
-    {
-      "title": "Tesla Q4 earnings discussion",
-      "score": 523,
-      "num_comments": 187,
-      "upvote_ratio": 0.92,
-      "subreddit": "stocks",
-      "author": "investor123",
-      "created_utc": 1738348800,
-      "permalink": "/r/stocks/comments/...",
-      "selftext": "...",
-      "url": "..."
-    }
-  ]
-}
+Research Tesla stock from today:
+```bash
+python scripts/youtube_stock_research.py TSLA --time-period today
+```
+
+Research Amazon with custom query:
+```bash
+python scripts/youtube_stock_research.py AMZN --query "Amazon AWS earnings Q4"
+```
+
+Quick search without transcripts (cheaper):
+```bash
+python scripts/youtube_stock_research.py NVDA --max-videos 30 --no-details
+```
+
+Research Apple over past year:
+```bash
+python scripts/youtube_stock_research.py AAPL --time-period this_year --max-videos 50
 ```
 
 ---
+
+## tiktok_stock_research.py
+
+Searches TikTok (FinTok) for videos about specific stocks, retrieves video details including transcripts, and analyzes sentiment for stock research.
+
+### Features
+
+- 🔍 Search TikTok for stock tickers/companies with keyword or hashtag
+- 📅 Filter by time period (yesterday, this-week, this-month, last-3-months, last-6-months, all_time)
+- 📹 Fetch full video details including transcripts
+- 📊 Automatic sentiment analysis (bullish/bearish/neutral)
+- 💾 Saves structured JSON results with engagement metrics
+- 🔥 Sort by relevance, most-liked, or date-posted
+
+### Setup
+
+1. Set your SociaVault API key as an environment variable:
+   ```bash
+   export SOCIAVAULT_API_KEY="your-api-key-here"
+   ```
+
+2. Install required dependencies:
+   ```bash
+   pip install requests
+   ```
+
+### Usage
+
+Basic usage (searches "#{TICKER} stock" for past month):
+```bash
+python scripts/tiktok_stock_research.py TSLA
+```
+
+Custom search with time filter:
+```bash
+python scripts/tiktok_stock_research.py AMZN --query "Amazon stock news" --time-period this-week
+```
+
+Sort by most-liked videos:
+```bash
+python scripts/tiktok_stock_research.py NVDA --max-videos 30 --sort-by most-liked
+```
+
+Skip transcript fetching for faster results:
+```bash
+python scripts/tiktok_stock_research.py MSFT --no-details
+```
+
+### Parameters
+
+- `ticker` (required): Stock ticker symbol (e.g., TSLA, AMZN, NVDA)
+- `--query`: Custom search query (overrides default "#{ticker} stock" search)
+- `--time-period`: Time filter - `yesterday`, `this-week`, `this-month` (default), `last-3-months`, `last-6-months`, `all_time`
+- `--sort-by`: Sort method - `relevance` (default), `most-liked`, `date-posted`
+- `--max-videos`: Maximum videos to fetch (default: 20)
+- `--no-details`: Skip fetching video details and transcripts (faster but no sentiment analysis)
+- `--output`: Custom output file path
+
+### Output
+
+The script saves results to `data/tiktok/{TICKER}_{timeperiod}_{timestamp}.json` with:
+
+- **Search metadata**: ticker, query, time period, timestamp
+- **Video details**: description, author info, views, likes, comments, shares
+- **Transcripts**: Full video transcripts parsed from WEBVTT format
+- **Sentiment analysis**: Bullish/bearish/neutral classification based on keywords in description and transcript
+- **Summary statistics**: Total videos, views, engagement, sentiment breakdown
+
+### Sentiment Analysis
+
+Videos are analyzed for bullish/bearish sentiment using keyword detection:
+
+- 🟢 **Bullish**: buy, bull, growth, profit, opportunity, breakout, rally, upgrade, outperform
+- 🔴 **Bearish**: sell, bear, decline, loss, crash, warning, downgrade, weak, overvalued
+- ⚪ **Neutral**: Neither sentiment dominates
+
+### Cost
+
+- **1 credit** per search request
+- **1 credit** per video detail fetch (if `--no-details` not used)
+- Example: `--max-videos 10` with details = ~11 credits total
+
+### Examples
+
+Research Tesla stock from this month (FinTok):
+```bash
+python scripts/tiktok_stock_research.py TSLA
+```
+
+Find most-liked videos about Amazon:
+```bash
+python scripts/tiktok_stock_research.py AMZN --sort-by most-liked --max-videos 30
+```
+
+Quick search without transcripts (cheaper):
+```bash
+python scripts/tiktok_stock_research.py NVDA --max-videos 50 --no-details
+```
+
+Search with custom query and hashtag:
+```bash
+python scripts/tiktok_stock_research.py AAPL --query "#AAPL stock analysis"
+```
+
+Research from past 3 months:
+```bash
+python scripts/tiktok_stock_research.py GME --time-period last-3-months --max-videos 40
+```
+
+---
+
+## Reddit Data Collection Scripts
 
 ## fetch_reddit_posts.py
 
