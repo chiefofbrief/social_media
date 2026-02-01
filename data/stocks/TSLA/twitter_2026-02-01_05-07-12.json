@@ -1,0 +1,5 @@
+{
+  "ticker": "TSLA",
+  "error": "API request failed with status 404: 404 Client Error: Not Found for url: https://api.sociavault.com/v1/scrape/twitter/hashtag?tag=TSLA&trim=False",
+  "tweets": []
+}
