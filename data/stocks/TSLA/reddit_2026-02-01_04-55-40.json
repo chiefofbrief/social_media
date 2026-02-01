@@ -1,0 +1,16 @@
+{
+  "ticker": "TSLA",
+  "company_name": "Tesla",
+  "search_query": "(TSLA OR \"Tesla\") (stock OR price OR earnings OR buy OR sell OR analysis)",
+  "days_back": 7,
+  "min_score": 50,
+  "min_comments": 10,
+  "posts_count": 0,
+  "posts": [],
+  "fetched_at": "2026-02-01T04:55:40.370910",
+  "subreddits": [
+    "stocks",
+    "ValueInvesting",
+    "options"
+  ]
+}

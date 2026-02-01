@@ -1,0 +1,23 @@
+{
+  "ticker": "TSLA",
+  "days_back": 7,
+  "min_likes": 10,
+  "min_retweets": 5,
+  "tweets_count": 0,
+  "tweets": [],
+  "fetched_at": "2026-02-01T05:10:24.861775",
+  "accounts_checked": [
+    "CNBC",
+    "Bloomberg",
+    "Reuters",
+    "WSJ",
+    "FT",
+    "MarketWatch",
+    "stocktalkweekly",
+    "unusual_whales",
+    "elonmusk",
+    "Tesla"
+  ],
+  "successful_fetches": 10,
+  "platform": "twitter"
+}
