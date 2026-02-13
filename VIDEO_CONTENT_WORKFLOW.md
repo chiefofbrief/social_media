@@ -23,7 +23,7 @@ Daily Digest → Story Selection → Script → Visuals → Production
 
 ### Step 1: Story Selection
 
-Review the day's digest and select stories based on viral potential and alignment with the account mission (narrative gaps, root causes, striking data, practical implications).
+Review the day's digest and select stories based on viral potential — which stories trigger the strongest emotions, have the most striking data, or will make someone stop scrolling?
 
 **Decisions at this step:**
 * Which stories have the strongest hooks?
@@ -65,8 +65,7 @@ Use `video/TikTok_Financial_News_Prompt.md` as the system prompt for AI content 
 | File | Purpose |
 |------|---------|
 | `video/TikTok_Financial_News_Prompt.md` | System prompt for AI content sessions |
-| `Account_Overview_v1.md` | Mission, audience, content strategy |
-| `General_Characteristics_of_Viral_Content.md` | Viral framework (value drivers, emotions, sharing) |
+| `General_Characteristics_of_Viral_Content.md` | Viral framework — primary guide for story selection |
 | `video/Characteristics_of_Viral_Short-Form_Videos` | Video-specific viral patterns and platform approaches |
 | `video/Characteristics_of_'News-Related'_Short-Form_AI_Videos` | AI video production techniques |
 | `peters_digest/Daily_Digest_*.md` | Daily source material |

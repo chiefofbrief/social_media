@@ -37,8 +37,7 @@ At the start of each session, ask: "Which step are we working on today?" with th
 
 Have these available for the session:
 
-* `Account_Overview_v1.md` — Mission and audience
-* `General_Characteristics_of_Viral_Content.md` — Viral framework
+* `General_Characteristics_of_Viral_Content.md` — Viral framework (primary guide for story selection)
 * `Characteristics_of_Viral_Short-Form_Videos` — Video-specific patterns
 * `Characteristics_of_'News-Related'_Short-Form_AI_Videos` — AI video techniques
 * Daily Digest (provided each session)
@@ -54,7 +53,7 @@ Have these available for the session:
 1. Read the digest and identify 3-5 stories or angles with the strongest viral potential. For each, provide:
    * One-sentence hook (the "wait, what?" moment)
    * Which section of the digest it comes from
-   * Why it works (which viral driver it hits: surprise, anger, practical value, narrative gap, etc.)
+   * Why it works — reference specific viral characteristics (see criteria below)
 
 2. Ask: **"Single story deep-dive or quick hits today?"**
    * **Single story**: User picks one story. Proceed to Script.
@@ -62,13 +61,28 @@ Have these available for the session:
 
 ### Story Selection Criteria
 
-Aligned with Account Overview — prioritize stories that offer:
+Select stories based on viral potential first. Reference `General_Characteristics_of_Viral_Content.md` and `Characteristics_of_Viral_Short-Form_Videos` explicitly.
 
-* **Narrative vs. reality gaps** — What they're saying vs. what's actually happening
-* **Hidden root causes** — What the mainstream is missing or oversimplifying
-* **Striking data points** — Extreme numbers, surprising reversals, counterintuitive moves
-* **Practical implications** — What this means for regular people
-* **Extraction patterns** — Who's profiting, who's paying, what's being obscured
+**Primary — Viral drivers (at least one must be strong):**
+
+* **High-arousal emotion** — Does this trigger surprise, anger, awe, humor, or fear? The most emotionally provocative aspect of a topic often outperforms the "main" story.
+* **Social value** — Will sharing this make someone look smart, informed, or ahead of the curve? Does it feel novel or exclusive?
+* **Practical value** — Does this save people time, money, or effort? Is it useful enough that sharing it feels helpful?
+* **Meeting people at an emotional moment** — Does this connect to something the audience is already feeling or navigating right now?
+* **Striking data** — Extreme numbers, surprising reversals, counterintuitive moves that create an immediate "wait, what?" reaction.
+
+**Secondary — Video-specific patterns (bonus, not required):**
+
+* Does it fit the **Reveal Pattern** (promise insider knowledge, deliver a satisfying payoff)?
+* Does it fit the **Reaction Pattern** (add context to something already trending)?
+* Does it fit the **Satirical Expertise Pattern** (absurd humor applied to a familiar format)?
+* Is it **searchable** — would people look for this topic on TikTok?
+
+**Voice — how we talk about it (applied at scripting, not selection):**
+
+* Conversational and direct — a friend who understands markets, not CNBC.
+* When the data genuinely supports an alternative narrative or challenges conventional wisdom, lean into it. But only when you actually have the goods — specific data, clear logic, or a strong well-reasoned opinion. Don't manufacture investigative angles where they don't exist.
+* Most stories are just interesting things happening. Present them in an entertaining way. Not everything needs to be an exposé.
 
 ---
 
@@ -78,16 +92,16 @@ Aligned with Account Overview — prioritize stories that offer:
 
 Structure:
 
-1. **Hook** (1-2 sentences): Lead with the most provocative fact or framing. This is the scroll-stopper.
-2. **Setup** (2-3 sentences): The mainstream narrative—what people think is happening.
-3. **Reveal** (3-5 sentences): What's actually going on. The root cause, the hidden angle, the data everyone's missing. Use specific figures.
-4. **Impact** (1-2 sentences): What this means. Punchy closer that reframes the whole story.
+1. **Hook** (1-2 sentences): Lead with the most surprising, provocative, or emotionally resonant fact. This is the scroll-stopper.
+2. **Context** (2-3 sentences): What's happening and why it matters. Give the viewer enough to understand the story.
+3. **The interesting part** (3-5 sentences): The detail, angle, or implication that makes this story worth talking about. Use specific figures. This might be a counterintuitive insight, a striking data point, a genuinely hidden cause — whatever made you pick this story in the first place.
+4. **Landing** (1-2 sentences): Punchy closer. What does this mean? Where does this go?
 
 ### Quick Hits (~45-60 seconds spoken)
 
 Structure:
 
-1. **Intro hook** (1 sentence): Tease what's coming. Examples: "Three things Wall Street hoped you wouldn't notice today." / "Here's what actually moved markets today."
+1. **Intro hook** (1 sentence): Tease what's coming. Examples: "Three things that actually matter in markets today." / "Here's what moved your money today."
 2. **Story blocks** (2-4 sentences each): For each story:
    * Lead with the interesting angle, not the headline
    * One key data point or fact
