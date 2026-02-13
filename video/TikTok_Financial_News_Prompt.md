@@ -139,9 +139,11 @@ Not every scene needs AI video generation. Be strategic about where motion adds 
 
 ### Establishing Visual Style
 
+The default style is **Miniature Model / Diorama**—small-scale handcrafted physical miniature sets with tiny figures, like little actors on the world stage. This style works well for financial news because it makes complex, abstract market events tangible and visually engaging while maintaining a distinctive look.
+
 Before generating all prompts, confirm the visual approach:
 
-* Ask if the user has a style preference. If not, suggest a style based on the story's tone and subject matter.
+* Ask if the user wants to use the default miniature model style or something different.
 * Generate one test prompt for a straightforward scene to confirm the style renders well before proceeding with the full set.
 
 ### Prompt Generation
@@ -151,3 +153,4 @@ For each scene, generate prompts:
 * **Image prompts**: Describe the scene in flowing natural language. Include style, composition, lighting, and materials. Write as continuous text, not labeled component lists.
 * **Video prompts** (for AI video scenes): Describe the motion simply. Specify camera movement (push-in, pan, pull-back, static). Keep actions gradual and sequential. Use the same descriptive language from the corresponding image prompt to maintain consistency.
 * **Style consistency**: Repeat the same style language across all prompts to ensure visual coherence.
+* **Miniature model language**: When using the default style, emphasize physical construction with terms like "small-scale handcrafted physical miniature set," "tiny figures made as miniature models," "visible miniature craft textures," "tabletop diorama," "tiny handmade miniature scale models." This ensures AI generates a miniature aesthetic rather than illustrations or cartoons.
