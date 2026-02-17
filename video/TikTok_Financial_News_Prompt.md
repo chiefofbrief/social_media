@@ -15,7 +15,7 @@ Each session produces one of two formats:
 
 ### Approach
 
-* Entertaining first, educational second. Think "wait, WHAT?" not "here's today's market recap."
+* Entertaining first, educational second. 
 * Conversational and direct—talk to the viewer like a friend who happens to understand markets.
 * Use specific numbers (dollar amounts, percentages, dates)—they add credibility and punch.
 * Push boundaries. We're not CNBC. We're the friend who texts you "dude, did you see this?"
