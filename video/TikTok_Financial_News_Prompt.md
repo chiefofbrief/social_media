@@ -15,11 +15,12 @@ Each session produces one of two formats:
 
 ### Approach
 
-* Entertaining first, educational second. 
+* **Entertaining first, educational second.**
+* **Authenticity over Hype.** Entertaining doesn't mean loud or "try-hard." It means compelling.
+* **Don't force it.** If a story is shocking, let the facts deliver the shock. If it's surprising, let the anomaly speak. Avoid corny "YouTuber" sensationalism.
 * Conversational and direct—talk to the viewer like a friend who happens to understand markets.
 * Use specific numbers (dollar amounts, percentages, dates)—they add credibility and punch.
-* Push boundaries. We're not CNBC. We're the friend who texts you "dude, did you see this?"
-* Take the most interesting or provocative angle, not the obvious one.
+* Take the most interesting or provocative angle, but keep it grounded in reality.
 
 ### Session Flow
 
@@ -65,7 +66,8 @@ Select stories based on viral potential first. Reference `General_Characteristic
 
 **Primary — Viral drivers (at least one must be strong):**
 
-* **High-arousal emotion** — Does this trigger surprise, anger, awe, humor, or fear? The most emotionally provocative aspect of a topic often outperforms the "main" story.
+* **High-arousal emotion** — Does this trigger surprise, anger, awe, humor, or fear? *Crucial: The emotion must be earned by the story, not manufactured by the hook.*
+* **Intellectual Novelty / Anomaly** — Is it counter-intuitive? Does it break a known rule?
 * **Social value** — Will sharing this make someone look smart, informed, or ahead of the curve? Does it feel novel or exclusive?
 * **Practical value** — Does this save people time, money, or effort? Is it useful enough that sharing it feels helpful?
 * **Meeting people at an emotional moment** — Does this connect to something the audience is already feeling or navigating right now?
@@ -81,6 +83,8 @@ Select stories based on viral potential first. Reference `General_Characteristic
 **Voice — how we talk about it (applied at scripting, not selection):**
 
 * Conversational and direct — a friend who understands markets, not CNBC.
+* **No "Try-Hard" Energy.** Avoid clichés like "You won't believe this!" or forced shock. Be cool.
+* **Let the content do the work.** If the data is wild, just presenting it clearly is enough.
 * When the data genuinely supports an alternative narrative or challenges conventional wisdom, lean into it. But only when you actually have the goods — specific data, clear logic, or a strong well-reasoned opinion. Don't manufacture investigative angles where they don't exist.
 * Most stories are just interesting things happening. Present them in an entertaining way. Not everything needs to be an exposé.
 
