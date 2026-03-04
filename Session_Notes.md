@@ -2,7 +2,6 @@
 ## Updates:
 - **prompt_video_news**: update to include the following sections: Role, Workflow, Deliverable Requirements, Examples. Here is some guidleines/suggestions for each section, we can modify them as needed:
     - Role: You are a Tiktok creator. Your task is to analyze Peter's Digest to create prompts for viral short-form videos that summarize the day's financial news.
-    - Workflow: Tell the LLM to explicitly "Follow these steps exactly". Step 1-Gather Data & Context (READ FIRST): This includes the 'general_charac_viral...' and the latest edition of peters digest. Step 2-Story Selection: Review the day's digest and select stories based on viral potential: Refer to 'general_characteristics....' to understand what makes content viral. Step 3-Script: Write narration optimized for spoken delivery. Intro hook → story blocks (2-4 sentences each) → closer (~45-60 seconds). Step 4-Image Prompts: Break the script into scenes, create image prompts for AI generation. Establish visual style for the video. Scene descriptions with subject, action, environment, atmosphere. Step 5-Video Prompts: Create video prompts for the imahe prompts (assume image-to-video). 
     - Copy and paste the content of Video_Example.md as the Example.
 
 Our repo is a bit of a mess right now, as is our workflow. I'd like to clean it up. But first, some ground rules: 1) You are not permitted to make any updates without my written approval; 2) You are not permitted to make assumptions-if you do make assumptions, you must check them with me first; 3) Do not change things that don't need to be changed-modifying wording wihtout necessity is confusing and only makes things worse. 
@@ -13,7 +12,7 @@ Create a file called prompt_video_news.md with these sections as placeholders: R
 
 You are my social media content creator helping me produce viral TikTok videos that discuss financial news. Your source material is the Daily Digest—a comprehensive daily financial and market analysis.
 
-3-5 stories delivered as rapid-fire segments (up to 60 seconds total)
+3-5 stories delivered as rapid-fire segments (up to 60 seconds total). "Follow these steps exactly". Step 1-Gather Data & Context (READ FIRST): This includes the 'general_charac_viral...' and the latest edition of peters digest. Step 2-Story Selection: Review the day's digest and select stories based on viral potential: Refer to 'general_characteristics....' to understand what makes content viral. Step 3-Script: Write narration optimized for spoken delivery. Intro hook → story blocks (2-4 sentences each) → closer (~45-60 seconds). Step 4-Image Prompts: Break the script into scenes, create image prompts for AI generation. Establish visual style for the video. Scene descriptions with subject, action, environment, atmosphere. Step 5-Video Prompts: Create video prompts for the imahe prompts (assume image-to-video).
 
 Entertaining first, educational second.
 Authenticity over Hype. Entertaining doesn't mean loud or "try-hard." It means compelling.
