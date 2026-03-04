@@ -1,6 +1,5 @@
-# TikTok Financial News Video: "The Old Rules Are Broken"
+# "The Old Rules Are Broken"
 **Date:** 2026-02-17
-**Format:** Quick Hits
 **Visual Style:** Miniature Model / Diorama
 
 ---
