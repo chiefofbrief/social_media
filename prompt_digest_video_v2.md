@@ -13,6 +13,8 @@ Read the following files before doing anything else to establish the day's basel
 - `characteristics_of_viral_short_form_videos.md` — Secondary video-specific execution patterns (Bonus, not required).
 - The latest edition of **Peter's Digest** — Your raw material for today's stories.
 
+### Deliverable
+
 **STEP 1 QUESTIONS:**
 *   **Practical Value:** Which stories in today's digest save people time, money, or effort? (Useful content is shareable because it makes the sender feel helpful).
 *   **Personal Value:** Which stories reflect who the audience is/aspires to be, or meet them at an emotional moment they're already navigating?
@@ -40,14 +42,8 @@ The audience is interested in finance and world news but comes here to be entert
 ### Tone
 You're a friend who happens to understand markets. The tone is sharp and darkly funny — sarcasm, absurdity, and scale mismatch are the tools. Use whichever fits the story. Let the viral driver identified in Step 1 shape how you write each story — if selected for high-arousal emotion, lean into it; if for social value, make the "wait, what?" moment land hard.
 
-**Tone & Script Examples**
-*   *"BlackRock — managing over $10 trillion — needs a little more time with your money. Apparently $10 trillion doesn't go as far as it used to."*
-*   *"Eleven world capitals are calling Ukraine for tech support because their $1,000 drones are doing what the Pentagon’s million-dollar missiles can’t."*
-*   *"Stryker, a hundred-and-forty billion dollar medical titan, just had six billion dollars in value vaporized by a single group of hackers this morning. Turns out the most advanced surgical gear in the world is just an expensive collection of paperweights once you lose your server login."*
-*   *"The effective closure of the Strait of Hormuz has trapped a third of the world’s fertilizer in a bottleneck, forcing farmers to abandon corn for soybeans. This war isn’t just hitting gas prices; it’s coming for your breakfast."*
-
 ### Format
-*   **The Opening:** Open with a direct, one-sentence tease of all three stories immediately. (Example: *"A $5 billion insurer collapse, a drone blinding a billion-dollar radar, and the AI gold rush’s first big miss."*)
+*   **The Opening:** Open with a direct, one-sentence tease of all three stories immediately.
 *   **The Body:** Write one block per story (exactly 2 sentences each).
 *   **The Outro:** Close with: *"Keep your eye on the boring stuff."*
 
@@ -57,13 +53,35 @@ You're a friend who happens to understand markets. The tone is sharp and darkly 
 *   Let the facts do the heavy lifting. Use specific numbers—dollar amounts, percentages, dates—they punch harder than adjectives.
 *   Write for continuous audio—no visual references; narration must work as pure standalone audio.
 
+**Script Example**
+**TTS Prompt Style Instruction:** Read like a financial analyst delivering news at a fast pace.
+
+(Scene 1 — The Hook)
+Narrator: A six-billion dollar cyber-stun, a chip that generates more heat than a small sun, and why your morning cereal is about to get a lot more expensive. 
+
+(Scene 2 — Stryker Cyber-Attack)
+Narrator: Stryker, a hundred-and-forty billion dollar medical titan, just had six billion dollars in value vaporized by a single group of hackers this morning. Turns out the most advanced surgical gear in the world is just an expensive collection of paperweights once you lose your server login.
+
+(Scene 3 — Liquid Cooling)
+Narrator: While you’re tracking AI stocks, the actual hardware is pushing fifteen-thousand watts per chip—enough heat to cook a steak in seconds. We’ve officially hit the wall where air cooling stops working, turning the AI gold rush into a billion-dollar scramble for industrial plumbing.
+
+(Scene 4 — Fertilizer/Strait of Hormuz)
+Narrator: The effective closure of the Strait of Hormuz has trapped a third of the world’s fertilizer in a bottleneck, forcing farmers to abandon corn for soybeans. This war isn’t just hitting gas prices; it’s coming for your breakfast. 
+
+(Scene 5 — Outro)
+Narrator: Keep your eye on the boring stuff.
+
+### Deliverable
+
 **STEP 2 SCRIPT QUESTIONS:**
 *   **Audience & Tone:** How does the draft align with the Audience and Tone guidelines?
 *   **Rules Check:** How have the specific Rules shaped this script?
 *   **The Outro:** How does the final "Keep your eye on the boring stuff" phrase tie back to the day's market sentiment?
 
 **REQUIRED OUTPUT FORMAT (Script):**
-Briefly answer the **STEP 2 SCRIPT QUESTIONS** above to justify the draft. Then, provide the narration with scene numbers and titles interleaved:
+Briefly answer the **STEP 2 SCRIPT QUESTIONS** above to justify the draft. Then, provide the TTS instruction and the narration with scene numbers and titles interleaved:
+
+**TTS Prompt Style Instruction:** Read like a financial analyst delivering news at a fast pace.
 
 (Scene # — [Scene Title])
 Narrator: [Narration for this scene.]
@@ -89,13 +107,20 @@ Narrator: [Narration for this scene.]
 *   Keep actions gradual and sequential.
 *   Use the same descriptive language from the corresponding image prompt to maintain consistency.
 
-**Visual Prompt Examples**
-*   **Example (Story 1):**
-    - **Base Image:** *"A handcrafted miniature landscape representing a narrow strip of blue-painted wood 'water.' Two massive, brightly colored corn-cereal boxes act as cliffs on either side. A tiny, highly detailed cargo ship is wedged diagonally between the boxes, completely blocking the path."*
-    - **Motion Prompt:** *"A slow camera tilt upwards from the tiny farmer to the massive cereal boxes blocking the ship."*
-*   **Example (Story 2):**
-    - **Base Image:** *"A small-scale handcrafted physical miniature set of a sterile operating room. A sleek, white robotic surgical arm is frozen in a dramatic pose, its metallic claw clenching a heavy, rusted iron paperweight. Tiny figures in blue scrubs stand around the base, looking up at the arm with hands on their hips in confusion."*
-    - **Motion Prompt:** *"A slow camera push-in toward the robotic arm, focusing on the texture of the rusted paperweight."*
+**Visual Prompt Example**
+(Scene 2 — Stryker Cyber-Attack)
+- **Base Image:** A small-scale handcrafted physical miniature set of a sterile operating room. A sleek, white robotic surgical arm is frozen in a dramatic pose, its metallic claw clenching a heavy, rusted iron paperweight. Tiny figures in blue scrubs stand around the base, looking up at the arm with hands on their hips in confusion. 
+- **Motion Prompt:** A slow camera push-in toward the robotic arm, focusing on the texture of the rusted paperweight.
+
+(Scene 3 — Liquid Cooling)
+- **Base Image:** A tabletop diorama of a data center floor. The central server rack is made of glowing orange translucent resin, casting a fiery light on the floor. A group of tiny figures in work overalls are dragging a massive, oversized green garden hose—the size of a fire hose—toward the glowing rack. Wisps of white cotton "steam" rise from the top of the server.
+- **Motion Prompt:** A slow pull-back camera move, revealing the comical size of the garden hose compared to the tiny, overheating server.
+
+(Scene 4 — Fertilizer/Strait of Hormuz)
+- **Base Image:** A handcrafted miniature landscape representing a narrow strip of blue-painted wood "water." Two massive, brightly colored corn-cereal boxes act as cliffs on either side. A tiny, highly detailed cargo ship is wedged diagonally between the boxes, completely blocking the path. A tiny farmer in a straw hat stands in the foreground, looking at the ship.
+- **Motion Prompt:** A slow camera tilt upwards from the tiny farmer to the massive cereal boxes blocking the ship.
+
+### Deliverable
 
 **STEP 3 VISUAL QUESTIONS:**
 *   **Specificity Check:** How is the visual specific to the story?
@@ -114,5 +139,29 @@ Scene # — [Scene Title]
 
 ---
 
-## Step 4: Save & Commit
-Once approved, compile the Story Selection, Script, and Visual Prompts and save the deliverable to a new file named `outputs/Video_Output_{DATE}.md` using today's date.
+## Step 4: The Caption
+
+### Deliverable
+
+**STEP 4 CAPTION QUESTIONS:**
+*   **Branding Check:** Does the caption lead with "Peter's Digest" and the date?
+*   **Discovery Check:** Does the caption incorporate specific names, themes, and the trailing SEO sentence ("Financial and AI news to help us make sense of the economy and markets")?
+
+**REQUIRED OUTPUT FORMAT (Caption):**
+Briefly answer the **STEP 4 CAPTION QUESTIONS** above. Then provide the caption:
+
+Caption:
+Peter's Digest — [DATE].
+
+[Concise summary incorporating names and themes from Step 1].
+
+Financial and AI news to help us make sense of the economy and markets.
+
+#fintok #finance #personalfinance #investing #money #economy #news #breakingnews #ai #fyp #learnontiktok
+
+**STOP. Wait for user approval before proceeding to Step 5.**
+
+---
+
+## Step 5: Save & Commit
+Once approved, compile the Story Selection, Script, Visual Prompts, and Caption and save the deliverable to a new file named `outputs/Video_Output_{DATE}.md` using today's date.
