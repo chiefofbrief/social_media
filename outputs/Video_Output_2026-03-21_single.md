@@ -1,4 +1,4 @@
-# DRAFT: Peter's Digest Video Output — March 21, 2026
+# Peter's Digest Video Output — March 21, 2026
 
 ## Step 1: Story Selection
 **Story:** The 14-Year Trap: Why the S&P 500 isn't the "Safe Bet" you think it is.
@@ -106,9 +106,7 @@
 **Caption (both platforms):**
 Peter's Digest — March 21, 2026.
 
-Think the S&P 500 is a "guaranteed" win? History has a 14-year warning for you. We’re breaking down why the 1999 dot-com peak took until 2013 to recover, and why today’s AI-driven market signals a potential decade of stagnation.
-
-Financial and AI news for people who suspect the headlines aren't telling the whole story. We break down markets, geopolitics, and tech in under a minute—so you always know what's actually moving the economy. Whether it's the S&P 500 hitting a dangerous P/E ratio of 39.0 or the echoes of the 1999 market trap, we find the signal in the noise.
+Think the S&P 500 is a "guaranteed" win? History has a 14-year warning for you. If you bought at the 1999 dot-com peak, you didn't see a single cent of profit until 2013—that’s fourteen years of your life just to get back to zero. Today, we’re staring at a P/E ratio of 39.0, mirroring the 2000 crash, while just five tech stocks carry the entire index and home sales crater at 2008 levels. We’re breaking down why the "time in the market" myth is a dangerous oversimplification and how to hedge against a potential decade of stagnation.
 
 **YouTube hashtags:** #fintok #finance #investing #economy #stockmarket #news #ai #breakingnews #personalfinance #wallstreet
 
