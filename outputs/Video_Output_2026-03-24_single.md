@@ -31,7 +31,7 @@ The research confirmed a massive **$1.5 billion** purchase of stock futures and 
 
 ---
 
-## Step 2: The Script
+## Step 2: The Script (Final Version)
 
 **STEP 2 SCRIPT QUESTIONS:**
 *   **Audience & Tone:** Sharp and skeptical. The scale mismatch between "fifteen minutes" and "three trillion dollars" is the primary driver.
@@ -44,32 +44,32 @@ The research confirmed a massive **$1.5 billion** purchase of stock futures and 
 **Opening Hook**
 Someone made a billion and a half dollars yesterday—fifteen minutes before the rest of the world knew why.
 
-—
+  —
 
 (Scene 1 — The Front-Run)
-At precisely six forty-nine A M on Monday—while you were still asleep—an anonymous trader dropped one point five billion dollars into the stock market. At the exact same second, they bet five hundred and eighty million dollars that oil prices were about to collapse.
+At precisely six forty-nine A M on Monday traders dropped one point five billion dollars into the stock market. At the exact same second, they bet five hundred and eighty million dollars that oil prices were about to collapse.
 
-—
+  —
 
 (Scene 2 — The Catalyst)
-Fifteen minutes later, a post hits Truth Social. The President claims a peace deal with Iran is "productive." The S and P five hundred surges two hundred and forty points, adding two trillion dollars in market cap in six minutes.
+Well, fifteen minutes later, a post hits Truth Social. The President claims a peace deal with Iran is "productive." The S and P five hundred surges two hundred and forty points, adding two trillion dollars in market cap in six minutes.
 
-—
+  —
 
 (Scene 3 — The Reversal)
-But the peace was a lie. Iran denies everything, the market bungee-jumps back down, and retail investors who bought the rally are left holding a one trillion dollar bag. 
+But the peace was a lie...Iran denies everything. The market bungee-jumps back down, and retail investors who bought the rally are left holding a one trillion dollar bag. 
 
-—
+  —
 
 (Scene 4 — The Golden Seats)
 The real story isn't just the trade—it's the takeover. While insiders front-ran the news, the Pentagon was busy hiring thirty bankers from Goldman Sachs and J P Morgan to run a new two hundred billion dollar "Economic Defense Unit." 
 
-—
+  —
 
 (Scene 5 — The Free Taste)
-As the Reddit users put it, a con man always gives you a free taste. The insiders took the billion-dollar bait, the bankers took the golden seats, and the house always knows the news before it happens.
+A con man always gives you a free taste. The insiders took the billion-dollar bait, the bankers took the golden seats, and the house? The house always knows the news before it happens.
 
-—
+  —
 
 **Closing Line**
 Keep your eye on the boring stuff.
