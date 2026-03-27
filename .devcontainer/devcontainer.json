@@ -1,0 +1,5 @@
+{
+  "containerEnv": {
+    "SOCIAVAULT_API_KEY": "${SOCIAVAULT_API_KEY}"
+  }
+}
