@@ -27,9 +27,9 @@ Your goal is to act as a "Nightly News" producer. Curate a fast-paced rundown of
 **REQUIRED OUTPUT FORMAT (Story Selection):**
 Briefly answer the **STEP 1 QUESTIONS** above to justify the selection of the stories. Then provide your rundown:
 
-**Segment 1 (Macro):** [1-3 rapid-fire updates / Core Data Points — Include source citation for each, e.g., (Source: Article Name)]
-**Segment 2 (AI):** [1-3 rapid-fire updates / Core Data Points — Include source citation for each, e.g., (Source: Article Name)]
-**Segment 3 (Stocks):** [1-3 rapid-fire updates / Core Data Points — Include source citation for each, e.g., (Source: Article Name)]
+**Segment 1 (Macro):** [1-3 rapid-fire updates / Core Data Points]
+**Segment 2 (AI):** [1-3 rapid-fire updates / Core Data Points]
+**Segment 3 (Stocks):** [1-3 rapid-fire updates / Core Data Points]
 
 **USER INPUT REQUEST:**
 After presenting the rundown, ask the user: "Are you happy with this rundown, or would you like to swap any of these stories before we gather additional context?"
@@ -41,7 +41,7 @@ After presenting the rundown, ask the user: "Are you happy with this rundown, or
 ## Step 1.5: Web Research
 
 ### Guidelines
-The Digest contains the vast majority of the data you need. Use this step for **Contextual Fact-Checking and Temporal Verification**. Trust your judgment to propose 2-3 web searches for additional context and/or to verify the 'Breaking' status of stories if you want to use time-relative words like 'today' or 'this morning' in the script or make any high-stakes claims (e.g., 'all-time high', specific price targets). If the digest has enough context, propose skipping.
+The Digest contains the vast majority of the data you need. Use this step strictly for **Contextual Fact-Checking**. Trust your judgment to propose 2-3 web searches. If the digest has enough context, propose skipping.
 
 ### Deliverable
 
@@ -91,7 +91,6 @@ This script will be read by Google's Iapetus TTS voice in Vertex AI. Write the n
 * Cut anything that doesn't serve the rundown.
 * Let the facts do the heavy lifting. Use specific numbers—dollar amounts, percentages, dates—they punch harder than adjectives.
 * Write for continuous audio—no visual references; narration must work as pure standalone audio.
-* Avoid using 'today,' 'this morning,' or 'last night' unless explicitly confirmed by web research.
 * Relevance cuts two ways — immediate personal impact (cost of living, job security) and investment signal (what this means for your portfolio or how to read the market). Let the stories dictate which angle is stronger.
 
 ### Deliverable
@@ -140,13 +139,15 @@ Provide a clean, stripped-down version of the script containing ONLY the narrati
 
 ### Guidelines
 
+**Format:** All visuals must be composed for a 9:16 vertical format. Framing, subject placement, and visual weight should be optimized for a tall vertical frame.
+
 **First Frame:** Scene 1 must be designed so the first frame instantly signals 'finance/world news' to a cold viewer within one second. The opening visual should be the most viscerally legible scene — if it could be mistaken for art rather than news, redesign it.
 
 **Default Style:** All AI-generated visuals — Veo3 clips and static images — use the Miniature Model / Diorama aesthetic. Reinforce with language like "small-scale handcrafted physical miniature set," "tiny figures made as miniature models," "visible miniature craft textures," "tabletop diorama" to ensure AI renders miniature aesthetics rather than illustrations or cartoons.
 
 **Veo3 Clips:** Suggest **exactly 4 clips** based on where the miniature model aesthetic and AI-generated motion provide the highest visual leverage for the rundown. Each clip may be split and used at multiple points throughout the video.
 
-**Static Images:** Suggest **4 to 5 static images** where they add the most credibility to the stories. Every story or data point teased in the Opening Hook must have a corresponding static visual suggestion. For each suggestion, provide two options: a **Headline/Evidence Search** (regular Google search) and an AI-generated fallback. The goal is to find factual headlines, articles, or verified data points that can be screenshotted and overlaid to confirm the narration in the simplest way possible. Provide 1-2 precise Google search queries that will likely surface a news headline or relevant article. Only one option will be used.
+**Static Images:** Suggest **4 to 5 static images** where they add the most credibility to the stories. For each suggestion, provide two options: a real image search query and an AI-generated fallback. Real images should be timely news assets—screenshots, charts, actual social media posts, or verified headlines—not generic stock photography. Instead of describing the real image, provide 1-2 highly precise Google Image search queries that the user can copy/paste to find the exact historical asset. Only one option will be used.
 
 **AI Image Guidelines** *(applies to AI-generated visuals only):*
 * **Visual Metaphor:** Find the prop, the action, and the scale mismatch that embodies the absurdity. Use visual metaphors and composition rather than literal imagery. Metaphors must be instantly recognizable (e.g., a satellite dish or pill bottle). The visual must be specific to the story.
@@ -169,7 +170,7 @@ Provide a clean, stripped-down version of the script containing ONLY the narrati
 * **Miniature Aesthetic:** How do the AI-generated visuals make the most out of the miniature model style?
 * **Veo3 Leverage Check:** Are the four Veo3 clips selected for where the miniature model aesthetic and AI-generated motion provide the highest visual leverage for the rundown?
 * **Physics Check:** How does the motion plan avoid complex physics glitches?
-* **Static Image Check:** Do the 4-5 static image suggestions add credibility to the stories, does every item from the Opening Hook have a visual, and does each have both a Headline/Evidence search query and an AI fallback?
+* **Static Image Check:** Do the 4-5 static image suggestions add credibility to the stories, and does each have both a real image search query and an AI fallback?
 * **First Frame Check:** Does Scene 1 instantly signal finance/world news to a cold viewer within one second?
 
 **REQUIRED OUTPUT FORMAT (Visual Prompts):**
@@ -180,8 +181,8 @@ Briefly answer the **STEP 3 VISUAL QUESTIONS** above to justify the plan.
 **Veo3 Clips**
 
 Clip # — [Clip Title]
-- **Base Image:** Generate this image: [Flowing natural language describing the handcrafted physical miniature set, lighting, and composition.]
-- **Motion Prompt:** Generate a video using the attached base image: [Detailed camera movement and/or object motion relative to the Base Image.]
+- **Base Image:** Generate this image in a 9:16 format: [Flowing natural language describing the handcrafted physical miniature set, lighting, and composition.]
+- **Motion Prompt:** Generate a video in a 9:16 format using the attached base image: [Detailed camera movement and/or object motion relative to the Base Image.]
 
 *(Repeat for exactly 4 clips)*
 
@@ -190,8 +191,8 @@ Clip # — [Clip Title]
 **Static Images**
 
 Static # — [Image Title]
-- **Headline/Evidence Search:** [1-2 precise Google search queries designed to surface a news headline, article, or verified data point that confirms the story for a simple screenshot overlay.]
-- **AI Image:** Generate this image: [Flowing natural language prompt in the miniature model / diorama style.]
+- **Real Image Search:** [1-2 precise Google Image search queries designed to surface the specific, factual chart, screenshot, or verified headline discussed in the story.]
+- **AI Image:** Generate this image in a 9:16 format: [Flowing natural language prompt in the miniature model / diorama style.]
 
 *(Repeat for 4 to 5 static images)*
 
@@ -205,7 +206,7 @@ Static # — [Image Title]
 
 ### Guidelines
 
-**Video Captions:** Each scene gets exactly one robust caption that tells the story without audio. Captions must be complete thoughts, not cryptic fragments. Aim for 70-120 characters per caption—long enough to convey the core data point, but short enough to be read in under 3 seconds. Prioritize information density: include the key name, figure, or action while stripping all filler words. A viewer should be able to understand the news updates just by reading the captions sequentially.
+**Video Captions:** Each scene gets exactly one robust caption that tells the story without audio. Captions must be complete thoughts, not cryptic fragments. A viewer should be able to understand the news updates just by reading the captions sequentially.
 
 **Thumbnail:** Scene 1's caption is always written as a thumbnail candidate — a direct question or provocative statement that stops a cold viewer scrolling.
 
@@ -213,7 +214,7 @@ Static # — [Image Title]
 
 **STEP 4 CAPTION QUESTIONS:**
 * **Rundown Check:** Do the captions across all scenes summarize the rundown without audio? Are they complete thoughts rather than fragments?
-* **Clarity Check:** Are the captions robust enough to convey the mechanics of the rundown without losing meaning? Do they follow the 70-120 character limit and prioritize information density?
+* **Clarity Check:** Are the captions robust enough to convey the mechanics of the rundown without losing meaning?
 * **Thumbnail Check:** Does Scene 1's caption work as a standalone thumbnail — a direct question or provocative statement that stops a cold viewer?
 * **Branding & Summary Check:** Does the platform caption lead with "Peter's Digest" and the date, and does the summary naturally incorporate specific names, figures, and themes from the rundown?
 * **Title Check:** Does the title lead with the most provocative or counterintuitive element of the rundown — specific figures and stakes over clever wordplay?
