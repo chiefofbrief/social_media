@@ -199,7 +199,7 @@ Provide a clean, stripped-down version of the script containing ONLY the narrati
 
 **Veo3 Clips:** Suggest **exactly 4 clips** based on where the miniature model aesthetic and AI-generated motion provide the highest visual leverage for the story. Each clip may be split and used at multiple points throughout the video.
 
-**Static Images:** Suggest **4 to 5 static images** where they add the most credibility to the story. For each suggestion, provide two options: a real image search query and an AI-generated fallback. Real images should be timely news assets—screenshots, charts, actual social media posts, or verified headlines—not generic stock photography. CRITICAL ANTI-HALLUCINATION RULE: Do not suggest specific real images or headlines unless the asset was explicitly confirmed during the web research phase. Instead of describing the real image, provide 1-2 highly precise Google Image search queries that the user can copy/paste to find the exact historical asset. Only one option will be used.
+**Static Images:** Suggest **4 to 5 static images** where they add the most credibility to the story. For each suggestion, provide two options: a **Headline/Evidence Search** (regular Google search) and an AI-generated fallback. The goal is to find factual headlines, articles, or verified data points that can be screenshotted and overlaid to confirm the narration in the simplest way possible. Only one option will be used.
 
 **AI Image Guidelines** *(applies to AI-generated visuals only):*
 * **Visual Metaphor:** Find the prop, the action, and the scale mismatch that embodies the absurdity. Use visual metaphors and composition rather than literal imagery. Metaphors must be instantly recognizable (e.g., a satellite dish or pill bottle). The visual must be specific to the story.
@@ -282,7 +282,7 @@ Clip # — [Clip Title]
 **Static Images**
 
 Static # — [Image Title]
-- **Real Image Search:** [1-2 precise Google Image search queries designed to surface the specific, factual chart, screenshot, or verified headline discussed in the story.]
+- **Headline/Evidence Search:** [1-2 precise Google search queries designed to surface a news headline, article, or verified data point that confirms the story for a simple screenshot overlay.]
 - **AI Image:** Generate this image in a 9:16 format: [Flowing natural language prompt in the miniature model / diorama style.]
 
 *(Repeat for 4 to 5 static images)*
@@ -297,7 +297,7 @@ Static # — [Image Title]
 
 ### Guidelines
 
-**Video Captions:** Each scene gets exactly one robust caption that tells the story without audio. Captions must be complete thoughts, not cryptic fragments. A viewer should be able to follow the entire narrative arc just by reading the captions sequentially.
+**Video Captions:** Each scene gets exactly one robust caption that tells the story without audio. Captions must be complete thoughts, not cryptic fragments. Aim for 70-120 characters per caption—long enough to convey the core data point, but short enough to be read in under 3 seconds. Prioritize information density: include the key name, figure, or action while stripping all filler words. A viewer should be able to follow the entire narrative arc just by reading the captions sequentially.
 
 **Thumbnail:** Scene 1's caption is always written as a thumbnail candidate — a direct question or provocative statement that stops a cold viewer scrolling.
 
