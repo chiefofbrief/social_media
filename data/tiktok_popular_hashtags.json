@@ -1,399 +1,215 @@
 [
   {
-    "hashtag_id": "471858",
-    "hashtag_name": "openingday",
+    "hashtag_id": "4777",
+    "hashtag_name": "prom",
     "country_info": {
       "id": "US",
       "value": "United States",
       "label": "US"
     },
     "industry_info": {
-      "id": 28000000000,
-      "value": "Sports & Outdoor",
-      "label": "label_28000000000"
+      "id": 22000000000,
+      "value": "Apparel & Accessories",
+      "label": "label_22000000000"
     },
     "is_promoted": false,
     "trend": {
       "0": {
-        "time": 1774051200,
-        "value": 0.12
-      },
-      "1": {
-        "time": 1774137600,
-        "value": 0.14
-      },
-      "2": {
-        "time": 1774224000,
-        "value": 0.15
-      },
-      "3": {
-        "time": 1774310400,
-        "value": 0.18
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.24
-      },
-      "5": {
-        "time": 1774483200,
-        "value": 0.45
-      },
-      "6": {
-        "time": 1774569600,
+        "time": 1776124800,
         "value": 1
-      }
-    },
-    "publish_cnt": 8435,
-    "video_views": 26327191,
-    "rank": 1,
-    "rank_diff": 12,
-    "rank_diff_type": 1
-  },
-  {
-    "hashtag_id": "1612826378561542",
-    "hashtag_name": "druski",
-    "country_info": {
-      "id": "US",
-      "value": "United States",
-      "label": "US"
-    },
-    "industry_info": {
-      "id": 23000000000,
-      "value": "News & Entertainment",
-      "label": "label_23000000000"
-    },
-    "is_promoted": false,
-    "trend": {
-      "0": {
-        "time": 1774051200,
-        "value": 0.29
       },
       "1": {
-        "time": 1774137600,
-        "value": 0.28
-      },
-      "2": {
-        "time": 1774224000,
-        "value": 0.24
-      },
-      "3": {
-        "time": 1774310400,
-        "value": 0.24
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.23
-      },
-      "5": {
-        "time": 1774483200,
-        "value": 0.24
-      },
-      "6": {
-        "time": 1774569600,
-        "value": 1
-      }
-    },
-    "publish_cnt": 4621,
-    "video_views": 115744582,
-    "rank": 2,
-    "rank_diff_type": 4
-  },
-  {
-    "hashtag_id": "7590743647994249246",
-    "hashtag_name": "erupsisemeruhariiniv",
-    "country_info": {
-      "id": "US",
-      "value": "United States",
-      "label": "US"
-    },
-    "industry_info": {
-      "id": 23000000000,
-      "value": "News & Entertainment",
-      "label": "label_23000000000"
-    },
-    "is_promoted": false,
-    "trend": {
-      "0": {
-        "time": 1774051200,
-        "value": 0.42
-      },
-      "1": {
-        "time": 1774137600,
-        "value": 0.45
-      },
-      "2": {
-        "time": 1774224000,
-        "value": 0.47
-      },
-      "3": {
-        "time": 1774310400,
-        "value": 0.71
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.83
-      },
-      "5": {
-        "time": 1774483200,
-        "value": 0.95
-      },
-      "6": {
-        "time": 1774569600,
-        "value": 1
-      }
-    },
-    "publish_cnt": 18509,
-    "video_views": 112993674,
-    "rank": 3,
-    "rank_diff": 4,
-    "rank_diff_type": 1
-  },
-  {
-    "hashtag_id": "5190209",
-    "hashtag_name": "teamworkmakesthedreamwork",
-    "country_info": {
-      "id": "US",
-      "value": "United States",
-      "label": "US"
-    },
-    "is_promoted": false,
-    "trend": {
-      "0": {
-        "time": 1774051200,
-        "value": 0.2
-      },
-      "1": {
-        "time": 1774137600,
-        "value": 0.21
-      },
-      "2": {
-        "time": 1774224000,
-        "value": 0.2
-      },
-      "3": {
-        "time": 1774310400,
-        "value": 0.19
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.2
-      },
-      "5": {
-        "time": 1774483200,
-        "value": 0.21
-      },
-      "6": {
-        "time": 1774569600,
-        "value": 1
-      }
-    },
-    "publish_cnt": 6129,
-    "video_views": 4952672,
-    "rank": 4,
-    "rank_diff_type": 4
-  },
-  {
-    "hashtag_id": "60253",
-    "hashtag_name": "dodgers",
-    "country_info": {
-      "id": "US",
-      "value": "United States",
-      "label": "US"
-    },
-    "industry_info": {
-      "id": 28000000000,
-      "value": "Sports & Outdoor",
-      "label": "label_28000000000"
-    },
-    "is_promoted": false,
-    "trend": {
-      "0": {
-        "time": 1774051200,
-        "value": 0.44
-      },
-      "1": {
-        "time": 1774137600,
-        "value": 0.45
-      },
-      "2": {
-        "time": 1774224000,
-        "value": 0.42
-      },
-      "3": {
-        "time": 1774310400,
-        "value": 0.53
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.59
-      },
-      "5": {
-        "time": 1774483200,
-        "value": 0.67
-      },
-      "6": {
-        "time": 1774569600,
-        "value": 1
-      }
-    },
-    "publish_cnt": 5876,
-    "video_views": 47183461,
-    "rank": 5,
-    "rank_diff_type": 4
-  },
-  {
-    "hashtag_id": "12423462",
-    "hashtag_name": "yuta",
-    "country_info": {
-      "id": "US",
-      "value": "United States",
-      "label": "US"
-    },
-    "industry_info": {
-      "id": 25000000000,
-      "value": "Games",
-      "label": "label_25000000000"
-    },
-    "is_promoted": false,
-    "trend": {
-      "0": {
-        "time": 1774051200,
-        "value": 0.5
-      },
-      "1": {
-        "time": 1774137600,
-        "value": 0.45
-      },
-      "2": {
-        "time": 1774224000,
-        "value": 0.63
-      },
-      "3": {
-        "time": 1774310400,
-        "value": 0.58
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.57
-      },
-      "5": {
-        "time": 1774483200,
+        "time": 1776211200,
         "value": 0.54
       },
+      "2": {
+        "time": 1776297600,
+        "value": 0.38
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.3
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.3
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.41
+      },
       "6": {
-        "time": 1774569600,
+        "time": 1776643200,
+        "value": 0.96
+      }
+    },
+    "trending_type": 1,
+    "publish_cnt": 122065,
+    "video_views": 609509915,
+    "rank": 1,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "467758",
+    "hashtag_name": "wrestlemania",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 28000000000,
+      "value": "Sports & Outdoor",
+      "label": "label_28000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.28
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.32
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.4
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.38
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.44
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.58
+      },
+      "6": {
+        "time": 1776643200,
         "value": 1
+      }
+    },
+    "publish_cnt": 19392,
+    "video_views": 92300884,
+    "rank": 2,
+    "rank_diff": 1,
+    "rank_diff_type": 3
+  },
+  {
+    "hashtag_id": "2997693",
+    "hashtag_name": "billieeilish",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 23000000000,
+      "value": "News & Entertainment",
+      "label": "label_23000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.9
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.86
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.85
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.86
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.95
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 1
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.94
       }
     },
     "creators": {
       "0": {
-        "nick_name": "\uff30\uff33\uff39\uff23\uff28\uff25",
-        "avatar_url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/546a33c0cfdd3973ab22389fea8d6d0c~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=8c596b55&x-expires=1774893600&x-signature=q2rPpS3%2Fnl3RVdJDaT%2F4d2%2BT3hg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
+        "nick_name": "pierre-anton \ud83e\udda6",
+        "avatar_url": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/76e5291d678808b9a33849e6ce19aa6d~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=90a1dc2d&x-expires=1776909600&x-signature=AjPx0t8BiQJwXiiK0sv26M6GrsU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my"
+      },
+      "1": {
+        "nick_name": "\u2728Fey\u2728",
+        "avatar_url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/2fbc593d01e9e1afc96d296269eabfdd~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=ec55f793&x-expires=1776909600&x-signature=EEnlAyRKPxaJxKTJ%2BXWWegS7anU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my"
+      },
+      "2": {
+        "nick_name": "\u1d00\u1d1b\u029f\u1d00s",
+        "avatar_url": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/acba1cb8bfd2aa9515673934202d8396~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=2a1d00c9&x-expires=1776909600&x-signature=GsZcpiR3k9EBa%2B9Koe3wXIyv7xA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my"
       }
     },
-    "publish_cnt": 4506,
-    "video_views": 38142373,
-    "rank": 6,
+    "publish_cnt": 30417,
+    "video_views": 210919379,
+    "rank": 3,
     "rank_diff_type": 4
   },
   {
-    "hashtag_id": "7216076003259449387",
-    "hashtag_name": "erikakirk",
+    "hashtag_id": "12168930",
+    "hashtag_name": "prom2026",
     "country_info": {
       "id": "US",
       "value": "United States",
       "label": "US"
     },
     "industry_info": {
-      "id": 23000000000,
-      "value": "News & Entertainment",
-      "label": "label_23000000000"
+      "id": 22000000000,
+      "value": "Apparel & Accessories",
+      "label": "label_22000000000"
     },
     "is_promoted": false,
     "trend": {
       "0": {
-        "time": 1774051200,
-        "value": 0.31
+        "time": 1776124800,
+        "value": 1
       },
       "1": {
-        "time": 1774137600,
-        "value": 0.27
+        "time": 1776211200,
+        "value": 0.59
       },
       "2": {
-        "time": 1774224000,
-        "value": 0.25
+        "time": 1776297600,
+        "value": 0.43
       },
       "3": {
-        "time": 1774310400,
-        "value": 0.26
+        "time": 1776384000,
+        "value": 0.36
       },
       "4": {
-        "time": 1774396800,
-        "value": 0.26
+        "time": 1776470400,
+        "value": 0.33
       },
       "5": {
-        "time": 1774483200,
-        "value": 0.25
+        "time": 1776556800,
+        "value": 0.44
       },
       "6": {
-        "time": 1774569600,
-        "value": 1
+        "time": 1776643200,
+        "value": 0.93
       }
     },
-    "publish_cnt": 2194,
-    "video_views": 47542474,
-    "rank": 7,
+    "publish_cnt": 20402,
+    "video_views": 103824906,
+    "rank": 4,
     "rank_diff_type": 4
-  },
-  {
-    "hashtag_id": "66366966",
-    "hashtag_name": "\u0442\u0440\u0438\u043a\u043e\u0442\u0430",
-    "country_info": {
-      "id": "US",
-      "value": "United States",
-      "label": "US"
-    },
-    "industry_info": {
-      "id": 25000000000,
-      "value": "Games",
-      "label": "label_25000000000"
-    },
-    "is_promoted": false,
-    "trend": {
-      "0": {
-        "time": 1774051200,
-        "value": 0.18
-      },
-      "1": {
-        "time": 1774137600,
-        "value": 0.39
-      },
-      "2": {
-        "time": 1774224000,
-        "value": 0.51
-      },
-      "3": {
-        "time": 1774310400,
-        "value": 0.56
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.72
-      },
-      "5": {
-        "time": 1774483200,
-        "value": 0.74
-      },
-      "6": {
-        "time": 1774569600,
-        "value": 1
-      }
-    },
-    "publish_cnt": 4636,
-    "video_views": 25429239,
-    "rank": 8,
-    "rank_diff": 21,
-    "rank_diff_type": 1
   },
   {
     "hashtag_id": "930553",
@@ -411,416 +227,87 @@
     "is_promoted": false,
     "trend": {
       "0": {
-        "time": 1774051200,
-        "value": 0.11
+        "time": 1776124800,
+        "value": 0.27
       },
       "1": {
-        "time": 1774137600,
-        "value": 0.1
-      },
-      "2": {
-        "time": 1774224000,
-        "value": 0.1
-      },
-      "3": {
-        "time": 1774310400,
-        "value": 0.11
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.13
-      },
-      "5": {
-        "time": 1774483200,
-        "value": 0.54
-      },
-      "6": {
-        "time": 1774569600,
-        "value": 1
-      }
-    },
-    "publish_cnt": 2057,
-    "video_views": 15756174,
-    "rank": 9,
-    "rank_diff": 41,
-    "rank_diff_type": 1
-  },
-  {
-    "hashtag_id": "14774532",
-    "hashtag_name": "aircanada",
-    "country_info": {
-      "id": "US",
-      "value": "United States",
-      "label": "US"
-    },
-    "industry_info": {
-      "id": 11000000000,
-      "value": "Vehicle & Transportation",
-      "label": "label_11000000000"
-    },
-    "is_promoted": false,
-    "trend": {
-      "0": {
-        "time": 1774051200,
-        "value": 0.03
-      },
-      "1": {
-        "time": 1774137600,
-        "value": 0.03
-      },
-      "2": {
-        "time": 1774224000,
-        "value": 0.02
-      },
-      "3": {
-        "time": 1774310400,
-        "value": 0.66
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.85
-      },
-      "5": {
-        "time": 1774483200,
-        "value": 0.83
-      },
-      "6": {
-        "time": 1774569600,
-        "value": 1
-      }
-    },
-    "publish_cnt": 4451,
-    "video_views": 58902728,
-    "rank": 10,
-    "rank_diff": 15,
-    "rank_diff_type": 1
-  },
-  {
-    "hashtag_id": "1655549932398597",
-    "hashtag_name": "cozygaming",
-    "country_info": {
-      "id": "US",
-      "value": "United States",
-      "label": "US"
-    },
-    "industry_info": {
-      "id": 25000000000,
-      "value": "Games",
-      "label": "label_25000000000"
-    },
-    "is_promoted": false,
-    "trend": {
-      "0": {
-        "time": 1774051200,
-        "value": 0.25
-      },
-      "1": {
-        "time": 1774137600,
-        "value": 0.23
-      },
-      "2": {
-        "time": 1774224000,
-        "value": 0.24
-      },
-      "3": {
-        "time": 1774310400,
-        "value": 0.26
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.26
-      },
-      "5": {
-        "time": 1774483200,
-        "value": 0.6
-      },
-      "6": {
-        "time": 1774569600,
-        "value": 1
-      }
-    },
-    "publish_cnt": 11863,
-    "video_views": 8716624,
-    "rank": 11,
-    "rank_diff": 34,
-    "rank_diff_type": 1
-  },
-  {
-    "hashtag_id": "12326",
-    "hashtag_name": "ariana",
-    "country_info": {
-      "id": "US",
-      "value": "United States",
-      "label": "US"
-    },
-    "industry_info": {
-      "id": 23000000000,
-      "value": "News & Entertainment",
-      "label": "label_23000000000"
-    },
-    "is_promoted": false,
-    "trend": {
-      "0": {
-        "time": 1774051200,
+        "time": 1776211200,
         "value": 0.29
       },
-      "1": {
-        "time": 1774137600,
-        "value": 0.34
-      },
       "2": {
-        "time": 1774224000,
-        "value": 0.43
+        "time": 1776297600,
+        "value": 0.33
       },
       "3": {
-        "time": 1774310400,
-        "value": 0.58
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.65
-      },
-      "5": {
-        "time": 1774483200,
-        "value": 0.87
-      },
-      "6": {
-        "time": 1774569600,
-        "value": 1
-      }
-    },
-    "creators": {
-      "0": {
-        "nick_name": "\u2728Fey\u2728",
-        "avatar_url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/2fbc593d01e9e1afc96d296269eabfdd~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=c85fb31b&x-expires=1774893600&x-signature=OYSViZZbCK14Wwad3DyjF9%2FomIk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
-      },
-      "1": {
-        "nick_name": "Miguel Martinez",
-        "avatar_url": "tos-maliva-avt-0068/29a303ba664d23f43b38543771389f0a"
-      },
-      "2": {
-        "nick_name": "Jeffy",
-        "avatar_url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/ebe8b680fa2d38b0fe232bc04fdcedb8~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=9060bb52&x-expires=1774893600&x-signature=s3zSV9SKHKaGDbxmwZWTXeOHUCg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
-      }
-    },
-    "publish_cnt": 5944,
-    "video_views": 24944292,
-    "rank": 12,
-    "rank_diff": 12,
-    "rank_diff_type": 1
-  },
-  {
-    "hashtag_id": "1661377912162309",
-    "hashtag_name": "cuidadohair",
-    "country_info": {
-      "id": "US",
-      "value": "United States",
-      "label": "US"
-    },
-    "industry_info": {
-      "id": 14000000000,
-      "value": "Beauty & Personal Care",
-      "label": "label_14000000000"
-    },
-    "is_promoted": false,
-    "trend": {
-      "0": {
-        "time": 1774051200,
-        "value": 0.59
-      },
-      "1": {
-        "time": 1774137600,
-        "value": 0.69
-      },
-      "2": {
-        "time": 1774224000,
-        "value": 0.48
-      },
-      "3": {
-        "time": 1774310400,
-        "value": 0.79
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.93
-      },
-      "5": {
-        "time": 1774483200,
-        "value": 0.96
-      },
-      "6": {
-        "time": 1774569600,
-        "value": 1
-      }
-    },
-    "publish_cnt": 13027,
-    "video_views": 9853488,
-    "rank": 13,
-    "rank_diff": 5,
-    "rank_diff_type": 1
-  },
-  {
-    "hashtag_id": "16935",
-    "hashtag_name": "yankees",
-    "country_info": {
-      "id": "US",
-      "value": "United States",
-      "label": "US"
-    },
-    "industry_info": {
-      "id": 28000000000,
-      "value": "Sports & Outdoor",
-      "label": "label_28000000000"
-    },
-    "is_promoted": false,
-    "trend": {
-      "0": {
-        "time": 1774051200,
-        "value": 0.35
-      },
-      "1": {
-        "time": 1774137600,
-        "value": 0.37
-      },
-      "2": {
-        "time": 1774224000,
-        "value": 0.44
-      },
-      "3": {
-        "time": 1774310400,
+        "time": 1776384000,
         "value": 0.42
       },
       "4": {
-        "time": 1774396800,
-        "value": 0.47
+        "time": 1776470400,
+        "value": 0.73
       },
       "5": {
-        "time": 1774483200,
-        "value": 0.83
+        "time": 1776556800,
+        "value": 0.87
       },
       "6": {
-        "time": 1774569600,
+        "time": 1776643200,
         "value": 1
       }
     },
-    "publish_cnt": 3629,
-    "video_views": 28574921,
-    "rank": 14,
-    "rank_diff": 14,
-    "rank_diff_type": 1
+    "publish_cnt": 14680,
+    "video_views": 157057735,
+    "rank": 5,
+    "rank_diff": 3,
+    "rank_diff_type": 3
   },
   {
-    "hashtag_id": "7584581705789341707",
-    "hashtag_name": "tiktokmomentscontest",
+    "hashtag_id": "19990023",
+    "hashtag_name": "liveiseasy",
     "country_info": {
       "id": "US",
       "value": "United States",
       "label": "US"
     },
-    "industry_info": {
-      "id": 23000000000,
-      "value": "News & Entertainment",
-      "label": "label_23000000000"
-    },
     "is_promoted": false,
     "trend": {
       "0": {
-        "time": 1774051200,
-        "value": 0.82
+        "time": 1776124800,
+        "value": 0.16
       },
       "1": {
-        "time": 1774137600,
-        "value": 0.54
+        "time": 1776211200,
+        "value": 0.68
       },
       "2": {
-        "time": 1774224000,
-        "value": 0.49
+        "time": 1776297600,
+        "value": 0.86
       },
       "3": {
-        "time": 1774310400,
-        "value": 0.49
+        "time": 1776384000,
+        "value": 0.92
       },
       "4": {
-        "time": 1774396800,
-        "value": 0.43
+        "time": 1776470400,
+        "value": 0.97
       },
       "5": {
-        "time": 1774483200,
-        "value": 0.99
+        "time": 1776556800,
+        "value": 1
       },
       "6": {
-        "time": 1774569600,
-        "value": 1
+        "time": 1776643200,
+        "value": 0.98
       }
     },
-    "publish_cnt": 8292,
-    "video_views": 27617499,
-    "rank": 15,
-    "rank_diff": 2,
-    "rank_diff_type": 1
-  },
-  {
-    "hashtag_id": "1665261725168641",
-    "hashtag_name": "yutaokkotsu",
-    "country_info": {
-      "id": "US",
-      "value": "United States",
-      "label": "US"
-    },
-    "industry_info": {
-      "id": 25000000000,
-      "value": "Games",
-      "label": "label_25000000000"
-    },
-    "is_promoted": false,
-    "trend": {
-      "0": {
-        "time": 1774051200,
-        "value": 0.48
-      },
-      "1": {
-        "time": 1774137600,
-        "value": 0.41
-      },
-      "2": {
-        "time": 1774224000,
-        "value": 0.57
-      },
-      "3": {
-        "time": 1774310400,
-        "value": 0.55
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.54
-      },
-      "5": {
-        "time": 1774483200,
-        "value": 0.54
-      },
-      "6": {
-        "time": 1774569600,
-        "value": 1
-      }
-    },
-    "creators": {
-      "0": {
-        "nick_name": "\uff30\uff33\uff39\uff23\uff28\uff25",
-        "avatar_url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/546a33c0cfdd3973ab22389fea8d6d0c~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=8c596b55&x-expires=1774893600&x-signature=q2rPpS3%2Fnl3RVdJDaT%2F4d2%2BT3hg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
-      },
-      "1": {
-        "nick_name": "yazy [\u30e4\u30b8] \ud83d\udc95",
-        "avatar_url": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/095a446b8030016db030a29d338ed818~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=2f3420fc&x-expires=1774893600&x-signature=%2FQYTM3HGgVqns8086r%2BOC4KBEK8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
-      }
-    },
-    "publish_cnt": 3207,
-    "video_views": 30011799,
-    "rank": 16,
+    "publish_cnt": 35039,
+    "video_views": 38829240,
+    "rank": 6,
     "rank_diff_type": 4
   },
   {
-    "hashtag_id": "8887998",
-    "hashtag_name": "springsale",
+    "hashtag_id": "418186",
+    "hashtag_name": "promdress",
     "country_info": {
       "id": "US",
       "value": "United States",
@@ -834,648 +321,42 @@
     "is_promoted": false,
     "trend": {
       "0": {
-        "time": 1774051200,
-        "value": 0.87
+        "time": 1776124800,
+        "value": 1
       },
       "1": {
-        "time": 1774137600,
-        "value": 0.82
+        "time": 1776211200,
+        "value": 0.62
       },
       "2": {
-        "time": 1774224000,
-        "value": 0.76
+        "time": 1776297600,
+        "value": 0.48
       },
       "3": {
-        "time": 1774310400,
-        "value": 0.9
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.91
-      },
-      "5": {
-        "time": 1774483200,
-        "value": 1
-      },
-      "6": {
-        "time": 1774569600,
-        "value": 1
-      }
-    },
-    "creators": {
-      "0": {
-        "nick_name": "Yumi \ud83c\udfb8",
-        "avatar_url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b58b0793683379b7ddf86b76c4517fc4~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=fad339bf&x-expires=1774893600&x-signature=Maa5nEsQcRQvc97w6T3idNyV4%2Fg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
-      },
-      "1": {
-        "nick_name": "KyleMina",
-        "avatar_url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/6bef41f4c992a0cd279d32ed05d9d758~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=218a60e0&x-expires=1774893600&x-signature=RbkPVVSSe99e5nsUVI7P0r4TO%2BI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
-      },
-      "2": {
-        "nick_name": "Josu\u00e9 Ribeiro\ud83c\udfb8",
-        "avatar_url": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/14f9730f4a3f9d58de7fe99c58383534~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=a02efecc&x-expires=1774893600&x-signature=wohDOW6DZ8w6igkaADxBtiGHe5I%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
-      }
-    },
-    "publish_cnt": 25384,
-    "video_views": 38985170,
-    "rank": 17,
-    "rank_diff": 2,
-    "rank_diff_type": 1
-  },
-  {
-    "hashtag_id": "1598256278711301",
-    "hashtag_name": "naturesnap",
-    "country_info": {
-      "id": "US",
-      "value": "United States",
-      "label": "US"
-    },
-    "is_promoted": false,
-    "trend": {
-      "0": {
-        "time": 1774051200,
-        "value": 0.5
-      },
-      "1": {
-        "time": 1774137600,
-        "value": 0.25
-      },
-      "2": {
-        "time": 1774224000,
-        "value": 0.26
-      },
-      "3": {
-        "time": 1774310400,
-        "value": 0.3
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.56
-      },
-      "5": {
-        "time": 1774483200,
-        "value": 0.76
-      },
-      "6": {
-        "time": 1774569600,
-        "value": 1
-      }
-    },
-    "publish_cnt": 4790,
-    "video_views": 16025558,
-    "rank": 18,
-    "rank_diff": 22,
-    "rank_diff_type": 1
-  },
-  {
-    "hashtag_id": "7281425207305175086",
-    "hashtag_name": "talesoftheshire",
-    "country_info": {
-      "id": "US",
-      "value": "United States",
-      "label": "US"
-    },
-    "industry_info": {
-      "id": 25000000000,
-      "value": "Games",
-      "label": "label_25000000000"
-    },
-    "is_promoted": false,
-    "trend": {
-      "0": {
-        "time": 1774051200,
-        "value": 0.01
-      },
-      "1": {
-        "time": 1774137600,
-        "value": 0.01
-      },
-      "2": {
-        "time": 1774224000,
-        "value": 0.01
-      },
-      "3": {
-        "time": 1774310400,
-        "value": 0.01
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.01
-      },
-      "5": {
-        "time": 1774483200,
-        "value": 0.51
-      },
-      "6": {
-        "time": 1774569600,
-        "value": 1
-      }
-    },
-    "publish_cnt": 10672,
-    "video_views": 869173,
-    "rank": 19,
-    "rank_diff": 52,
-    "rank_diff_type": 1
-  },
-  {
-    "hashtag_id": "1595025494412293",
-    "hashtag_name": "francefootball",
-    "country_info": {
-      "id": "US",
-      "value": "United States",
-      "label": "US"
-    },
-    "industry_info": {
-      "id": 28000000000,
-      "value": "Sports & Outdoor",
-      "label": "label_28000000000"
-    },
-    "is_promoted": false,
-    "trend": {
-      "0": {
-        "time": 1774051200,
-        "value": 0.55
-      },
-      "1": {
-        "time": 1774137600,
-        "value": 0.58
-      },
-      "2": {
-        "time": 1774224000,
-        "value": 0.55
-      },
-      "3": {
-        "time": 1774310400,
-        "value": 0.76
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.91
-      },
-      "5": {
-        "time": 1774483200,
-        "value": 1
-      },
-      "6": {
-        "time": 1774569600,
-        "value": 0.99
-      }
-    },
-    "publish_cnt": 6270,
-    "video_views": 36789512,
-    "rank": 20,
-    "rank_diff": 6,
-    "rank_diff_type": 1
-  },
-  {
-    "hashtag_id": "1662271467873302",
-    "hashtag_name": "forestglow",
-    "country_info": {
-      "id": "US",
-      "value": "United States",
-      "label": "US"
-    },
-    "is_promoted": false,
-    "trend": {
-      "0": {
-        "time": 1774051200,
-        "value": 0.52
-      },
-      "1": {
-        "time": 1774137600,
-        "value": 0.27
-      },
-      "2": {
-        "time": 1774224000,
-        "value": 0.26
-      },
-      "3": {
-        "time": 1774310400,
-        "value": 0.33
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.55
-      },
-      "5": {
-        "time": 1774483200,
-        "value": 0.78
-      },
-      "6": {
-        "time": 1774569600,
-        "value": 1
-      }
-    },
-    "publish_cnt": 4008,
-    "video_views": 15985882,
-    "rank": 21,
-    "rank_diff": 22,
-    "rank_diff_type": 1
-  },
-  {
-    "hashtag_id": "91044",
-    "hashtag_name": "phillies",
-    "country_info": {
-      "id": "US",
-      "value": "United States",
-      "label": "US"
-    },
-    "industry_info": {
-      "id": 28000000000,
-      "value": "Sports & Outdoor",
-      "label": "label_28000000000"
-    },
-    "is_promoted": false,
-    "trend": {
-      "0": {
-        "time": 1774051200,
-        "value": 0.42
-      },
-      "1": {
-        "time": 1774137600,
+        "time": 1776384000,
         "value": 0.43
       },
-      "2": {
-        "time": 1774224000,
-        "value": 0.48
-      },
-      "3": {
-        "time": 1774310400,
-        "value": 0.52
-      },
       "4": {
-        "time": 1774396800,
-        "value": 0.52
-      },
-      "5": {
-        "time": 1774483200,
-        "value": 0.59
-      },
-      "6": {
-        "time": 1774569600,
-        "value": 1
-      }
-    },
-    "publish_cnt": 4221,
-    "video_views": 22269590,
-    "rank": 22,
-    "rank_diff_type": 4
-  },
-  {
-    "hashtag_id": "64987",
-    "hashtag_name": "tanlines",
-    "country_info": {
-      "id": "US",
-      "value": "United States",
-      "label": "US"
-    },
-    "is_promoted": false,
-    "trend": {
-      "0": {
-        "time": 1774051200,
-        "value": 0.5
-      },
-      "1": {
-        "time": 1774137600,
-        "value": 0.55
-      },
-      "2": {
-        "time": 1774224000,
-        "value": 0.61
-      },
-      "3": {
-        "time": 1774310400,
-        "value": 0.57
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.46
-      },
-      "5": {
-        "time": 1774483200,
-        "value": 0.64
-      },
-      "6": {
-        "time": 1774569600,
-        "value": 1
-      }
-    },
-    "publish_cnt": 5613,
-    "video_views": 14374002,
-    "rank": 23,
-    "rank_diff_type": 4
-  },
-  {
-    "hashtag_id": "99096",
-    "hashtag_name": "anthony",
-    "country_info": {
-      "id": "US",
-      "value": "United States",
-      "label": "US"
-    },
-    "industry_info": {
-      "id": 28000000000,
-      "value": "Sports & Outdoor",
-      "label": "label_28000000000"
-    },
-    "is_promoted": false,
-    "trend": {
-      "0": {
-        "time": 1774051200,
-        "value": 0.71
-      },
-      "1": {
-        "time": 1774137600,
-        "value": 0.7
-      },
-      "2": {
-        "time": 1774224000,
-        "value": 0.68
-      },
-      "3": {
-        "time": 1774310400,
-        "value": 0.83
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.88
-      },
-      "5": {
-        "time": 1774483200,
-        "value": 0.96
-      },
-      "6": {
-        "time": 1774569600,
-        "value": 1
-      }
-    },
-    "publish_cnt": 5582,
-    "video_views": 46019223,
-    "rank": 24,
-    "rank_diff": 14,
-    "rank_diff_type": 1
-  },
-  {
-    "hashtag_id": "1621779997070501",
-    "hashtag_name": "harrypottertiktok",
-    "country_info": {
-      "id": "US",
-      "value": "United States",
-      "label": "US"
-    },
-    "industry_info": {
-      "id": 23000000000,
-      "value": "News & Entertainment",
-      "label": "label_23000000000"
-    },
-    "is_promoted": false,
-    "trend": {
-      "0": {
-        "time": 1774051200,
-        "value": 0.49
-      },
-      "1": {
-        "time": 1774137600,
-        "value": 0.45
-      },
-      "2": {
-        "time": 1774224000,
-        "value": 0.48
-      },
-      "3": {
-        "time": 1774310400,
-        "value": 0.47
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.53
-      },
-      "5": {
-        "time": 1774483200,
-        "value": 0.77
-      },
-      "6": {
-        "time": 1774569600,
-        "value": 1
-      }
-    },
-    "creators": {
-      "0": {
-        "nick_name": "attrezzomx",
-        "avatar_url": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/5ed5c36a345aea2dfdef0869b3e3cbeb~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=7bb5bcb1&x-expires=1774893600&x-signature=DYDzM54tOsjcJoaAWhv7OcHx9N0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my"
-      },
-      "1": {
-        "nick_name": "likeedit23",
-        "avatar_url": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e4f8400d8a1d69c3ebd202142680fa4a~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=704b800a&x-expires=1774893600&x-signature=8DVwNrZd6INPhTbqggs9ZaaJe78%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my"
-      },
-      "2": {
-        "nick_name": "hpvorx \u26af\u035b",
-        "avatar_url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/747bd7b1fcba57a52acc29b1cbc88968~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=74c38857&x-expires=1774893600&x-signature=osxZXzHKzA07kdGKR30bG9Fx%2FiQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my"
-      }
-    },
-    "publish_cnt": 2363,
-    "video_views": 20015643,
-    "rank": 25,
-    "rank_diff_type": 4
-  },
-  {
-    "hashtag_id": "1688558316713990",
-    "hashtag_name": "calmglow",
-    "country_info": {
-      "id": "US",
-      "value": "United States",
-      "label": "US"
-    },
-    "is_promoted": false,
-    "trend": {
-      "0": {
-        "time": 1774051200,
-        "value": 0.53
-      },
-      "1": {
-        "time": 1774137600,
-        "value": 0.26
-      },
-      "2": {
-        "time": 1774224000,
-        "value": 0.28
-      },
-      "3": {
-        "time": 1774310400,
-        "value": 0.3
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.55
-      },
-      "5": {
-        "time": 1774483200,
-        "value": 0.78
-      },
-      "6": {
-        "time": 1774569600,
-        "value": 1
-      }
-    },
-    "publish_cnt": 2717,
-    "video_views": 15955725,
-    "rank": 26,
-    "rank_diff": 30,
-    "rank_diff_type": 1
-  },
-  {
-    "hashtag_id": "48515760",
-    "hashtag_name": "youngeryou",
-    "country_info": {
-      "id": "US",
-      "value": "United States",
-      "label": "US"
-    },
-    "is_promoted": false,
-    "trend": {
-      "0": {
-        "time": 1774051200,
-        "value": 0.02
-      },
-      "1": {
-        "time": 1774137600,
-        "value": 0.02
-      },
-      "2": {
-        "time": 1774224000,
-        "value": 0.02
-      },
-      "3": {
-        "time": 1774310400,
-        "value": 0.03
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.19
-      },
-      "5": {
-        "time": 1774483200,
-        "value": 0.85
-      },
-      "6": {
-        "time": 1774569600,
-        "value": 1
-      }
-    },
-    "publish_cnt": 1715,
-    "video_views": 2135839,
-    "rank": 27,
-    "rank_diff": 28,
-    "rank_diff_type": 1
-  },
-  {
-    "hashtag_id": "82824593",
-    "hashtag_name": "\u0445\u043e\u043a\u043a\u0435\u0439",
-    "country_info": {
-      "id": "US",
-      "value": "United States",
-      "label": "US"
-    },
-    "industry_info": {
-      "id": 28000000000,
-      "value": "Sports & Outdoor",
-      "label": "label_28000000000"
-    },
-    "is_promoted": false,
-    "trend": {
-      "0": {
-        "time": 1774051200,
-        "value": 0.4
-      },
-      "1": {
-        "time": 1774137600,
-        "value": 0.6
-      },
-      "2": {
-        "time": 1774224000,
-        "value": 0.66
-      },
-      "3": {
-        "time": 1774310400,
-        "value": 0.69
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.73
-      },
-      "5": {
-        "time": 1774483200,
-        "value": 0.77
-      },
-      "6": {
-        "time": 1774569600,
-        "value": 1
-      }
-    },
-    "publish_cnt": 2616,
-    "video_views": 18677019,
-    "rank": 28,
-    "rank_diff": 33,
-    "rank_diff_type": 1
-  },
-  {
-    "hashtag_id": "3246",
-    "hashtag_name": "jimmyfallon",
-    "country_info": {
-      "id": "US",
-      "value": "United States",
-      "label": "US"
-    },
-    "industry_info": {
-      "id": 23000000000,
-      "value": "News & Entertainment",
-      "label": "label_23000000000"
-    },
-    "is_promoted": false,
-    "trend": {
-      "0": {
-        "time": 1774051200,
-        "value": 0.37
-      },
-      "1": {
-        "time": 1774137600,
+        "time": 1776470400,
         "value": 0.41
       },
-      "2": {
-        "time": 1774224000,
-        "value": 0.32
-      },
-      "3": {
-        "time": 1774310400,
-        "value": 0.4
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.37
-      },
       "5": {
-        "time": 1774483200,
-        "value": 0.59
+        "time": 1776556800,
+        "value": 0.49
       },
       "6": {
-        "time": 1774569600,
-        "value": 1
+        "time": 1776643200,
+        "value": 0.95
       }
     },
-    "creators": {
-      "0": {
-        "nick_name": "sofia",
-        "avatar_url": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/17cebe86f638481e05635221ffaea27b~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=614cf5b2&x-expires=1774893600&x-signature=%2F616gkFsDmc2W1ky8L5VdoVQ0XQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my"
-      }
-    },
-    "publish_cnt": 1119,
-    "video_views": 48882307,
-    "rank": 29,
+    "publish_cnt": 12831,
+    "video_views": 131095330,
+    "rank": 7,
     "rank_diff_type": 4
   },
   {
-    "hashtag_id": "236216",
-    "hashtag_name": "beyondwonderland",
+    "hashtag_id": "600",
+    "hashtag_name": "brunomars",
     "country_info": {
       "id": "US",
       "value": "United States",
@@ -1489,43 +370,105 @@
     "is_promoted": false,
     "trend": {
       "0": {
-        "time": 1774051200,
-        "value": 0.61
-      },
-      "1": {
-        "time": 1774137600,
-        "value": 0.55
-      },
-      "2": {
-        "time": 1774224000,
-        "value": 0.55
-      },
-      "3": {
-        "time": 1774310400,
-        "value": 0.69
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.88
-      },
-      "5": {
-        "time": 1774483200,
+        "time": 1776124800,
         "value": 0.93
       },
-      "6": {
-        "time": 1774569600,
+      "1": {
+        "time": 1776211200,
+        "value": 0.75
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.71
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.97
+      },
+      "4": {
+        "time": 1776470400,
         "value": 1
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.76
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.75
       }
     },
-    "publish_cnt": 2965,
-    "video_views": 14411534,
-    "rank": 30,
-    "rank_diff": 17,
-    "rank_diff_type": 1
+    "creators": {
+      "0": {
+        "nick_name": "BrandonBryler",
+        "avatar_url": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9b4ec705223725b469de961490e014fb~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=0461ba23&x-expires=1776909600&x-signature=vDoT5yNoXilns6UoX5WxKiR%2BgT8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my"
+      },
+      "1": {
+        "nick_name": "music.stts",
+        "avatar_url": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/f13ce4f0e7e53c492a5a79e756c183f0~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=81b0b982&x-expires=1776909600&x-signature=JMUJfmZV4pPYee1Yz4zb5yhHaV0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my"
+      },
+      "2": {
+        "nick_name": "Alej C\u00e1zares",
+        "avatar_url": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/0ed532031aa2b7d676fc89925629ee1d~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=0d516a00&x-expires=1776909600&x-signature=Hga89mgOCHXDDjEJGf9KZ54QO2I%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my"
+      }
+    },
+    "publish_cnt": 28274,
+    "video_views": 196251002,
+    "rank": 8,
+    "rank_diff_type": 4
   },
   {
-    "hashtag_id": "143216",
-    "hashtag_name": "mets",
+    "hashtag_id": "1696063036271622",
+    "hashtag_name": "promtransition",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 22000000000,
+      "value": "Apparel & Accessories",
+      "label": "label_22000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 1
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.47
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.29
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.21
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.18
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.33
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.84
+      }
+    },
+    "publish_cnt": 7885,
+    "video_views": 64290778,
+    "rank": 9,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "25322",
+    "hashtag_name": "nbaplayoffs",
     "country_info": {
       "id": "US",
       "value": "United States",
@@ -1539,191 +482,197 @@
     "is_promoted": false,
     "trend": {
       "0": {
-        "time": 1774051200,
-        "value": 0.26
+        "time": 1776124800,
+        "value": 0.28
       },
       "1": {
-        "time": 1774137600,
-        "value": 0.31
+        "time": 1776211200,
+        "value": 0.54
       },
       "2": {
-        "time": 1774224000,
-        "value": 0.31
+        "time": 1776297600,
+        "value": 0.58
       },
       "3": {
-        "time": 1774310400,
-        "value": 0.33
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.38
-      },
-      "5": {
-        "time": 1774483200,
-        "value": 0.43
-      },
-      "6": {
-        "time": 1774569600,
-        "value": 1
-      }
-    },
-    "publish_cnt": 1548,
-    "video_views": 7740540,
-    "rank": 31,
-    "rank_diff_type": 4
-  },
-  {
-    "hashtag_id": "5307803",
-    "hashtag_name": "fruitstory",
-    "country_info": {
-      "id": "US",
-      "value": "United States",
-      "label": "US"
-    },
-    "industry_info": {
-      "id": 25000000000,
-      "value": "Games",
-      "label": "label_25000000000"
-    },
-    "is_promoted": false,
-    "trend": {
-      "0": {
-        "time": 1774051200,
-        "value": 0.73
-      },
-      "1": {
-        "time": 1774137600,
-        "value": 0.81
-      },
-      "2": {
-        "time": 1774224000,
-        "value": 0.87
-      },
-      "3": {
-        "time": 1774310400,
-        "value": 0.9
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.86
-      },
-      "5": {
-        "time": 1774483200,
-        "value": 0.95
-      },
-      "6": {
-        "time": 1774569600,
-        "value": 1
-      }
-    },
-    "publish_cnt": 4017,
-    "video_views": 70092213,
-    "rank": 32,
-    "rank_diff": 14,
-    "rank_diff_type": 1
-  },
-  {
-    "hashtag_id": "7183960763961180162",
-    "hashtag_name": "newssctv",
-    "country_info": {
-      "id": "US",
-      "value": "United States",
-      "label": "US"
-    },
-    "industry_info": {
-      "id": 23000000000,
-      "value": "News & Entertainment",
-      "label": "label_23000000000"
-    },
-    "is_promoted": false,
-    "trend": {
-      "0": {
-        "time": 1774051200,
-        "value": 0.02
-      },
-      "1": {
-        "time": 1774137600,
-        "value": 0.02
-      },
-      "2": {
-        "time": 1774224000,
-        "value": 0.02
-      },
-      "3": {
-        "time": 1774310400,
-        "value": 0.02
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.42
-      },
-      "5": {
-        "time": 1774483200,
-        "value": 0.6
-      },
-      "6": {
-        "time": 1774569600,
-        "value": 1
-      }
-    },
-    "publish_cnt": 2264,
-    "video_views": 3864922,
-    "rank": 33,
-    "rank_diff": 53,
-    "rank_diff_type": 1
-  },
-  {
-    "hashtag_id": "7999968",
-    "hashtag_name": "abcnews",
-    "country_info": {
-      "id": "US",
-      "value": "United States",
-      "label": "US"
-    },
-    "industry_info": {
-      "id": 23000000000,
-      "value": "News & Entertainment",
-      "label": "label_23000000000"
-    },
-    "is_promoted": false,
-    "trend": {
-      "0": {
-        "time": 1774051200,
-        "value": 0.68
-      },
-      "1": {
-        "time": 1774137600,
-        "value": 0.7
-      },
-      "2": {
-        "time": 1774224000,
-        "value": 0.63
-      },
-      "3": {
-        "time": 1774310400,
+        "time": 1776384000,
         "value": 0.76
       },
       "4": {
-        "time": 1774396800,
-        "value": 0.91
+        "time": 1776470400,
+        "value": 0.79
       },
       "5": {
-        "time": 1774483200,
-        "value": 0.82
+        "time": 1776556800,
+        "value": 0.67
       },
       "6": {
-        "time": 1774569600,
+        "time": 1776643200,
         "value": 1
       }
     },
-    "publish_cnt": 2784,
-    "video_views": 41760375,
-    "rank": 34,
+    "creators": {
+      "0": {
+        "nick_name": "Ari \ud83d\udd2e",
+        "avatar_url": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/7dbdc97b4c658848d0694772a5156077~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=d2df9f04&x-expires=1776909600&x-signature=jQD0vTaFE5Kl1x6Svtugqd%2FWG%2BI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my"
+      }
+    },
+    "publish_cnt": 11557,
+    "video_views": 84775067,
+    "rank": 10,
+    "rank_diff": 5,
+    "rank_diff_type": 3
+  },
+  {
+    "hashtag_id": "15617",
+    "hashtag_name": "arbys",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 27000000000,
+      "value": "Food & Beverage",
+      "label": "label_27000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.48
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.61
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.71
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.78
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.89
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.97
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 8147,
+    "video_views": 163819002,
+    "rank": 11,
+    "rank_diff": 5,
+    "rank_diff_type": 3
+  },
+  {
+    "hashtag_id": "12776413",
+    "hashtag_name": "prom26",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 22000000000,
+      "value": "Apparel & Accessories",
+      "label": "label_22000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 1
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.55
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.34
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.24
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.21
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.3
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.82
+      }
+    },
+    "publish_cnt": 7375,
+    "video_views": 24348411,
+    "rank": 12,
     "rank_diff_type": 4
   },
   {
-    "hashtag_id": "1665201353748497",
-    "hashtag_name": "houseofchallenge",
+    "hashtag_id": "280963",
+    "hashtag_name": "seniorprom",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 22000000000,
+      "value": "Apparel & Accessories",
+      "label": "label_22000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 1
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.54
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.33
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.24
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.2
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.33
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.9
+      }
+    },
+    "publish_cnt": 7125,
+    "video_views": 29876132,
+    "rank": 13,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "29969",
+    "hashtag_name": "hallelujah",
     "country_info": {
       "id": "US",
       "value": "United States",
@@ -1732,249 +681,125 @@
     "is_promoted": false,
     "trend": {
       "0": {
-        "time": 1774051200,
-        "value": 0.15
+        "time": 1776124800,
+        "value": 0.26
       },
       "1": {
-        "time": 1774137600,
+        "time": 1776211200,
         "value": 0.23
       },
       "2": {
-        "time": 1774224000,
-        "value": 0.42
+        "time": 1776297600,
+        "value": 0.5
       },
       "3": {
-        "time": 1774310400,
-        "value": 0.57
+        "time": 1776384000,
+        "value": 0.74
       },
       "4": {
-        "time": 1774396800,
-        "value": 0.64
+        "time": 1776470400,
+        "value": 0.83
       },
       "5": {
-        "time": 1774483200,
-        "value": 0.91
+        "time": 1776556800,
+        "value": 0.99
       },
       "6": {
-        "time": 1774569600,
+        "time": 1776643200,
         "value": 1
       }
     },
-    "publish_cnt": 2949,
-    "video_views": 14696476,
-    "rank": 35,
-    "rank_diff": 18,
-    "rank_diff_type": 1
-  },
-  {
-    "hashtag_id": "1660133563036674",
-    "hashtag_name": "liputan6sctv",
-    "country_info": {
-      "id": "US",
-      "value": "United States",
-      "label": "US"
-    },
-    "industry_info": {
-      "id": 23000000000,
-      "value": "News & Entertainment",
-      "label": "label_23000000000"
-    },
-    "is_promoted": false,
-    "trend": {
-      "0": {
-        "time": 1774051200,
-        "value": 0.02
-      },
-      "1": {
-        "time": 1774137600,
-        "value": 0.02
-      },
-      "2": {
-        "time": 1774224000,
-        "value": 0.02
-      },
-      "3": {
-        "time": 1774310400,
-        "value": 0.02
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.42
-      },
-      "5": {
-        "time": 1774483200,
-        "value": 0.53
-      },
-      "6": {
-        "time": 1774569600,
-        "value": 1
-      }
-    },
-    "publish_cnt": 2145,
-    "video_views": 3709107,
-    "rank": 36,
+    "publish_cnt": 8492,
+    "video_views": 12549860,
+    "rank": 14,
     "rank_diff_type": 4
   },
   {
-    "hashtag_id": "134688",
-    "hashtag_name": "hbo",
+    "hashtag_id": "50615",
+    "hashtag_name": "onelesslonelygirl",
     "country_info": {
       "id": "US",
       "value": "United States",
       "label": "US"
     },
-    "industry_info": {
-      "id": 23000000000,
-      "value": "News & Entertainment",
-      "label": "label_23000000000"
-    },
     "is_promoted": false,
     "trend": {
       "0": {
-        "time": 1774051200,
-        "value": 0.51
+        "time": 1776124800,
+        "value": 1
       },
       "1": {
-        "time": 1774137600,
-        "value": 0.48
+        "time": 1776211200,
+        "value": 0.72
       },
       "2": {
-        "time": 1774224000,
-        "value": 0.45
+        "time": 1776297600,
+        "value": 0.61
       },
       "3": {
-        "time": 1774310400,
-        "value": 0.48
+        "time": 1776384000,
+        "value": 0.46
       },
       "4": {
-        "time": 1774396800,
-        "value": 0.55
+        "time": 1776470400,
+        "value": 0.47
       },
       "5": {
-        "time": 1774483200,
-        "value": 0.82
+        "time": 1776556800,
+        "value": 0.4
       },
       "6": {
-        "time": 1774569600,
-        "value": 1
+        "time": 1776643200,
+        "value": 0.4
       }
     },
-    "creators": {
-      "0": {
-        "nick_name": "J\u00falio Paulucci",
-        "avatar_url": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/77beb7d7b747339aabed2213b3a9b48b~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=d56639f0&x-expires=1774893600&x-signature=nToP63%2F%2F1xTPl4r0r3nu7X71sKM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my"
-      },
-      "1": {
-        "nick_name": "Giovanna Dabramo",
-        "avatar_url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/f28674f532dcbcd56f2accbb24837949~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=101a19eb&x-expires=1774893600&x-signature=1IrFHPE%2FbJkboIbA88GmkAXhi8w%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my"
-      },
-      "2": {
-        "nick_name": "\ud835\udc03\ud835\udc00\ud835\udc11",
-        "avatar_url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/791133de4c0e397f2339f29a20b810ab~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=fb59cf6d&x-expires=1774893600&x-signature=KWjrsD0DJXPFhYFZOo6CEx%2Fy5DE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my"
-      }
-    },
-    "publish_cnt": 1443,
-    "video_views": 36171718,
-    "rank": 37,
-    "rank_diff": 22,
-    "rank_diff_type": 1
-  },
-  {
-    "hashtag_id": "86292487",
-    "hashtag_name": "\u044d\u043b\u043e",
-    "country_info": {
-      "id": "US",
-      "value": "United States",
-      "label": "US"
-    },
-    "industry_info": {
-      "id": 25000000000,
-      "value": "Games",
-      "label": "label_25000000000"
-    },
-    "is_promoted": false,
-    "trend": {
-      "0": {
-        "time": 1774051200,
-        "value": 0.1
-      },
-      "1": {
-        "time": 1774137600,
-        "value": 0.22
-      },
-      "2": {
-        "time": 1774224000,
-        "value": 0.31
-      },
-      "3": {
-        "time": 1774310400,
-        "value": 0.35
-      },
-      "4": {
-        "time": 1774396800,
-        "value": 0.54
-      },
-      "5": {
-        "time": 1774483200,
-        "value": 0.56
-      },
-      "6": {
-        "time": 1774569600,
-        "value": 1
-      }
-    },
-    "publish_cnt": 1365,
-    "video_views": 4435641,
-    "rank": 38,
+    "publish_cnt": 844,
+    "video_views": 6916888,
+    "rank": 15,
     "rank_diff_type": 4
   },
   {
-    "hashtag_id": "30636049",
-    "hashtag_name": "eutanasia",
+    "hashtag_id": "12099705",
+    "hashtag_name": "prom2k26",
     "country_info": {
       "id": "US",
       "value": "United States",
       "label": "US"
     },
-    "industry_info": {
-      "id": 19000000000,
-      "value": "Pets",
-      "label": "label_19000000000"
-    },
     "is_promoted": false,
     "trend": {
       "0": {
-        "time": 1774051200,
-        "value": 0.02
+        "time": 1776124800,
+        "value": 1
       },
       "1": {
-        "time": 1774137600,
-        "value": 0.02
+        "time": 1776211200,
+        "value": 0.6
       },
       "2": {
-        "time": 1774224000,
-        "value": 0.02
+        "time": 1776297600,
+        "value": 0.38
       },
       "3": {
-        "time": 1774310400,
-        "value": 0.03
+        "time": 1776384000,
+        "value": 0.3
       },
       "4": {
-        "time": 1774396800,
-        "value": 0.02
+        "time": 1776470400,
+        "value": 0.25
       },
       "5": {
-        "time": 1774483200,
-        "value": 0.18
+        "time": 1776556800,
+        "value": 0.33
       },
       "6": {
-        "time": 1774569600,
-        "value": 1
+        "time": 1776643200,
+        "value": 0.92
       }
     },
-    "publish_cnt": 347,
-    "video_views": 16718011,
-    "rank": 39,
+    "publish_cnt": 4422,
+    "video_views": 17936822,
+    "rank": 16,
     "rank_diff_type": 4
   },
   {
@@ -1993,37 +818,4202 @@
     "is_promoted": false,
     "trend": {
       "0": {
-        "time": 1774051200,
-        "value": 0.06
+        "time": 1776124800,
+        "value": 0.28
       },
       "1": {
-        "time": 1774137600,
-        "value": 0.06
+        "time": 1776211200,
+        "value": 0.31
       },
       "2": {
-        "time": 1774224000,
-        "value": 0.06
+        "time": 1776297600,
+        "value": 0.36
       },
       "3": {
-        "time": 1774310400,
-        "value": 0.07
+        "time": 1776384000,
+        "value": 0.47
       },
       "4": {
-        "time": 1774396800,
-        "value": 0.11
+        "time": 1776470400,
+        "value": 0.76
       },
       "5": {
-        "time": 1774483200,
-        "value": 0.61
+        "time": 1776556800,
+        "value": 0.94
       },
       "6": {
-        "time": 1774569600,
+        "time": 1776643200,
         "value": 1
       }
     },
-    "publish_cnt": 767,
-    "video_views": 6486606,
+    "publish_cnt": 5442,
+    "video_views": 64735927,
+    "rank": 17,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "7050655642473725957",
+    "hashtag_name": "wrestlemania42",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 28000000000,
+      "value": "Sports & Outdoor",
+      "label": "label_28000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.19
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.25
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.28
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.26
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.34
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.54
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 3823,
+    "video_views": 11207082,
+    "rank": 18,
+    "rank_diff": 2,
+    "rank_diff_type": 3
+  },
+  {
+    "hashtag_id": "18308",
+    "hashtag_name": "playoffs",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 28000000000,
+      "value": "Sports & Outdoor",
+      "label": "label_28000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.32
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.48
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.58
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.74
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.76
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.66
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "creators": {
+      "0": {
+        "nick_name": "pucks",
+        "avatar_url": "https://p19-common-sign.tiktokcdn.com/tos-alisg-avt-0068/085cbbd4552fb4ba0439d8af8a3aa387~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=b9cd545b&x-expires=1776909600&x-signature=r%2BZjUAJRedcwiARfmW9j9UMrXEA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my"
+      }
+    },
+    "publish_cnt": 6599,
+    "video_views": 46617389,
+    "rank": 19,
+    "rank_diff": 9,
+    "rank_diff_type": 3
+  },
+  {
+    "hashtag_id": "20377",
+    "hashtag_name": "arsenal",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 28000000000,
+      "value": "Sports & Outdoor",
+      "label": "label_28000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 1
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.84
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.67
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.88
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.83
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.65
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.76
+      }
+    },
+    "creators": {
+      "0": {
+        "nick_name": "KaungKinMoe(official)\ud83c\uddf0\ud83c\uddf7#\ud83c\uddf2\ud83c\uddf2",
+        "avatar_url": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/1733f992f2f2519d9e4980431358f98c~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=78da151f&x-expires=1776909600&x-signature=92D2nCM%2FHkaPvvlRJCatwVXo0aQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my"
+      },
+      "1": {
+        "nick_name": "Box2Box Show",
+        "avatar_url": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1fd35cfb4fa4380484304ca9ced2cf21~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=cd25819c&x-expires=1776909600&x-signature=q35xdY2ZAZHzMevttp33LgabKPI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my"
+      },
+      "2": {
+        "nick_name": "Wallace Oliveira",
+        "avatar_url": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/8c20b96563edcda26e1b203ffc716d37~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=4d97aad6&x-expires=1776909600&x-signature=QkHrpXL3OtcU%2Bp1txwgsHQtbIiM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my"
+      }
+    },
+    "publish_cnt": 3887,
+    "video_views": 39221505,
+    "rank": 20,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "4858049",
+    "hashtag_name": "premierleague",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 28000000000,
+      "value": "Sports & Outdoor",
+      "label": "label_28000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 1
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.9
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.7
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.59
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.53
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.61
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.85
+      }
+    },
+    "creators": {
+      "0": {
+        "nick_name": "FutWorld - Vitinho",
+        "avatar_url": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/dcdb14b4282121c2b7560fe7064e639d~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=12f55635&x-expires=1776909600&x-signature=qY0szKoLFtZopUtwkEZhNziFprQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
+      },
+      "1": {
+        "nick_name": "Box2Box Show",
+        "avatar_url": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1fd35cfb4fa4380484304ca9ced2cf21~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=cd25819c&x-expires=1776909600&x-signature=q35xdY2ZAZHzMevttp33LgabKPI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
+      },
+      "2": {
+        "nick_name": "Wallace Oliveira",
+        "avatar_url": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/8c20b96563edcda26e1b203ffc716d37~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=4d97aad6&x-expires=1776909600&x-signature=QkHrpXL3OtcU%2Bp1txwgsHQtbIiM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
+      }
+    },
+    "publish_cnt": 5389,
+    "video_views": 68118450,
+    "rank": 21,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "1602175601292454",
+    "hashtag_name": "sidemencharitymatch",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 28000000000,
+      "value": "Sports & Outdoor",
+      "label": "label_28000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.06
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.06
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.07
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.12
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.15
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.29
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 1840,
+    "video_views": 92055770,
+    "rank": 22,
+    "rank_diff": 10,
+    "rank_diff_type": 3
+  },
+  {
+    "hashtag_id": "11012837",
+    "hashtag_name": "addisonrae",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 1
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.62
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.51
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.46
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.47
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.42
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.47
+      }
+    },
+    "creators": {
+      "0": {
+        "nick_name": "Barbara \u2728",
+        "avatar_url": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/9e65d8036ffddfcf661c0c6c4c8a35db~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=966ca3a0&x-expires=1776909600&x-signature=YSJfq6cm4e%2Fob7szIanlgNuT26E%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
+      }
+    },
+    "publish_cnt": 3044,
+    "video_views": 80130913,
+    "rank": 23,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "3480942",
+    "hashtag_name": "zuko",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 25000000000,
+      "value": "Games",
+      "label": "label_25000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.23
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.31
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.64
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.95
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.99
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 1
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.98
+      }
+    },
+    "creators": {
+      "0": {
+        "nick_name": "tarkovsky.filmz",
+        "avatar_url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/9e86f3f268791172d6f3c72c51cb60cb~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=95f4dfab&x-expires=1776909600&x-signature=FTEXzmn78z5lysaeZf5FZ%2FgjJNM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
+      }
+    },
+    "publish_cnt": 3887,
+    "video_views": 155426892,
+    "rank": 24,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "6006",
+    "hashtag_name": "happysunday",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 1
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.36
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.06
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.04
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.02
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.02
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.05
+      }
+    },
+    "publish_cnt": 3091,
+    "video_views": 3573344,
+    "rank": 25,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "313248",
+    "hashtag_name": "codyrhodes",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 28000000000,
+      "value": "Sports & Outdoor",
+      "label": "label_28000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.49
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.45
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.44
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.58
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.67
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.71
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 2171,
+    "video_views": 19546812,
+    "rank": 26,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "64212748",
+    "hashtag_name": "coachellaweekend2",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 23000000000,
+      "value": "News & Entertainment",
+      "label": "label_23000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.27
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.36
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.44
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.54
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.64
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.78
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 3727,
+    "video_views": 25246704,
+    "rank": 27,
+    "rank_diff": 10,
+    "rank_diff_type": 3
+  },
+  {
+    "hashtag_id": "1890023",
+    "hashtag_name": "mancity",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 28000000000,
+      "value": "Sports & Outdoor",
+      "label": "label_28000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 1
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.8
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.49
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.37
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.42
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.44
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.56
+      }
+    },
+    "creators": {
+      "0": {
+        "nick_name": "Matem John Stones",
+        "avatar_url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/d95400f0fdc6cf4e7f88a7500b4389a2~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=b0c86924&x-expires=1776909600&x-signature=IIIn0a%2BrAs4aveAg6NM%2BiWW46lY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
+      },
+      "1": {
+        "nick_name": "CityNesia2013",
+        "avatar_url": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/7cedcfd0053049fde2f23ed2a7c0c4a2~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=e82b7ff9&x-expires=1776909600&x-signature=ReQudhclcEOKZeOeD9EiEvEFYXU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
+      }
+    },
+    "publish_cnt": 1617,
+    "video_views": 28258875,
+    "rank": 28,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "8088823",
+    "hashtag_name": "weekend2",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 23000000000,
+      "value": "News & Entertainment",
+      "label": "label_23000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.18
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.22
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.32
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.41
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.54
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.8
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 2209,
+    "video_views": 12569998,
+    "rank": 29,
+    "rank_diff": 8,
+    "rank_diff_type": 3
+  },
+  {
+    "hashtag_id": "226617",
+    "hashtag_name": "knicks",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 28000000000,
+      "value": "Sports & Outdoor",
+      "label": "label_28000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.48
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.72
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.59
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.54
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.52
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.65
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 2371,
+    "video_views": 16916376,
+    "rank": 30,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "1359934",
+    "hashtag_name": "kingnasir",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.46
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.41
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.51
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.67
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.74
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.96
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 2923,
+    "video_views": 56302910,
+    "rank": 31,
+    "rank_diff": 13,
+    "rank_diff_type": 3
+  },
+  {
+    "hashtag_id": "54608",
+    "hashtag_name": "randyorton",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 28000000000,
+      "value": "Sports & Outdoor",
+      "label": "label_28000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.53
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.49
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.45
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.64
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.65
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.61
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 1361,
+    "video_views": 11102934,
+    "rank": 32,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "2185089",
+    "hashtag_name": "fgteev",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.79
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.68
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.65
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.66
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.63
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.72
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 2044,
+    "video_views": 35851719,
+    "rank": 33,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "38570609",
+    "hashtag_name": "ttpd",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 23000000000,
+      "value": "News & Entertainment",
+      "label": "label_23000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.85
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.9
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.99
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 1
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.96
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.94
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.9
+      }
+    },
+    "creators": {
+      "0": {
+        "nick_name": "taweni\ud83d\udc8c\ud83e\udd0d\ud83c\udfa7",
+        "avatar_url": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/4bd3778d604b09388d39b474eb486b59~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=55755d89&x-expires=1776909600&x-signature=2FrLZeHLpR5zMwAvxVfquPZ8cL0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
+      },
+      "1": {
+        "nick_name": "Ni",
+        "avatar_url": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/968265767638cf07dbc5257d63d760a9~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=f5a3d9d5&x-expires=1776909600&x-signature=AyBkbcUmsDmswwtRj4MmoH0Z1Jo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
+      },
+      "2": {
+        "nick_name": "Liz Romero",
+        "avatar_url": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/38fef99c1bb405b5931380cce6ec2b91~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=e0934b5a&x-expires=1776909600&x-signature=V0a26TNIk3TNQ9LzCaNPKU9WDbE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
+      }
+    },
+    "publish_cnt": 596,
+    "video_views": 5243559,
+    "rank": 34,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "11192747",
+    "hashtag_name": "tuscaloosa",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.53
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.42
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.39
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.4
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.4
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.43
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 1288,
+    "video_views": 3777258,
+    "rank": 35,
+    "rank_diff": 18,
+    "rank_diff_type": 1
+  },
+  {
+    "hashtag_id": "5526",
+    "hashtag_name": "paige",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.22
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.16
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.22
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.18
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.2
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.53
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 979,
+    "video_views": 5321775,
+    "rank": 36,
+    "rank_diff": 6,
+    "rank_diff_type": 1
+  },
+  {
+    "hashtag_id": "5358838",
+    "hashtag_name": "livmorgan",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 28000000000,
+      "value": "Sports & Outdoor",
+      "label": "label_28000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.51
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.62
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 1
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.7
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.68
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.94
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.93
+      }
+    },
+    "publish_cnt": 2267,
+    "video_views": 14155534,
+    "rank": 37,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "26173",
+    "hashtag_name": "saturdaynight",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 1
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.36
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.26
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.19
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.15
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.18
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.41
+      }
+    },
+    "publish_cnt": 2234,
+    "video_views": 3807658,
+    "rank": 38,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "11277258",
+    "hashtag_name": "bostonmarathon",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 28000000000,
+      "value": "Sports & Outdoor",
+      "label": "label_28000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.3
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.36
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.34
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.42
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.53
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.75
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 1972,
+    "video_views": 6494190,
+    "rank": 39,
+    "rank_diff": 6,
+    "rank_diff_type": 3
+  },
+  {
+    "hashtag_id": "10605202",
+    "hashtag_name": "gradbash",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.08
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.11
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.09
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.12
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.18
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.6
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 1259,
+    "video_views": 3276464,
     "rank": 40,
+    "rank_diff": 12,
+    "rank_diff_type": 3
+  },
+  {
+    "hashtag_id": "232214",
+    "hashtag_name": "hounddog",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 19000000000,
+      "value": "Pets",
+      "label": "label_19000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.51
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.67
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.89
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.96
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.98
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.99
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 2896,
+    "video_views": 69964262,
+    "rank": 41,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "9192",
+    "hashtag_name": "justin",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 23000000000,
+      "value": "News & Entertainment",
+      "label": "label_23000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 1
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.8
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.8
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.77
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.82
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.77
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.79
+      }
+    },
+    "creators": {
+      "0": {
+        "nick_name": "allforjah",
+        "avatar_url": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/03cd431b2329e6198e7c01938cf4987e~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=ecaa26ae&x-expires=1776909600&x-signature=HlkymIzCXEWCr%2Fgb%2BsmxAGGMwk0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
+      },
+      "1": {
+        "nick_name": "v edits",
+        "avatar_url": "https://p19-common-sign.tiktokcdn.com/tos-alisg-avt-0068/8ae08c77161935c8d3393395910746b2~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=7da2f309&x-expires=1776909600&x-signature=WOuwg3dQj%2B4%2B7O5p85saOMBshAw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
+      },
+      "2": {
+        "nick_name": "TEUKIENICKIE",
+        "avatar_url": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/a3351185f3ba603061b507cc421b57db~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=311538d5&x-expires=1776909600&x-signature=hXw6JfF8WJszxmaUPkykt7Qa3LY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
+      }
+    },
+    "publish_cnt": 5728,
+    "video_views": 39635131,
+    "rank": 42,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "147767",
+    "hashtag_name": "mii",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 25000000000,
+      "value": "Games",
+      "label": "label_25000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.41
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.39
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.41
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.52
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.76
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.89
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 1963,
+    "video_views": 25218513,
+    "rank": 43,
+    "rank_diff": 17,
+    "rank_diff_type": 3
+  },
+  {
+    "hashtag_id": "166248",
+    "hashtag_name": "celtics",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 28000000000,
+      "value": "Sports & Outdoor",
+      "label": "label_28000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.75
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 1
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.76
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.65
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.83
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.77
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.88
+      }
+    },
+    "creators": {
+      "0": {
+        "nick_name": "swazecanball",
+        "avatar_url": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/aa7c0bf5a1ec080a0b8348fa838dea45~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=3449dd3b&x-expires=1776909600&x-signature=TJOaMXr2yjEghUR0wokXEDqub4A%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
+      }
+    },
+    "publish_cnt": 1843,
+    "video_views": 17577396,
+    "rank": 44,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "31171229",
+    "hashtag_name": "ardaguler",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 28000000000,
+      "value": "Sports & Outdoor",
+      "label": "label_28000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.08
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.12
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.14
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.9
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.91
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.69
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "creators": {
+      "0": {
+        "nick_name": "sel",
+        "avatar_url": "https://p19-common-sign.tiktokcdn.com/tos-alisg-avt-0068/212cfcb21a5c53d5c305d5e79cf9ccf9~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=1cf5a219&x-expires=1776909600&x-signature=o%2BK0izm%2BlVm9c6yQRkkZCJ7EjuI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
+      },
+      "1": {
+        "nick_name": "IHSAN \ud835\udd8b\ud835\udd99 \ud835\udc04\ud835\udc05",
+        "avatar_url": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/9ab34c3efaa0f3c039c04bdb9aeed8db~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=5dbd5173&x-expires=1776909600&x-signature=4koEXd3tB%2FHTY2Bz9gWQhOwxfII%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
+      }
+    },
+    "publish_cnt": 2333,
+    "video_views": 18745397,
+    "rank": 45,
+    "rank_diff": 18,
+    "rank_diff_type": 3
+  },
+  {
+    "hashtag_id": "1665012574404614",
+    "hashtag_name": "sportsontiktok",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.26
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.24
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.29
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.28
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.36
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.33
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "creators": {
+      "0": {
+        "nick_name": "\u0639\u0645\u0631 \u0627\u0644\u062f\u0648\u0644\u064a | Omar Al Dawly",
+        "avatar_url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/c53df939874e8bbba2681d4f949c4518~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=da824553&x-expires=1776909600&x-signature=QS6pauoNcp5P24j%2BDldy35GNorU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
+      },
+      "1": {
+        "nick_name": "Tito",
+        "avatar_url": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/fb853af40175853c13fa458318f1992a~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=fd95f0d3&x-expires=1776909600&x-signature=F6HyHHLNfs%2B%2BL%2FJqWmq6s3NRCYA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
+      },
+      "2": {
+        "nick_name": "YamrollTechavichitra",
+        "avatar_url": "https://p19-common-sign.tiktokcdn.com/tos-alisg-avt-0068/a79ed6d132542bb9564c536f54970110~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=637725f8&x-expires=1776909600&x-signature=c%2BNdIau1iGjJ5IfJkVxpRmf0dpY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
+      }
+    },
+    "publish_cnt": 1485,
+    "video_views": 38927621,
+    "rank": 46,
+    "rank_diff": 21,
+    "rank_diff_type": 3
+  },
+  {
+    "hashtag_id": "1174",
+    "hashtag_name": "bigsean",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 23000000000,
+      "value": "News & Entertainment",
+      "label": "label_23000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.57
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.77
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.63
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.61
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.69
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.59
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 214,
+    "video_views": 3913367,
+    "rank": 47,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "1035373",
+    "hashtag_name": "brocklesnar",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 28000000000,
+      "value": "Sports & Outdoor",
+      "label": "label_28000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.48
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.6
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 1
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.7
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.62
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.67
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.73
+      }
+    },
+    "publish_cnt": 903,
+    "video_views": 7988218,
+    "rank": 48,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "1650933",
+    "hashtag_name": "yera",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 23000000000,
+      "value": "News & Entertainment",
+      "label": "label_23000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.77
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.71
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.73
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.75
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.72
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.81
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 838,
+    "video_views": 51259485,
+    "rank": 49,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "13837371",
+    "hashtag_name": "bookcon",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.19
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.25
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.32
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.41
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.43
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.59
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 1552,
+    "video_views": 2257563,
+    "rank": 50,
+    "rank_diff": 2,
+    "rank_diff_type": 1
+  },
+  {
+    "hashtag_id": "35641",
+    "hashtag_name": "blackdress",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 22000000000,
+      "value": "Apparel & Accessories",
+      "label": "label_22000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 1
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.63
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.58
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.5
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.5
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.59
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.97
+      }
+    },
+    "creators": {
+      "0": {
+        "nick_name": "Danz\u2661",
+        "avatar_url": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/1ff6ea0955ea6aa499a3150f547b27a5~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=74de5269&x-expires=1776909600&x-signature=pynYSjG2ae7EqWJ1LI%2FBSfxo82k%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
+      }
+    },
+    "publish_cnt": 2444,
+    "video_views": 12409518,
+    "rank": 51,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "5824",
+    "hashtag_name": "jay",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 23000000000,
+      "value": "News & Entertainment",
+      "label": "label_23000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 1
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.98
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.86
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.84
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.87
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.91
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.91
+      }
+    },
+    "creators": {
+      "0": {
+        "nick_name": "aus.jake\ud83c\udf44",
+        "avatar_url": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/42850ca931baaa2a187db82c41cb4ea9~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=1ffe8bff&x-expires=1776909600&x-signature=nHmMmE79BsQZtI3cT1EdGZIgZ9Y%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
+      },
+      "1": {
+        "nick_name": "ezekiel",
+        "avatar_url": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/5d6d20a32b6dd37eb9f340452ff72004~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=7230757f&x-expires=1776909600&x-signature=mUcAvrIzzGBEfw69BswyAIc6Cow%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
+      },
+      "2": {
+        "nick_name": "\ub0b4\uc77c\uc740 \ubcc0\ud558\ub8e8 HARU",
+        "avatar_url": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/c4a885f8cabd87d9a4edc1d7d2ea9b2f~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=856d7ca3&x-expires=1776909600&x-signature=gVi0Ie%2FjvWUyYdx5MO9p7nat0TQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my2"
+      }
+    },
+    "publish_cnt": 1565,
+    "video_views": 13260180,
+    "rank": 52,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "603204",
+    "hashtag_name": "bengals",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 28000000000,
+      "value": "Sports & Outdoor",
+      "label": "label_28000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.81
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.77
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.84
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.8
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.85
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.91
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 777,
+    "video_views": 2888654,
+    "rank": 53,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "14528",
+    "hashtag_name": "babybrother",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 12000000000,
+      "value": "Baby, Kids & Maternity",
+      "label": "label_12000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.58
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.56
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.58
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.58
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.57
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.7
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 1592,
+    "video_views": 5786007,
+    "rank": 54,
+    "rank_diff": 8,
+    "rank_diff_type": 3
+  },
+  {
+    "hashtag_id": "1646335529111557",
+    "hashtag_name": "dexterlawrence",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 28000000000,
+      "value": "Sports & Outdoor",
+      "label": "label_28000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.42
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.64
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.49
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.88
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 1
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.91
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.54
+      }
+    },
+    "publish_cnt": 116,
+    "video_views": 856018,
+    "rank": 55,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "7444233308143091743",
+    "hashtag_name": "chuzzington",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 23000000000,
+      "value": "News & Entertainment",
+      "label": "label_23000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.6
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.57
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.49
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.62
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.87
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.67
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 1061,
+    "video_views": 51442131,
+    "rank": 56,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "1653998240280581",
+    "hashtag_name": "obafemi",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 28000000000,
+      "value": "Sports & Outdoor",
+      "label": "label_28000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.33
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.38
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 1
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.69
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.56
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.62
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.61
+      }
+    },
+    "publish_cnt": 1160,
+    "video_views": 8034242,
+    "rank": 57,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "56409",
+    "hashtag_name": "reddress",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 22000000000,
+      "value": "Apparel & Accessories",
+      "label": "label_22000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 1
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.62
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.53
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.47
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.45
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.53
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.93
+      }
+    },
+    "publish_cnt": 1864,
+    "video_views": 11542735,
+    "rank": 58,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "226360",
+    "hashtag_name": "juniorprom",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 22000000000,
+      "value": "Apparel & Accessories",
+      "label": "label_22000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.98
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.49
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.3
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.23
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.21
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.33
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 1505,
+    "video_views": 4073279,
+    "rank": 59,
+    "rank_diff": 7,
+    "rank_diff_type": 1
+  },
+  {
+    "hashtag_id": "246129",
+    "hashtag_name": "sundaydinner",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 27000000000,
+      "value": "Food & Beverage",
+      "label": "label_27000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 1
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.97
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.29
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.19
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.15
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.14
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.15
+      }
+    },
+    "publish_cnt": 1343,
+    "video_views": 7538445,
+    "rank": 60,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "3165798",
+    "hashtag_name": "pibble",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 19000000000,
+      "value": "Pets",
+      "label": "label_19000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.84
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.92
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.87
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.84
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.85
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.92
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 1867,
+    "video_views": 27102091,
+    "rank": 61,
+    "rank_diff": 21,
+    "rank_diff_type": 3
+  },
+  {
+    "hashtag_id": "5440",
+    "hashtag_name": "from",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.73
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.7
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.77
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.79
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.73
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.75
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 1211,
+    "video_views": 5815936,
+    "rank": 62,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "14654612",
+    "hashtag_name": "arlingtontx",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 23000000000,
+      "value": "News & Entertainment",
+      "label": "label_23000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.75
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.79
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.8
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.72
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.87
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.91
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 1625,
+    "video_views": 8873456,
+    "rank": 63,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "7526402234075054135",
+    "hashtag_name": "gradbash2k26",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.05
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.04
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.05
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.07
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.08
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.5
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 694,
+    "video_views": 1091367,
+    "rank": 64,
+    "rank_diff": 1,
+    "rank_diff_type": 1
+  },
+  {
+    "hashtag_id": "36355",
+    "hashtag_name": "promnight",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 22000000000,
+      "value": "Apparel & Accessories",
+      "label": "label_22000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 1
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.52
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.4
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.31
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.27
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.42
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.81
+      }
+    },
+    "publish_cnt": 1270,
+    "video_views": 5259553,
+    "rank": 65,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "10707590",
+    "hashtag_name": "nhlplayoffs",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 28000000000,
+      "value": "Sports & Outdoor",
+      "label": "label_28000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.35
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.37
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.71
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.55
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.6
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.77
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "creators": {
+      "0": {
+        "nick_name": "pucks",
+        "avatar_url": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/085cbbd4552fb4ba0439d8af8a3aa387~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=a898c0d9&x-expires=1776909600&x-signature=C13QNFThWfErccg7%2F0Ftlgh0Gpk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my"
+      }
+    },
+    "publish_cnt": 1640,
+    "video_views": 7774859,
+    "rank": 66,
+    "rank_diff": 16,
+    "rank_diff_type": 3
+  },
+  {
+    "hashtag_id": "1626902194291781",
+    "hashtag_name": "panchiko",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 23000000000,
+      "value": "News & Entertainment",
+      "label": "label_23000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.29
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.26
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.28
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.24
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.28
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.54
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 1117,
+    "video_views": 5856326,
+    "rank": 67,
+    "rank_diff": 28,
+    "rank_diff_type": 3
+  },
+  {
+    "hashtag_id": "549092",
+    "hashtag_name": "notredame",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 28000000000,
+      "value": "Sports & Outdoor",
+      "label": "label_28000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.45
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.48
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.52
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.45
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.49
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.52
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 755,
+    "video_views": 6846816,
+    "rank": 68,
+    "rank_diff": 16,
+    "rank_diff_type": 1
+  },
+  {
+    "hashtag_id": "49717",
+    "hashtag_name": "sethrollins",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 28000000000,
+      "value": "Sports & Outdoor",
+      "label": "label_28000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.52
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.59
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 1
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.62
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.58
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.74
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.92
+      }
+    },
+    "publish_cnt": 867,
+    "video_views": 5204627,
+    "rank": 69,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "4651030",
+    "hashtag_name": "tomadachilife",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 25000000000,
+      "value": "Games",
+      "label": "label_25000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.26
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.24
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.33
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.41
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.68
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.83
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 1118,
+    "video_views": 5636437,
+    "rank": 70,
+    "rank_diff": 7,
+    "rank_diff_type": 3
+  },
+  {
+    "hashtag_id": "1641353549870085",
+    "hashtag_name": "intermiami",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 28000000000,
+      "value": "Sports & Outdoor",
+      "label": "label_28000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 1
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.78
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.76
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.62
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.51
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.6
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.94
+      }
+    },
+    "creators": {
+      "0": {
+        "nick_name": "Hra.rt\ud808\ude6d",
+        "avatar_url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/1eb093c2bfb38d68448e974f9b46e35c~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=72dfc79d&x-expires=1776909600&x-signature=HmO2kBNY9off4L7VywvRN3UjQig%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my"
+      }
+    },
+    "publish_cnt": 856,
+    "video_views": 18112734,
+    "rank": 71,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "4411348",
+    "hashtag_name": "manchestercity",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 28000000000,
+      "value": "Sports & Outdoor",
+      "label": "label_28000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 1
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.81
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.42
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.43
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.44
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.46
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.54
+      }
+    },
+    "creators": {
+      "0": {
+        "nick_name": "CityNesia2013",
+        "avatar_url": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/7cedcfd0053049fde2f23ed2a7c0c4a2~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=e82b7ff9&x-expires=1776909600&x-signature=ReQudhclcEOKZeOeD9EiEvEFYXU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my"
+      },
+      "1": {
+        "nick_name": "\u0633\u0647\u064a\u0644",
+        "avatar_url": "https://p19-common-sign.tiktokcdn.com/tos-alisg-avt-0068/ddaf1b3aa5089d5690dc3397cbeb3c32~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=42d30b6b&x-expires=1776909600&x-signature=a%2BERuEgMROeX6BSAuSg6DQ%2F0RAg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my"
+      },
+      "2": {
+        "nick_name": "ODAY",
+        "avatar_url": "https://p16-common-sign.tiktokcdn.com/musically-maliva-obj/1594805258216454~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=e2d36d1c&x-expires=1776909600&x-signature=m8OxN3JAvxfPzeSf39g4nfEX2bg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my"
+      }
+    },
+    "publish_cnt": 672,
+    "video_views": 9351971,
+    "rank": 72,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "1648432490874886",
+    "hashtag_name": "milanocortina2026",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 28000000000,
+      "value": "Sports & Outdoor",
+      "label": "label_28000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.37
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.29
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.32
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.44
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.92
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 1
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.88
+      }
+    },
+    "publish_cnt": 926,
+    "video_views": 10915635,
+    "rank": 73,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "1634043831547910",
+    "hashtag_name": "tomodachigame",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 25000000000,
+      "value": "Games",
+      "label": "label_25000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.34
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.37
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.39
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.47
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.87
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.9
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 1098,
+    "video_views": 14026141,
+    "rank": 74,
+    "rank_diff": 4,
+    "rank_diff_type": 3
+  },
+  {
+    "hashtag_id": "1597750549633029",
+    "hashtag_name": "co26",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.9
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.71
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.73
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.74
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.7
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.86
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 1764,
+    "video_views": 7386634,
+    "rank": 75,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "495098",
+    "hashtag_name": "sherrihill",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 22000000000,
+      "value": "Apparel & Accessories",
+      "label": "label_22000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 1
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.62
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.41
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.34
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.26
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.45
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 1104,
+    "video_views": 14095026,
+    "rank": 76,
+    "rank_diff": 5,
+    "rank_diff_type": 3
+  },
+  {
+    "hashtag_id": "7234521756533751809",
+    "hashtag_name": "shortdramareview",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 23000000000,
+      "value": "News & Entertainment",
+      "label": "label_23000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.59
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.72
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.84
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.83
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.9
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 1
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.99
+      }
+    },
+    "publish_cnt": 4960,
+    "video_views": 10868212,
+    "rank": 77,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "183596",
+    "hashtag_name": "rockets",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 28000000000,
+      "value": "Sports & Outdoor",
+      "label": "label_28000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.55
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.9
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.75
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.6
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.52
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.7
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 943,
+    "video_views": 15714313,
+    "rank": 78,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "124740",
+    "hashtag_name": "jonpardi",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 1
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.71
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.59
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.51
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.46
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.53
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.96
+      }
+    },
+    "publish_cnt": 931,
+    "video_views": 5157825,
+    "rank": 79,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "9753000",
+    "hashtag_name": "mazaclan",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 23000000000,
+      "value": "News & Entertainment",
+      "label": "label_23000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.11
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.48
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.42
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.54
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.88
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.62
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 1280,
+    "video_views": 20548473,
+    "rank": 80,
+    "rank_diff": 33,
+    "rank_diff_type": 3
+  },
+  {
+    "hashtag_id": "701533",
+    "hashtag_name": "sokka",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 25000000000,
+      "value": "Games",
+      "label": "label_25000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.24
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.29
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.62
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 1
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.98
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.97
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.99
+      }
+    },
+    "publish_cnt": 701,
+    "video_views": 40980187,
+    "rank": 81,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "7340721646707965957",
+    "hashtag_name": "prom2026\ud83c\udf93",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 10000000000,
+      "value": "Education",
+      "label": "label_10000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 1
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.57
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.36
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.32
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.22
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.32
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.8
+      }
+    },
+    "publish_cnt": 1196,
+    "video_views": 6228787,
+    "rank": 82,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "183522",
+    "hashtag_name": "nicksaban",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 28000000000,
+      "value": "Sports & Outdoor",
+      "label": "label_28000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.96
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.77
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.96
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.93
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.84
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 1
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.8
+      }
+    },
+    "publish_cnt": 67,
+    "video_views": 1596907,
+    "rank": 83,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "49101225",
+    "hashtag_name": "blacknoir",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 23000000000,
+      "value": "News & Entertainment",
+      "label": "label_23000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.59
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.63
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.61
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.73
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.88
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 1
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.93
+      }
+    },
+    "publish_cnt": 1028,
+    "video_views": 34161918,
+    "rank": 84,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "29764446",
+    "hashtag_name": "rundisney",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 28000000000,
+      "value": "Sports & Outdoor",
+      "label": "label_28000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.29
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.3
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.34
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.35
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.47
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.81
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 1571,
+    "video_views": 3239511,
+    "rank": 85,
+    "rank_diff": 29,
+    "rank_diff_type": 3
+  },
+  {
+    "hashtag_id": "19220",
+    "hashtag_name": "babysister",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 12000000000,
+      "value": "Baby, Kids & Maternity",
+      "label": "label_12000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.55
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.49
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.49
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.45
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.53
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.65
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 981,
+    "video_views": 2609169,
+    "rank": 86,
+    "rank_diff": 9,
+    "rank_diff_type": 3
+  },
+  {
+    "hashtag_id": "7323232563277856814",
+    "hashtag_name": "tylercatastrophe",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.47
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.58
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.8
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.92
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.97
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 1
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.91
+      }
+    },
+    "publish_cnt": 919,
+    "video_views": 60851076,
+    "rank": 87,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "176760",
+    "hashtag_name": "thunderoverlouisville",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.08
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.13
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.15
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.17
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.28
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.49
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 229,
+    "video_views": 513014,
+    "rank": 88,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "13913",
+    "hashtag_name": "bluedress",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 22000000000,
+      "value": "Apparel & Accessories",
+      "label": "label_22000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 1
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.54
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.36
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.32
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.31
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.48
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.97
+      }
+    },
+    "publish_cnt": 1187,
+    "video_views": 5203811,
+    "rank": 89,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "204770",
+    "hashtag_name": "bendy",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 25000000000,
+      "value": "Games",
+      "label": "label_25000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.65
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.49
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.56
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.51
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.51
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.56
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 707,
+    "video_views": 5116061,
+    "rank": 90,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "1600678154685445",
+    "hashtag_name": "biancabelair",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 28000000000,
+      "value": "Sports & Outdoor",
+      "label": "label_28000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 1
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.76
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.89
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.84
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.82
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.92
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.96
+      }
+    },
+    "publish_cnt": 115,
+    "video_views": 1168518,
+    "rank": 91,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "7331939580075065390",
+    "hashtag_name": "thetorturedpoetsdepartment",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.89
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.84
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.99
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 1
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.98
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.86
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.92
+      }
+    },
+    "creators": {
+      "0": {
+        "nick_name": "Liz Romero",
+        "avatar_url": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/38fef99c1bb405b5931380cce6ec2b91~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=e0934b5a&x-expires=1776909600&x-signature=V0a26TNIk3TNQ9LzCaNPKU9WDbE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my3"
+      },
+      "1": {
+        "nick_name": "teacherpauloliberato",
+        "avatar_url": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/1a72275efe06711719c8c422255352e1~tplv-tiktokx-cropcenter:100:100.png?dr=14579&refresh_token=cd98221d&x-expires=1776909600&x-signature=GTsgLRgAXQo%2Bkkv%2Fk1jozk8XXjg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=317596d8&idc=my3"
+      }
+    },
+    "publish_cnt": 180,
+    "video_views": 1808940,
+    "rank": 92,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "68950786",
+    "hashtag_name": "zukoedit",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 25000000000,
+      "value": "Games",
+      "label": "label_25000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.13
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.17
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.38
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.79
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.94
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.98
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 844,
+    "video_views": 25925259,
+    "rank": 93,
+    "rank_diff": 34,
+    "rank_diff_type": 3
+  },
+  {
+    "hashtag_id": "7546530356246085687",
+    "hashtag_name": "everythinghallelujah",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.11
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.16
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.49
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.84
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.99
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.96
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 1273,
+    "video_views": 2769076,
+    "rank": 94,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "44938564",
+    "hashtag_name": "\u0432\u043f\u0440",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.3
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.35
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.81
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 1
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.86
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.77
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.71
+      }
+    },
+    "publish_cnt": 664,
+    "video_views": 10584964,
+    "rank": 95,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "1057843",
+    "hashtag_name": "daisies",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.77
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.64
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.88
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.96
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 1
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.96
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.79
+      }
+    },
+    "publish_cnt": 1116,
+    "video_views": 18318793,
+    "rank": 96,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "99458",
+    "hashtag_name": "teamusa",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 28000000000,
+      "value": "Sports & Outdoor",
+      "label": "label_28000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.7
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.74
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.59
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.7
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.89
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 1
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.85
+      }
+    },
+    "publish_cnt": 928,
+    "video_views": 8273392,
+    "rank": 97,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "1683205267804166",
+    "hashtag_name": "chriseanrock",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 23000000000,
+      "value": "News & Entertainment",
+      "label": "label_23000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.69
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.95
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.74
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.67
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.67
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.64
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 741,
+    "video_views": 23269075,
+    "rank": 98,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "1597213386710022",
+    "hashtag_name": "lukecombsconcert",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 23000000000,
+      "value": "News & Entertainment",
+      "label": "label_23000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 1
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.72
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.53
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.41
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.45
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.4
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 0.89
+      }
+    },
+    "publish_cnt": 1002,
+    "video_views": 2917540,
+    "rank": 99,
+    "rank_diff_type": 4
+  },
+  {
+    "hashtag_id": "77065",
+    "hashtag_name": "ajlee",
+    "country_info": {
+      "id": "US",
+      "value": "United States",
+      "label": "US"
+    },
+    "industry_info": {
+      "id": 28000000000,
+      "value": "Sports & Outdoor",
+      "label": "label_28000000000"
+    },
+    "is_promoted": false,
+    "trend": {
+      "0": {
+        "time": 1776124800,
+        "value": 0.4
+      },
+      "1": {
+        "time": 1776211200,
+        "value": 0.37
+      },
+      "2": {
+        "time": 1776297600,
+        "value": 0.43
+      },
+      "3": {
+        "time": 1776384000,
+        "value": 0.46
+      },
+      "4": {
+        "time": 1776470400,
+        "value": 0.52
+      },
+      "5": {
+        "time": 1776556800,
+        "value": 0.62
+      },
+      "6": {
+        "time": 1776643200,
+        "value": 1
+      }
+    },
+    "publish_cnt": 593,
+    "video_views": 3539090,
+    "rank": 100,
     "rank_diff_type": 4
   }
 ]
