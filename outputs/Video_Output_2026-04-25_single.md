@@ -80,6 +80,11 @@ Keep your eye on the boring stuff.
 *   **Base Image:** Generate this image in a 9:16 format: We return to a miniature diorama of the chaotic Wall Street from Clip 1. A confident executive figure stands calmly amidst the panic, holding an open briefcase. Frantic investor figures are throwing their "CRM" certificates on the ground. In the background, standing on the steps of a nearby building, is the miniature figure created from the provided reference image of Peter, watching the entire scene unfold.
 *   **Motion Prompt:** Generate a video in a 9:16 format using the attached base image: A slow-motion shot where the executive calmly kneels down, picks up a handful of the discarded "CRM" certificates, and places them neatly into the briefcase. The camera pushes in on the executive's face, which has a small, confident smile. Then, a sharp rack focus to the deep background: the executive becomes entirely blurred out as the camera focuses tightly on the completely different miniature figure standing on the steps behind him. This observer on the steps gives a subtle, knowing nod directly to the camera.
 
+**Clip 5 — The $25 Billion Buyback**
+*   **Characters:** "Peter" (the observer).
+*   **Base Image:** Generate this image in a 9:16 format: A miniature diorama of a massive, powerful machine stylized like a high-tech corporate bank vault. The machine is creating a vortex, powerfully sucking in a blizzard of glowing "CRM" stock certificates from the air. In the immediate foreground, standing safely out of the vortex's path, a miniature figure created using the provided reference image of Peter watches the machine operate with a calm, analytical expression.
+*   **Motion Prompt:** Generate a video in a 9:16 format using the attached base image: The camera starts with a tight focus on the figure in the foreground, capturing his calm expression as the wind from the massive machine rustles his clothes. The camera then smoothly racks focus to the vault machine in the deep background, blurring the foreground figure while showing the machine powerfully vacuuming up a continuous stream of glowing "CRM" stock certificates.
+
 ---
 
 ### **Step 4: The Caption**
