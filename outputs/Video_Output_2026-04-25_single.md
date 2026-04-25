@@ -63,7 +63,7 @@ Keep your eye on the boring stuff.
 **Clip 1 — The Panic on Wall Street**
 *   **Characters:** "The Market" (a crowd of panicky investors), "Peter" (the observer).
 *   **Base Image:** Generate this image in a 9:16 format: A miniature diorama of a stock exchange floor in utter chaos. Tiny handcrafted figures of investors are screaming and throwing papers. In the background, a large screen shows a plunging red stock chart for "CRM." From a high-angle overlook built into the diorama, a separate miniature figure, created using the provided reference image of Peter, watches the chaos below with a calm, analytical expression.
-*   **Motion Prompt:** Generate a video in a 9:16 format using the attached base image: The scene opens with a tight focus on the figure watching from the high-angle overlook, capturing his calm, analytical expression. The camera then slowly racks focus to the chaotic stock exchange floor below, blurring the figure slightly while bringing the panicking investors and plunging stock chart into sharp focus.
+*   **Motion Prompt:** Generate a video in a 9:16 format using the attached base image: The scene opens with a tight focus on the figure watching from the high-angle overlook, capturing his calm, analytical expression. The camera then slowly racks focus to the chaotic stock exchange floor below, blurring the figure slightly while bringing the panicking investors and plunging stock chart into sharp focus. CRITICAL: Strictly maintain the exact appearance, facial features, and clothing of the figure from the base image throughout the video. Do not introduce a different character.
 
 **Clip 2 — The Quiet Pivot**
 *   **Characters:** Salesforce engineers.
@@ -83,7 +83,7 @@ Keep your eye on the boring stuff.
 **Clip 5 — The $25 Billion Buyback**
 *   **Characters:** "Peter" (the observer).
 *   **Base Image:** Generate this image in a 9:16 format: A miniature diorama of a massive, powerful machine stylized like a high-tech corporate bank vault. The machine is creating a vortex, powerfully sucking in a blizzard of glowing "CRM" stock certificates from the air. In the immediate foreground, standing safely out of the vortex's path, a miniature figure created using the provided reference image of Peter watches the machine operate with a calm, analytical expression.
-*   **Motion Prompt:** Generate a video in a 9:16 format using the attached base image: The camera starts with a tight focus on the figure in the foreground, capturing his calm expression as the wind from the massive machine rustles his clothes. The camera then smoothly racks focus to the vault machine in the deep background, blurring the foreground figure while showing the machine powerfully vacuuming up a continuous stream of glowing "CRM" stock certificates.
+*   **Motion Prompt:** Generate a video in a 9:16 format using the attached base image: The camera starts with a tight focus on the miniature figure in the foreground, capturing his calm expression as the wind from the massive machine rustles his clothes. The camera then smoothly racks focus to the vault machine in the deep background, blurring the foreground figure while showing the machine powerfully vacuuming up a continuous stream of glowing "CRM" stock certificates. CRITICAL: Strictly maintain the handcrafted physical miniature diorama aesthetic and the exact appearance of the miniature figure from the base image throughout the video. Do not introduce realistic humans or different characters.
 
 ---
 
