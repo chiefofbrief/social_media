@@ -78,7 +78,7 @@ Keep your eye on the boring stuff.
 **Clip 4 — The Bet**
 *   **Characters:** The Salesforce executive vs. "The Market," with "Peter" observing.
 *   **Base Image:** Generate this image in a 9:16 format: We return to a miniature diorama of the chaotic Wall Street from Clip 1. A confident executive figure stands calmly amidst the panic, holding an open briefcase. Frantic investor figures are throwing their "CRM" certificates on the ground. In the background, standing on the steps of a nearby building, is the miniature figure created from the provided reference image of Peter, watching the entire scene unfold.
-*   **Motion Prompt:** Generate a video in a 9:16 format using the attached base image: A slow-motion shot where the executive calmly kneels down, picks up a handful of the discarded "CRM" certificates, and places them neatly into the briefcase. The camera then pushes in on the executive's face, which has a small, confident smile. The final shot cuts to the figure watching from the steps, who gives a subtle, knowing nod directly to the camera.
+*   **Motion Prompt:** Generate a video in a 9:16 format using the attached base image: A slow-motion shot where the executive calmly kneels down, picks up a handful of the discarded "CRM" certificates, and places them neatly into the briefcase. The camera pushes in on the executive's face, which has a small, confident smile. Then, a sharp rack focus to the deep background: the executive becomes entirely blurred out as the camera focuses tightly on the completely different miniature figure standing on the steps behind him. This observer on the steps gives a subtle, knowing nod directly to the camera.
 
 ---
 
