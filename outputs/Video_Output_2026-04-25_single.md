@@ -63,7 +63,7 @@ Keep your eye on the boring stuff.
 **Clip 1 — The Panic on Wall Street**
 *   **Characters:** "The Market" (a crowd of panicky investors), "Peter" (the observer).
 *   **Base Image:** Generate this image in a 9:16 format: A miniature diorama of a stock exchange floor in utter chaos. Tiny handcrafted figures of investors are screaming and throwing papers. In the background, a large screen shows a plunging red stock chart for "CRM." From a high-angle overlook built into the diorama, a separate miniature figure, created using the provided reference image of Peter, watches the chaos below with a calm, analytical expression.
-*   **Motion Prompt:** Generate a video in a 9:16 format using the attached base image: The scene opens with a dramatic, shaky push-in on the panicking crowd on the floor. The camera then whip-pans to a close-up of a single "CRM" stock certificate being trampled. Finally, the camera smoothly zooms out and tilts up to settle on the figure watching from the high-angle overlook, capturing his calm, knowing expression.
+*   **Motion Prompt:** Generate a video in a 9:16 format using the attached base image: The scene opens with a tight focus on the figure watching from the high-angle overlook, capturing his calm, analytical expression. The camera then slowly racks focus to the chaotic stock exchange floor below, blurring the figure slightly while bringing the panicking investors and plunging stock chart into sharp focus.
 
 **Clip 2 — The Quiet Pivot**
 *   **Characters:** Salesforce engineers.
