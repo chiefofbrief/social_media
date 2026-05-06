@@ -57,51 +57,63 @@ Keep your eye on the boring stuff.
 
 ## Step 3: The Visuals
 
-**Veo3 Clips**
-
-Clip 1 — Setup — The Bodies on the Floor
-- **Base Image:** Generate this image in a 9:16 format: A small-scale handcrafted physical miniature diorama of a ruined corporate district at dusk. Two tiny crumbling office buildings dominate the center of the scene, their facades chipped and cracked, miniature craft textures clearly visible. A physical red wire runs across the background in the shape of a violently plummeting stock chart. Scattered across the tabletop floor are tiny miniature figures of panicking investors in suits, frozen mid-stumble. In the foreground right, standing calmly with his arms at his sides, is a miniature figure created from the provided reference image of Peter — his gaze directed left toward the collapsing buildings, his expression calm and analytical against the chaos.
-- **Motion Prompt:** Generate a video in a 9:16 format using the attached base image: The camera opens with a tight focus on the miniature Peter figure in the foreground right, holding on his calm expression for two seconds. Then the camera slowly pulls back and pans left, revealing the full scale of the collapsing miniature district behind him — the crumbling buildings, the plummeting red wire chart, the scattered investor figures. CRITICAL: Strictly maintain the exact appearance, facial features, and clothing of the Peter figure from the base image throughout the video. Do not introduce a different character.
-
-Clip 2 — Twist — The Spectrum
-- **Base Image:** Generate this image in a 9:16 format: A small-scale handcrafted physical miniature diorama split down the center by a visible chalk line drawn on the tabletop floor. On the left side of the line: a pile of crumbling miniature cardboard boxes and toppled single-story buildings, rubble scattered everywhere, dim gray lighting. On the right side: a solid, thick-walled miniature fortress with deep integrations suggested by tiny glowing cables running between floors, warm golden lighting, intact and imposing. In the midground center, standing directly on the chalk line, is a miniature figure created from the provided reference image of Peter — his gaze sweeping from the left side to the right side, as if drawing the comparison.
-- **Motion Prompt:** Generate a video in a 9:16 format using the attached base image: The camera starts in a slow pan from left to right, moving across the crumbling pile on the left side of the chalk line, pausing briefly on the miniature Peter figure standing at the center, then continuing right to reveal the solid, glowing fortress. As the camera lands on the fortress, a subtle warm pulse of light emanates from its windows. CRITICAL: Strictly maintain the exact appearance, facial features, and clothing of the Peter figure from the base image throughout the video. Do not introduce a different character.
-
-Clip 3 — Payoff — The Backbone
-- **Base Image:** Generate this image in a 9:16 format: A small-scale handcrafted physical miniature diorama of a massive, fortified enterprise building at the center — thick walls, multiple glowing floors visible through tiny windows, tiny cables connecting it to surrounding smaller structures. Streaming toward the building from all directions are dozens of tiny glowing figures representing AI agents — miniature robots no taller than a fingernail, each emitting a soft blue light, moving in orderly lines toward the building's entrance. The building is visibly activating — more windows lighting up, the whole structure humming with energy. In the foreground left, standing safely outside the flow of agents, is a miniature figure created from the provided reference image of Peter — his gaze directed right toward the fortress, a composed and knowing expression on his face.
-- **Motion Prompt:** Generate a video in a 9:16 format using the attached base image: The camera holds a static wide shot for one second, then begins a slow, dramatic push-in toward the fortress. As the camera moves forward, the tiny glowing AI agent figures continue streaming into the building and more windows light up floor by floor from bottom to top. The camera then rack focuses sharply from the glowing fortress to the miniature Peter figure in the foreground left, landing on his calm, knowing expression looking directly at the building. CRITICAL: Strictly maintain the exact appearance, facial features, and clothing of the Peter figure from the base image throughout the video. Do not introduce a different character.
-
-Clip 4 — Closing — The Boring Stuff
-- **Base Image:** Generate this image in a 9:16 format: A small-scale handcrafted physical miniature diorama of a massive, unremarkable gray enterprise headquarters building — no signage, no flash, just a solid, imposing structure with glowing windows and dozens of tiny cables running in and out of its base. Surrounding it, dozens of tiny miniature figures in suits walk right past it without looking up, entirely indifferent. In the foreground center, a miniature figure created from the provided reference image of Peter stands still, holding a tiny magnifying glass up toward the building, studying it intently while everyone else walks by. Visible miniature craft textures throughout. Neutral, flat lighting.
-- **Motion Prompt:** Generate a video in a 9:16 format using the attached base image: The camera opens on the stream of tiny figures walking past the building without noticing it. Then it slowly pushes in toward the miniature Peter figure in the foreground, tightening on him and the magnifying glass raised toward the building. The crowd of figures continues moving in the blurred background. The camera holds on Peter's focused, deliberate expression as the scene fades. CRITICAL: Strictly maintain the exact appearance, facial features, and clothing of the Peter figure from the base image throughout the video. Do not introduce a different character.
+**STEP 3 VISUAL QUESTIONS:**
+* **Peter Check:** Peter appears in all 4 clips, placed in the midground/background (under 20% height), observing the action with specific emotional reactions (exasperation, knowing realization, studying intently).
+* **Other Characters Check:** Every clip includes named character types (panicking traders, an impatient executive, welcoming executives, a rushing crowd).
+* **Scene Energy Check:** Action is driven by the other characters and scale mismatch (traders panicking, robots streaming in).
+* **Arc Check:** The 4 clips cover the entire Setup -> Twist -> Payoff arc, ending on the overarching theme.
+* **First Frame Check:** Clip 1 opens on a stock exchange floor, immediately signaling finance/news.
+* **Miniature Aesthetic:** Visuals rely on physical diorama elements (chalk lines, miniature wires, cardboard boxes).
+* **Motion Safety Check:** No camera pushes toward Peter. No crumbling physical structures.
+* **Static Image Check:** 6 statics, grouped by scene, using props like chalkboards and scoreboards to visualize data.
 
 ---
 
-**Static Images**
+**Veo3 Clips**
 
-Static 1 — Chegg's Collapse
-- **Headline/Evidence Search:** `Chegg stock price chart 2021 2026 99 percent decline AI`
-- **AI Image:** Generate this image in a 9:16 format: A small-scale handcrafted physical miniature diorama of a once-grand corporate headquarters building, now crumbling. The roof has caved in. Tiny investor figures in suits are walking away from the building with their heads down. A physical red wire in the shape of a stock chart drops off the edge of the tabletop entirely. Visible miniature craft textures throughout. Cold gray overhead lighting.
+Clip 1 — Scene 1 — The Bodies on the Floor
+- **Base Image:** Generate this image in a 9:16 format: A small-scale handcrafted physical miniature diorama of a chaotic stock exchange trading floor. In the center, panicking trader figures in suits throw miniature papers in the air beneath a massive physical red arrow plunging sharply downward across a trading board. In the right midground, standing on a small elevated observation balcony, is the miniature Peter figure created from the provided reference image. He leans against the tiny railing with his head resting in one hand, looking down at the chaos with a slow, exasperated expression. Visible miniature craft textures throughout.
+- **Motion Prompt:** Generate a video in a 9:16 format using the attached base image: The camera starts wide on the chaotic trading floor and begins a slow crane movement down toward the panicking trader figures. The traders wave their arms and throw papers in the air. The camera holds on the frantic movement. The physical red arrow and the structure do not move. CRITICAL: Strictly maintain the exact appearance, facial features, and clothing of the Peter figure from the base image. Do not introduce a different character. Do not push or pan the camera toward Peter.
 
-Static 2 — Stack Overflow's Numbers
-- **Headline/Evidence Search:** `Stack Overflow monthly questions decline 2022 2025 chart statistics`
-- **AI Image:** Generate this image in a 9:16 format: A small-scale handcrafted physical miniature diorama of an empty forum hall. Rows of tiny miniature chairs face a raised platform, but all but a handful of the seats are empty. A large handcrafted bar chart on the wall behind the platform shows a dramatic step-down from a towering bar on the left to a tiny sliver of a bar on the right. Dim, abandoned lighting. Visible miniature craft textures throughout.
+Clip 2 — Scene 2 — The Spectrum
+- **Base Image:** Generate this image in a 9:16 format: A small-scale handcrafted physical miniature diorama of a corporate office split down the middle by a chalk line. On the left, an impatient executive figure kicks aside flimsy cardboard boxes labeled "Chatbot". On the right, a solid, glowing miniature enterprise server fortress stands intact, with executives carefully tending to thick, glowing physical cables. Seated on a small wooden crate in the far left background, the miniature Peter figure sits with one leg crossed over the other, holding a tiny notebook. His eyebrows are raised in a knowing expression as he watches the contrast. Visible miniature craft textures throughout.
+- **Motion Prompt:** Generate a video in a 9:16 format using the attached base image: The camera begins a slow, deliberate pan from left to right, moving from the impatient executive tossing boxes on the left side of the chalk line, over to the glowing enterprise fortress and the executives tending the cables on the right. The executives move methodically. The fortress structure does not change. CRITICAL: Strictly maintain the exact appearance, facial features, and clothing of the Peter figure from the base image. Do not introduce a different character. Do not push or pan the camera toward Peter.
 
-Static 3 — Salesforce Agentforce Momentum
-- **Headline/Evidence Search:** `Salesforce Agentforce 6000 customers quarter 2025 2026 ARR`
-- **AI Image:** Generate this image in a 9:16 format: A small-scale handcrafted physical miniature diorama of a thriving enterprise headquarters. The building is fully lit, cables connecting it to dozens of surrounding miniature structures. A handcrafted scoreboard on the side of the building reads "6,000 NEW" in large physical lettering. Tiny celebratory figures stand at the entrance. Warm, confident lighting. Visible miniature craft textures throughout.
+Clip 3 — Scene 3 — The Backbone
+- **Base Image:** Generate this image in a 9:16 format: A small-scale handcrafted physical miniature diorama of a thriving enterprise fortress at night. Confident executive figures stand at the wide open gates, welcoming dozens of tiny, glowing blue AI agent robots streaming inside. The fortress pulses with warm light. On a raised concrete step in the right midground, the miniature Peter figure stands leaning slightly forward, hands in his pockets, a slight smile of realization on his face as he watches the agents enter the fortress. Visible miniature craft textures throughout.
+- **Motion Prompt:** Generate a video in a 9:16 format using the attached base image: The camera holds a wide static shot of the fortress. The glowing blue AI agent robots continuously stream through the open gates, and the executive figures wave them inside. The fortress windows pulse with warm light. The camera does not move. CRITICAL: Strictly maintain the exact appearance, facial features, and clothing of the Peter figure from the base image. Do not introduce a different character. Do not push or pan the camera toward Peter.
 
-Static 4 — The Three Questions
-- **Headline/Evidence Search:** `SaaS switching costs enterprise software replacement cost analysis`
-- **AI Image:** Generate this image in a 9:16 format: A small-scale handcrafted physical miniature diorama of a classroom with three questions written on a tiny chalkboard: "Can it be vibe-coded?", "Are there switching costs?", "Is it priced to invite alternatives?" A single miniature figure stands at the board pointing at the questions. Empty miniature chairs face the board. Warm classroom lighting. Visible miniature craft textures throughout.
+Clip 4 — Scene 3 — The Boring Stuff
+- **Base Image:** Generate this image in a 9:16 format: A small-scale handcrafted physical miniature diorama of an unremarkable, solid gray enterprise headquarters. Thick glowing cables run into its foundation. A crowd of tiny miniature figures in business suits hurries past the building, completely ignoring it, their heads down looking at tiny phones. In the left background, seated on a low bench, the miniature Peter figure sits perfectly still, chin resting on his hand, studying the glowing foundation of the building intently while the crowd rushes past. Visible miniature craft textures throughout. Neutral overhead lighting.
+- **Motion Prompt:** Generate a video in a 9:16 format using the attached base image: The camera opens on a static shot of the gray building and the rushing crowd. The miniature figures in business suits walk quickly past the building, completely ignoring it. The building itself and the glowing cables remain completely still. The camera holds this composition, letting the contrast between the rushing crowd and the solid building play out. CRITICAL: Strictly maintain the exact appearance, facial features, and clothing of the Peter figure from the base image. Do not introduce a different character. Do not push or pan the camera toward Peter.
 
-Static 5 — The AI Agent Economy
-- **Headline/Evidence Search:** `AI agents enterprise software CRM ERP data integration 2025 2026 market`
-- **AI Image:** Generate this image in a 9:16 format: A small-scale handcrafted physical miniature diorama of a bustling miniature city at night. At the center, a single massive glowing building towers over smaller structures. Dozens of tiny glowing robot figures stream along miniature roads toward the central building from every direction. The building pulses with warm light. Visible miniature craft textures throughout. The surrounding smaller buildings are dark and quiet by comparison.
+---
 
-Static 6 — The Ticker Board
-- **Headline/Evidence Search:** `Chegg CHGG Salesforce CRM ServiceNow NOW stock price 2025 2026 comparison`
-- **AI Image:** Generate this image in a 9:16 format: A small-scale handcrafted physical miniature split-departures board mounted on a tiny wooden wall — like a vintage airport arrivals board with physical flip tiles. The left column is labeled "AT RISK" in red and shows two tickers — CHGG with a sharply downward red arrow, SOFI with a downward red arrow. The right column is labeled "DEFENSIBLE" in green and shows CRM and NOW each with a flat or upward green arrow. The board is clearly a handcrafted miniature prop with visible craft textures. A warm overhead spotlight illuminates it. No other figures in frame.
+**Static Images — grouped by scene**
+
+Scene 1 — Setup — The Bodies on the Floor
+
+Static 1 — Chegg Chart
+- **AI Image:** Generate this image in a 9:16 format: A small-scale handcrafted physical miniature diorama of a tiny corporate desk. A physical line graph made of red string shows a massive 99% drop. A tiny executive figure sits with head in hands next to the red string. Cold office lighting. Visible miniature craft textures.
+
+Static 2 — Stack Overflow Decline
+- **AI Image:** Generate this image in a 9:16 format: A small-scale handcrafted physical miniature diorama of a dusty, empty auditorium. A single lonely developer figure stands on stage looking out at empty seats. A handcrafted sign reads "Questions: 4,000" in tiny chalk. Abandoned, dim lighting. Visible miniature craft textures.
+
+Scene 2 — Twist — The Spectrum
+
+Static 3 — The Three Questions
+- **AI Image:** Generate this image in a 9:16 format: A small-scale handcrafted physical miniature diorama of a classroom. Three questions are written on a tiny chalkboard at the front: "Can it be vibe-coded?", "Are there switching costs?", "Is it priced to invite alternatives?" A confident executive figure stands pointing at the board. Visible miniature craft textures throughout.
+
+Static 4 — Switching Costs
+- **AI Image:** Generate this image in a 9:16 format: A small-scale handcrafted physical miniature diorama of a massive bank vault door slightly open, revealing glowing data servers inside. A frustrated hacker figure stands outside, unable to bypass the thick walls. Deep shadows, glowing warm light from the vault.
+
+Scene 3 — Payoff — The Backbone
+
+Static 5 — Salesforce 6,000
+- **AI Image:** Generate this image in a 9:16 format: A small-scale handcrafted physical miniature diorama of a celebration outside a fortress. A large handmade banner reads "6,000 NEW AGENT HOMES". Executive figures clink tiny glasses. Warm, confident lighting. Visible miniature craft textures throughout.
+
+Static 6 — The AI Agent Economy
+- **AI Image:** Generate this image in a 9:16 format: A small-scale handcrafted physical miniature diorama of a massive glowing data pipeline connecting a tiny glowing robot to a massive enterprise fortress. The pipeline is made of physical, clear tubing with blue light running inside it. Visible miniature craft textures throughout.
 
 ---
 
@@ -118,10 +130,10 @@ Clip 4: Keep your eye on the boring stuff.
 **Statics**
 Static 1: From $113 to $1. A chatbot did this.
 Static 2: 200,000 monthly questions → under 4,000.
-Static 3: Salesforce: 6,000 new AI customers in one quarter.
-Static 4: Three questions to ask about any SaaS you own.
-Static 5: AI agents run on enterprise data. That's the play.
-Static 6: The market is selling both. Only one deserves it.
+Static 3: Three questions to ask about any SaaS you own.
+Static 4: The real moat is data you can't move.
+Static 5: Salesforce: 6,000 new AI customers in one quarter.
+Static 6: AI agents run on enterprise data. That's the play.
 
 ---
 
